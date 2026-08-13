@@ -7,37 +7,37 @@ Updated on 13 October 2025.
 Checkout the interactive version that you can filter and sort:
 <https://www.awesomecrypto.xyz/>
 
-### [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,884 | 🐛 691 | 🌐 C++ | 📅 2026-08-12
+### [bitcoin](https://github.com/bitcoin/bitcoin) ⭐ 89,889 | 🐛 690 | 🌐 C++ | 📅 2026-08-13
 
 Bitcoin Core integration/staging tree\
 <https://bitcoincore.org/en/download>\
-<https://github.com/bitcoin/bitcoin> ⭐ 89,884 | 🐛 691 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/bitcoin/bitcoin> ⭐ 89,889 | 🐛 690 | 🌐 C++ | 📅 2026-08-13\
 111 stars per week over 773 weeks\
 86,064 stars, 38,014 forks, 4,056 watches\
 [bitcoin](categories/bitcoin.md) category, created 2010-12-19, last commit 2025-10-10, main language C++\ <sub><sup>bitcoin, c-plus-plus, cryptocurrency, cryptography, p2p</sup></sub>
 
-### [sway](https://github.com/FuelLabs/sway) ⭐ 61,514 | 🐛 930 | 🌐 Rust | 📅 2026-08-12 by [FuelLabs](https://github.com/FuelLabs)
+### [sway](https://github.com/FuelLabs/sway) ⭐ 61,513 | 🐛 931 | 🌐 Rust | 📅 2026-08-13 by [FuelLabs](https://github.com/FuelLabs)
 
 🌴 Empowering everyone to build reliable and efficient smart contracts.\
 <https://docs.fuel.network/docs/sway/>\
-<https://github.com/FuelLabs/sway> ⭐ 61,514 | 🐛 930 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/FuelLabs/sway> ⭐ 61,513 | 🐛 931 | 🌐 Rust | 📅 2026-08-13\
 251 stars per week over 246 weeks\
 62,135 stars, 5,431 forks, 303 watches\
 [fuellabs](categories/fuellabs.md) category, created 2021-01-19, last commit 2025-10-11, main language Rust\ <sub><sup>compiler, fuel, language, sway</sup></sub>
 
-### [fuel-core](https://github.com/FuelLabs/fuel-core) ⭐ 56,915 | 🐛 200 | 🌐 Rust | 📅 2026-08-12 by [FuelLabs](https://github.com/FuelLabs)
+### [fuel-core](https://github.com/FuelLabs/fuel-core) ⭐ 56,915 | 🐛 201 | 🌐 Rust | 📅 2026-08-13 by [FuelLabs](https://github.com/FuelLabs)
 
 Rust full node implementation of the Fuel v2 protocol.\
-<https://github.com/FuelLabs/fuel-core> ⭐ 56,915 | 🐛 200 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/FuelLabs/fuel-core> ⭐ 56,915 | 🐛 201 | 🌐 Rust | 📅 2026-08-13\
 215 stars per week over 267 weeks\
 57,511 stars, 2,849 forks, 227 watches\
 [fuellabs](categories/fuellabs.md) category, created 2020-08-27, last commit 2025-10-10, main language Rust\ <sub><sup>blockchain, fuel</sup></sub>
 
-### [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,284 | 🐛 409 | 🌐 Go | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
+### [go-ethereum](https://github.com/ethereum/go-ethereum) ⭐ 51,284 | 🐛 414 | 🌐 Go | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Go implementation of the Ethereum protocol\
 <https://geth.ethereum.org>\
-<https://github.com/ethereum/go-ethereum> ⭐ 51,284 | 🐛 409 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/ethereum/go-ethereum> ⭐ 51,284 | 🐛 414 | 🌐 Go | 📅 2026-08-13\
 81 stars per week over 615 weeks\
 50,007 stars, 21,378 forks, 2,206 watches\
 [ethereum](categories/ethereum.md) category, created 2013-12-26, last commit 2025-10-10, main language Go\ <sub><sup>blockchain, ethereum, geth, go, p2p</sup></sub>
@@ -60,11 +60,11 @@ Fuel Network Typescript SDK\
 43,568 stars, 1,372 forks, 112 watches\
 [fuellabs](categories/fuellabs.md) category, created 2021-09-03, last commit 2025-09-02, main language TypeScript\ <sub><sup>fuel, typescript</sup></sub>
 
-### [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,213 | 🐛 364 | 🌐 Solidity | 📅 2026-08-12 by [OpenZeppelin](https://github.com/OpenZeppelin)
+### [openzeppelin-contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) ⭐ 27,215 | 🐛 363 | 🌐 Solidity | 📅 2026-08-13 by [OpenZeppelin](https://github.com/OpenZeppelin)
 
 OpenZeppelin Contracts is a library for secure smart contract development.\
 <https://openzeppelin.com/contracts>\
-<https://github.com/OpenZeppelin/openzeppelin-contracts> ⭐ 27,213 | 🐛 364 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/OpenZeppelin/openzeppelin-contracts> ⭐ 27,215 | 🐛 363 | 🌐 Solidity | 📅 2026-08-13\
 55 stars per week over 479 weeks\
 26,580 stars, 12,236 forks, 639 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2016-08-01, last commit 2025-10-10, main language Solidity\ <sub><sup>ethereum, evm, security, smart-contracts, solidity</sup></sub>
@@ -78,19 +78,19 @@ SubQuery is an Open, Flexible, Fast and Universal data indexing framework for we
 18,886 stars, 382 forks, 92 watches\
 [subquery](categories/subquery.md) category, created 2020-12-15, last commit 2025-10-06, main language TypeScript
 
-### [fabric](https://github.com/hyperledger/fabric) ⭐ 16,698 | 🐛 205 | 🌐 Go | 📅 2026-08-05 by [hyperledger](https://github.com/hyperledger)
+### [fabric](https://github.com/hyperledger/fabric) ⭐ 16,700 | 🐛 206 | 🌐 Go | 📅 2026-08-05 by [hyperledger](https://github.com/hyperledger)
 
 Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.\
 <https://lf-hyperledger.atlassian.net/wiki/spaces/fabric>\
-<https://github.com/hyperledger/fabric> ⭐ 16,698 | 🐛 205 | 🌐 Go | 📅 2026-08-05\
+<https://github.com/hyperledger/fabric> ⭐ 16,700 | 🐛 206 | 🌐 Go | 📅 2026-08-05\
 34 stars per week over 476 weeks\
 16,318 stars, 9,071 forks, 982 watches\
 [hyperledger](categories/hyperledger.md) category, created 2016-08-25, last commit 2025-09-29, main language Go\ <sub><sup>blockchain, confidentiality, consensus, distributed-ledger, fabric, hyperledger</sup></sub>
 
-### [dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,257 | 🐛 305 | 🌐 C++ | 📅 2026-07-23
+### [dogecoin](https://github.com/dogecoin/dogecoin) ⭐ 15,256 | 🐛 305 | 🌐 C++ | 📅 2026-07-23
 
 very currency\
-<https://github.com/dogecoin/dogecoin> ⭐ 15,257 | 🐛 305 | 🌐 C++ | 📅 2026-07-23\
+<https://github.com/dogecoin/dogecoin> ⭐ 15,256 | 🐛 305 | 🌐 C++ | 📅 2026-07-23\
 24 stars per week over 618 weeks\
 15,079 stars, 3,042 forks, 857 watches\
 [dogecoin](categories/dogecoin.md) category, created 2013-12-06, last commit 2025-05-28, main language C++\ <sub><sup>cryptocurrency, dogecoin, wallet</sup></sub>
@@ -104,28 +104,28 @@ Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketpl
 14,571 stars, 5,269 forks, 333 watches\
 [solana-labs](categories/solana-labs.md) category, created 2018-02-14, last commit 2025-01-22, main language Rust\ <sub><sup>bitcoin, blockchain, ledger, performance-blockchain, rust, rustc, solana</sup></sub>
 
-### [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,031 | 🐛 104 | 📅 2024-06-12 by [smartcontractkit](https://github.com/smartcontractkit)
+### [full-blockchain-solidity-course-js](https://github.com/smartcontractkit/full-blockchain-solidity-course-js) ⭐ 14,032 | 🐛 104 | 📅 2024-06-12 by [smartcontractkit](https://github.com/smartcontractkit)
 
 Learn Blockchain, Solidity, and Full Stack Web3 Development with Javascript\
-<https://github.com/smartcontractkit/full-blockchain-solidity-course-js> ⭐ 14,031 | 🐛 104 | 📅 2024-06-12\
+<https://github.com/smartcontractkit/full-blockchain-solidity-course-js> ⭐ 14,032 | 🐛 104 | 📅 2024-06-12\
 70 stars per week over 194 weeks\
 13,741 stars, 3,252 forks, 261 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2022-01-17, last commit 2024-05-23, main language None\ <sub><sup>alchemy, blockchain, chainlink, dao, defi, eth-security-toolbox, ethereum, hardhat, ipfs, javascript, moralis, nextjs, nft, openzeppelin, reactjs, remix, smart-contracts, solidity, thegraphprotocol, typescript</sup></sub>
 
-### [EIPs](https://github.com/ethereum/EIPs) ⭐ 13,952 | 🐛 504 | 🌐 Python | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [EIPs](https://github.com/ethereum/EIPs) ⭐ 13,952 | 🐛 512 | 🌐 Python | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 The Ethereum Improvement Proposal repository\
 <https://eips.ethereum.org/>\
-<https://github.com/ethereum/EIPs> ⭐ 13,952 | 🐛 504 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/ethereum/EIPs> ⭐ 13,952 | 🐛 512 | 🌐 Python | 📅 2026-08-13\
 26 stars per week over 519 weeks\
 13,567 stars, 5,863 forks, 980 watches\
 [ethereum](categories/ethereum.md) category, created 2015-10-26, last commit 2025-10-12, main language Python
 
-### [metamask-extension](https://github.com/MetaMask/metamask-extension) ⭐ 13,199 | 🐛 2,875 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
+### [metamask-extension](https://github.com/MetaMask/metamask-extension) ⭐ 13,200 | 🐛 2,860 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
 
 :globe\_with\_meridians: :electric\_plug: The MetaMask browser extension enables browsing Ethereum blockchain enabled websites\
 <https://metamask.io>\
-<https://github.com/MetaMask/metamask-extension> ⭐ 13,199 | 🐛 2,875 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/MetaMask/metamask-extension> ⭐ 13,200 | 🐛 2,860 | 🌐 TypeScript | 📅 2026-08-13\
 24 stars per week over 527 weeks\
 12,837 stars, 5,346 forks, 600 watches\
 [metamask](categories/metamask.md) category, created 2015-09-06, last commit 2025-10-11, main language TypeScript\ <sub><sup>brave, chrome, dapp, dapp-developers, edge, ethereum, extension, firefox, opera</sup></sub>
@@ -139,35 +139,35 @@ An open source smart contract platform\
 11,251 stars, 3,668 forks, 994 watches\
 [eosio](categories/eosio.md) category, created 2017-04-05, last commit 2021-07-19, main language C++\ <sub><sup>eosio</sup></sub>
 
-### [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ⭐ 11,214 | 🐛 225 | 📅 2024-04-16 by [smartcontractkit](https://github.com/smartcontractkit)
+### [full-blockchain-solidity-course-py](https://github.com/smartcontractkit/full-blockchain-solidity-course-py) ⭐ 11,213 | 🐛 225 | 📅 2024-04-16 by [smartcontractkit](https://github.com/smartcontractkit)
 
 Ultimate Solidity, Blockchain, and Smart Contract - Beginner to Expert Full Course | Python Edition\
-<https://github.com/smartcontractkit/full-blockchain-solidity-course-py> ⭐ 11,214 | 🐛 225 | 📅 2024-04-16\
+<https://github.com/smartcontractkit/full-blockchain-solidity-course-py> ⭐ 11,213 | 🐛 225 | 📅 2024-04-16\
 50 stars per week over 219 weeks\
 11,143 stars, 2,943 forks, 253 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2021-07-27, last commit 2024-04-10, main language None\ <sub><sup>blockchain, chainlink, dapp, ethereum, smart-contracts, solidity, web3</sup></sub>
 
-### [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) ⭐ 10,799 | 🐛 233 | 🌐 Python | 📅 2026-08-12 by [Chia-Network](https://github.com/Chia-Network)
+### [chia-blockchain](https://github.com/Chia-Network/chia-blockchain) ⭐ 10,799 | 🐛 234 | 🌐 Python | 📅 2026-08-13 by [Chia-Network](https://github.com/Chia-Network)
 
 Chia blockchain python implementation (full node, farmer, harvester, timelord, and wallet)\
-<https://github.com/Chia-Network/chia-blockchain> ⭐ 10,799 | 🐛 233 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/Chia-Network/chia-blockchain> ⭐ 10,799 | 🐛 234 | 🌐 Python | 📅 2026-08-13\
 33 stars per week over 325 weeks\
 10,842 stars, 2,052 forks, 309 watches\
 [chia-network](categories/chia-network.md) category, created 2019-07-16, last commit 2025-10-09, main language Python\ <sub><sup>blockchain, blockchain-network, chia, chia-blockchain, farmer, full-node, harvesters, peer, proof-of-space, proof-of-time, timelord, vdf, wallets</sup></sub>
 
-### [bips](https://github.com/bitcoin/bips) ⭐ 10,908 | 🐛 48 | 🌐 Wikitext | 📅 2026-08-13 by [bitcoin](https://github.com/bitcoin)
+### [bips](https://github.com/bitcoin/bips) ⭐ 10,909 | 🐛 49 | 🌐 Wikitext | 📅 2026-08-13 by [bitcoin](https://github.com/bitcoin)
 
 Bitcoin Improvement Proposals\
-<https://github.com/bitcoin/bips> ⭐ 10,908 | 🐛 48 | 🌐 Wikitext | 📅 2026-08-13\
+<https://github.com/bitcoin/bips> ⭐ 10,909 | 🐛 49 | 🌐 Wikitext | 📅 2026-08-13\
 16 stars per week over 620 weeks\
 10,251 stars, 5,784 forks, 808 watches\
 [bitcoin](categories/bitcoin.md) category, created 2013-11-19, last commit 2025-10-11, main language Wikitext
 
-### [monero](https://github.com/monero-project/monero) ⭐ 10,770 | 🐛 688 | 🌐 C++ | 📅 2026-08-12 by [monero-project](https://github.com/monero-project)
+### [monero](https://github.com/monero-project/monero) ⭐ 10,773 | 🐛 688 | 🌐 C++ | 📅 2026-08-13 by [monero-project](https://github.com/monero-project)
 
 Monero: the secure, private, untraceable cryptocurrency\
 <https://getmonero.org>\
-<https://github.com/monero-project/monero> ⭐ 10,770 | 🐛 688 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/monero-project/monero> ⭐ 10,773 | 🐛 688 | 🌐 C++ | 📅 2026-08-13\
 16 stars per week over 597 weeks\
 9,919 stars, 3,280 forks, 505 watches\
 [monero-project](categories/monero-project.md) category, created 2014-04-30, last commit 2025-10-08, main language C++\ <sub><sup>blockchain, c-plus-plus, cmake, cryptocurrency, cryptography, cryptonote, monero, p2p, privacy, security</sup></sub>
@@ -181,11 +181,11 @@ Monero: the secure, private, untraceable cryptocurrency\
 9,103 stars, 3,425 forks, 148 watches\
 [scaffold-eth](categories/scaffold-eth.md) category, created 2020-04-27, last commit 2024-06-04, main language CSS\ <sub><sup>buidler, create-react-app, dapp, eth, ethereum, ethers, graph, react, scaffoldeth, scaffolding, solidity, uniswap</sup></sub>
 
-### [ethers.js](https://github.com/ethers-io/ethers.js) ⭐ 8,706 | 🐛 656 | 🌐 TypeScript | 📅 2026-06-18 by [ethers-io](https://github.com/ethers-io)
+### [ethers.js](https://github.com/ethers-io/ethers.js) ⭐ 8,708 | 🐛 656 | 🌐 TypeScript | 📅 2026-06-18 by [ethers-io](https://github.com/ethers-io)
 
 Complete Ethereum library and wallet implementation in JavaScript.\
 <https://ethers.org/>\
-<https://github.com/ethers-io/ethers.js> ⭐ 8,706 | 🐛 656 | 🌐 TypeScript | 📅 2026-06-18\
+<https://github.com/ethers-io/ethers.js> ⭐ 8,708 | 🐛 656 | 🌐 TypeScript | 📅 2026-06-18\
 17 stars per week over 482 weeks\
 8,508 stars, 2,024 forks, 107 watches\
 [ethers-io](categories/ethers-io.md) category, created 2016-07-16, last commit 2025-07-01, main language TypeScript\ <sub><sup>blockchain, ethereum, ethers, javascript, typescript, web3</sup></sub>
@@ -198,11 +198,11 @@ Substrate: The platform for blockchain innovators\
 8,414 stars, 2,668 forks, 485 watches\
 [paritytech](categories/paritytech.md) category, created 2017-11-07, last commit 2023-08-25, main language Rust\ <sub><sup>blockchain, client, node, parity, polkadot, substrate</sup></sub>
 
-### [chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 8,236 | 🐛 185 | 🌐 Go | 📅 2026-08-13 by [smartcontractkit](https://github.com/smartcontractkit)
+### [chainlink](https://github.com/smartcontractkit/chainlink) ⭐ 8,237 | 🐛 183 | 🌐 Go | 📅 2026-08-13 by [smartcontractkit](https://github.com/smartcontractkit)
 
 node of the decentralized oracle network, bridging on and off-chain computation\
 <https://chain.link>\
-<https://github.com/smartcontractkit/chainlink> ⭐ 8,236 | 🐛 185 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/smartcontractkit/chainlink> ⭐ 8,237 | 🐛 183 | 🌐 Go | 📅 2026-08-13\
 18 stars per week over 411 weeks\
 7,788 stars, 1,869 forks, 323 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2017-11-20, last commit 2025-10-11, main language Go\ <sub><sup>blockchain, chainlink, ethereum, golang, oracle, solidity</sup></sub>
@@ -224,11 +224,11 @@ Polkadot Node Implementation\
 7,147 stars, 1,568 forks, 527 watches\
 [paritytech](categories/paritytech.md) category, created 2018-08-09, last commit 2023-08-25, main language Rust\ <sub><sup>blockchain, client, node, parity, polkadot, rust</sup></sub>
 
-### [btcpayserver](https://github.com/btcpayserver/btcpayserver) ⭐ 7,704 | 🐛 78 | 🌐 C# | 📅 2026-08-07
+### [btcpayserver](https://github.com/btcpayserver/btcpayserver) ⭐ 7,708 | 🐛 81 | 🌐 C# | 📅 2026-08-07
 
 Accept Bitcoin payments. Free, open-source & self-hosted, Bitcoin payment processor.\
 <https://btcpayserver.org/>\
-<https://github.com/btcpayserver/btcpayserver> ⭐ 7,704 | 🐛 78 | 🌐 C# | 📅 2026-08-07\
+<https://github.com/btcpayserver/btcpayserver> ⭐ 7,708 | 🐛 81 | 🌐 C# | 📅 2026-08-07\
 16 stars per week over 425 weeks\
 7,146 stars, 1,835 forks, 215 watches\
 [btcpayserver](categories/btcpayserver.md) category, created 2017-08-18, last commit 2025-10-07, main language C#\ <sub><sup>bitcoin, bitcoin-payment-gateway, bitcoin-payment-processor, crowdfunding, lightning-network, payment-gateway, point-of-sale, selfhosted</sup></sub>
@@ -241,29 +241,29 @@ The fast, light, and robust client for Ethereum-like networks.\
 6,846 stars, 1,716 forks, 352 watches\
 [openethereum](categories/openethereum.md) category, created 2015-11-23, last commit 2020-02-05, main language Rust\ <sub><sup>blockchain, client, ethereum, node, rust</sup></sub>
 
-### [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) ⭐ 7,045 | 🐛 229 | 🌐 Go | 📅 2026-08-12 by [cosmos](https://github.com/cosmos)
+### [cosmos-sdk](https://github.com/cosmos/cosmos-sdk) ⭐ 7,045 | 🐛 231 | 🌐 Go | 📅 2026-08-12 by [cosmos](https://github.com/cosmos)
 
 :chains: A Framework for Building High Value Public Blockchains :sparkles:\
 <https://cosmos.network/>\
-<https://github.com/cosmos/cosmos-sdk> ⭐ 7,045 | 🐛 229 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/cosmos/cosmos-sdk> ⭐ 7,045 | 🐛 231 | 🌐 Go | 📅 2026-08-12\
 13 stars per week over 505 weeks\
 6,794 stars, 4,064 forks, 251 watches\
 [cosmos](categories/cosmos.md) category, created 2016-02-06, last commit 2025-10-10, main language Go\ <sub><sup>blockchain, cometbft, cosmos-sdk, cryptocurrency, go, golang, tendermint</sup></sub>
 
-### [optimism](https://github.com/ethereum-optimism/optimism) ⭐ 6,463 | 🐛 795 | 🌐 Go | 📅 2026-08-13 by [ethereum-optimism](https://github.com/ethereum-optimism)
+### [optimism](https://github.com/ethereum-optimism/optimism) ⭐ 6,462 | 🐛 783 | 🌐 Go | 📅 2026-08-13 by [ethereum-optimism](https://github.com/ethereum-optimism)
 
 Optimism is Ethereum, scaled.\
 <https://optimism.io>\
-<https://github.com/ethereum-optimism/optimism> ⭐ 6,463 | 🐛 795 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/ethereum-optimism/optimism> ⭐ 6,462 | 🐛 783 | 🌐 Go | 📅 2026-08-13\
 21 stars per week over 296 weeks\
 6,249 stars, 3,745 forks, 128 watches\
 [ethereum-optimism](categories/ethereum-optimism.md) category, created 2020-02-06, last commit 2025-10-11, main language Go\ <sub><sup>ethereum, l2-scaling, optimism, ovm, rollup</sup></sub>
 
-### [slither](https://github.com/crytic/slither) ⭐ 6,343 | 🐛 468 | 🌐 Python | 📅 2026-08-12 by [crytic](https://github.com/crytic)
+### [slither](https://github.com/crytic/slither) ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12 by [crytic](https://github.com/crytic)
 
 Static Analyzer for Solidity and Vyper\
 <https://blog.trailofbits.com/2018/10/19/slither-a-solidity-static-analysis-framework/>\
-<https://github.com/crytic/slither> ⭐ 6,343 | 🐛 468 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/crytic/slither> ⭐ 6,341 | 🐛 470 | 🌐 Python | 📅 2026-08-12\
 16 stars per week over 370 weeks\
 5,937 stars, 1,068 forks, 68 watches\
 [crytic](categories/crytic.md) category, created 2018-09-05, last commit 2025-08-30, main language Python\ <sub><sup>ethereum, solidity, static-analysis, vyper</sup></sub>
@@ -285,11 +285,11 @@ A curated list of awesome things related to learning Zero-Knowledge Proofs (ZKP)
 5,647 stars, 892 forks, 187 watches\
 [matter-labs](categories/matter-labs.md) category, created 2018-11-10, last commit 2024-09-25, main language None\ <sub><sup>explaining-snarks, knowledge-proofs, snark, team-crypto, zk-snarks</sup></sub>
 
-### [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) ⭐ 5,958 | 🐛 171 | 🌐 Markdown | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
+### [ethereum-org-website](https://github.com/ethereum/ethereum-org-website) ⭐ 5,959 | 🐛 170 | 🌐 Markdown | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Ethereum.org is a primary online resource for the Ethereum community.\
 <https://ethereum.org/>\
-<https://github.com/ethereum/ethereum-org-website> ⭐ 5,958 | 🐛 171 | 🌐 Markdown | 📅 2026-08-13\
+<https://github.com/ethereum/ethereum-org-website> ⭐ 5,959 | 🐛 170 | 🌐 Markdown | 📅 2026-08-13\
 13 stars per week over 405 weeks\
 5,644 stars, 5,233 forks, 230 watches\
 [ethereum](categories/ethereum.md) category, created 2018-01-06, last commit 2025-10-09, main language Markdown\ <sub><sup>blockchain, chakra-ui, ethereum, nextjs, react, typescript, web3</sup></sub>
@@ -311,20 +311,20 @@ A python interface for interacting with the Ethereum blockchain and ecosystem.\
 5,397 stars, 1,827 forks, 121 watches\
 [ethereum](categories/ethereum.md) category, created 2016-04-14, last commit 2025-10-09, main language Python
 
-### [interface](https://github.com/Uniswap/interface) ⭐ 5,529 | 🐛 823 | 🌐 TypeScript | 📅 2026-08-10 by [Uniswap](https://github.com/Uniswap)
+### [interface](https://github.com/Uniswap/interface) ⭐ 5,528 | 🐛 823 | 🌐 TypeScript | 📅 2026-08-10 by [Uniswap](https://github.com/Uniswap)
 
 🦄 Open source interfaces for the Uniswap protocol\
 <https://app.uniswap.org>\
-<https://github.com/Uniswap/interface> ⭐ 5,529 | 🐛 823 | 🌐 TypeScript | 📅 2026-08-10\
+<https://github.com/Uniswap/interface> ⭐ 5,528 | 🐛 823 | 🌐 TypeScript | 📅 2026-08-10\
 12 stars per week over 415 weeks\
 5,368 stars, 5,365 forks, 173 watches\
 [uniswap](categories/uniswap.md) category, created 2017-10-29, last commit 2025-10-02, main language TypeScript\ <sub><sup>blockchain, ethereum, uniswap</sup></sub>
 
-### [vyper](https://github.com/vyperlang/vyper) ⭐ 5,178 | 🐛 694 | 🌐 Python | 📅 2026-08-12 by [vyperlang](https://github.com/vyperlang)
+### [vyper](https://github.com/vyperlang/vyper) ⭐ 5,179 | 🐛 693 | 🌐 Python | 📅 2026-08-12 by [vyperlang](https://github.com/vyperlang)
 
 Pythonic Smart Contract Language for the EVM\
 <https://vyperlang.org>\
-<https://github.com/vyperlang/vyper> ⭐ 5,178 | 🐛 694 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/vyperlang/vyper> ⭐ 5,179 | 🐛 693 | 🌐 Python | 📅 2026-08-12\
 10 stars per week over 465 weeks\
 5,108 stars, 866 forks, 154 watches\
 [vyperlang](categories/vyperlang.md) category, created 2016-11-11, last commit 2025-10-06, main language Python\ <sub><sup>ethereum, ethereum-dapp, language, python, vyper</sup></sub>
@@ -365,20 +365,20 @@ A permissioned implementation of Ethereum supporting data privacy\
 4,759 stars, 1,311 forks, 304 watches\
 [consensys](categories/consensys.md) category, created 2016-11-14, last commit 2025-05-27, main language Go\ <sub><sup>blockchain, consensus, eea, enterprise-ethereum, enterprise-ethereum-client, ethereum, go, goquorum, ledger, privacy, protocols-team-goquorum, quorum</sup></sub>
 
-### [litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,597 | 🐛 103 | 🌐 C++ | 📅 2026-07-31 by [litecoin-project](https://github.com/litecoin-project)
+### [litecoin](https://github.com/litecoin-project/litecoin) ⭐ 4,596 | 🐛 103 | 🌐 C++ | 📅 2026-07-31 by [litecoin-project](https://github.com/litecoin-project)
 
 Litecoin source tree\
 <http://www.litecoin.org>\
-<https://github.com/litecoin-project/litecoin> ⭐ 4,597 | 🐛 103 | 🌐 C++ | 📅 2026-07-31\
+<https://github.com/litecoin-project/litecoin> ⭐ 4,596 | 🐛 103 | 🌐 C++ | 📅 2026-07-31\
 6.51 stars per week over 695 weeks\
 4,525 stars, 3,054 forks, 497 watches\
 [litecoin-project](categories/litecoin-project.md) category, created 2012-06-13, last commit 2025-06-28, main language C++\ <sub><sup>cryptocurrency, litecoin</sup></sub>
 
-### [blockscout](https://github.com/blockscout/blockscout) ⭐ 4,634 | 🐛 168 | 🌐 Elixir | 📅 2026-08-12
+### [blockscout](https://github.com/blockscout/blockscout) ⭐ 4,634 | 🐛 159 | 🌐 Elixir | 📅 2026-08-13
 
 Blockchain explorer for Ethereum based network and a tool for inspecting and analyzing EVM based blockchains.\
 <http://docs.blockscout.com>\
-<https://github.com/blockscout/blockscout> ⭐ 4,634 | 🐛 168 | 🌐 Elixir | 📅 2026-08-12\
+<https://github.com/blockscout/blockscout> ⭐ 4,634 | 🐛 159 | 🌐 Elixir | 📅 2026-08-13\
 10 stars per week over 404 weeks\
 4,228 stars, 2,860 forks, 108 watches\
 [blockscout](categories/blockscout.md) category, created 2018-01-12, last commit 2025-10-10, main language Elixir\ <sub><sup>blockchain, elixir, ethereum, explorer</sup></sub>
@@ -409,19 +409,19 @@ Aleth – Ethereum C++ client, tools and libraries\
 3,985 stars, 2,168 forks, 464 watches\
 [ethereum](categories/ethereum.md) category, created 2013-12-26, last commit 2021-10-28, main language C++\ <sub><sup>cpp, ethereum, ethereum-client, evm</sup></sub>
 
-### [java-tron](https://github.com/tronprotocol/java-tron) ⭐ 4,138 | 🐛 29 | 🌐 Java | 📅 2026-08-06 by [tronprotocol](https://github.com/tronprotocol)
+### [java-tron](https://github.com/tronprotocol/java-tron) ⭐ 4,137 | 🐛 29 | 🌐 Java | 📅 2026-08-06 by [tronprotocol](https://github.com/tronprotocol)
 
 Java implementation of the Tron whitepaper\
-<https://github.com/tronprotocol/java-tron> ⭐ 4,138 | 🐛 29 | 🌐 Java | 📅 2026-08-06\
+<https://github.com/tronprotocol/java-tron> ⭐ 4,137 | 🐛 29 | 🌐 Java | 📅 2026-08-06\
 9.75 stars per week over 406 weeks\
 3,964 stars, 1,552 forks, 373 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2017-12-26, last commit 2025-05-12, main language Java
 
-### [consensus-specs](https://github.com/ethereum/consensus-specs) ⭐ 3,958 | 🐛 63 | 🌐 Python | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [consensus-specs](https://github.com/ethereum/consensus-specs) ⭐ 3,958 | 🐛 63 | 🌐 Python | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Ethereum Proof-of-Stake Consensus Specifications\
 <https://ethereum.github.io/consensus-specs/>\
-<https://github.com/ethereum/consensus-specs> ⭐ 3,958 | 🐛 63 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/ethereum/consensus-specs> ⭐ 3,958 | 🐛 63 | 🌐 Python | 📅 2026-08-13\
 10 stars per week over 368 weeks\
 3,808 stars, 1,156 forks, 238 watches\
 [ethereum](categories/ethereum.md) category, created 2018-09-20, last commit 2025-10-10, main language Python
@@ -443,11 +443,11 @@ Hyperledger is a Collaborative Project at The Linux Foundation.\
 3,727 stars, 705 forks, 806 watches\
 [hyperledger](categories/hyperledger.md) category, created 2015-11-03, last commit 2022-01-29, main language None\ <sub><sup>blockchain, distributed-ledger, hyperledger</sup></sub>
 
-### [prysm](https://github.com/OffchainLabs/prysm) ⭐ 3,774 | 🐛 583 | 🌐 Go | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
+### [prysm](https://github.com/OffchainLabs/prysm) ⭐ 3,773 | 🐛 587 | 🌐 Go | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
 
 Go implementation of Ethereum proof of stake\
 <https://www.offchainlabs.com>\
-<https://github.com/OffchainLabs/prysm> ⭐ 3,774 | 🐛 583 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/OffchainLabs/prysm> ⭐ 3,773 | 🐛 587 | 🌐 Go | 📅 2026-08-13\
 9.05 stars per week over 404 weeks\
 3,659 stars, 1,199 forks, 126 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2018-01-11, last commit 2025-10-10, main language Go\ <sub><sup>ethereum</sup></sub>
@@ -460,20 +460,20 @@ NEO Smart Economy\
 3,530 stars, 1,044 forks, 364 watches\
 [neo-project](categories/neo-project.md) category, created 2015-05-31, last commit 2025-05-22, main language C#\ <sub><sup>blockchain, neo</sup></sub>
 
-### [nano-node](https://github.com/nanocurrency/nano-node) ⭐ 3,524 | 🐛 329 | 🌐 C++ | 📅 2026-08-12 by [nanocurrency](https://github.com/nanocurrency)
+### [nano-node](https://github.com/nanocurrency/nano-node) ⭐ 3,524 | 🐛 327 | 🌐 C++ | 📅 2026-08-13 by [nanocurrency](https://github.com/nanocurrency)
 
 Nano is digital currency. Its ticker is: XNO and its currency symbol is: Ӿ\
 <https://nano.org>\
-<https://github.com/nanocurrency/nano-node> ⭐ 3,524 | 🐛 329 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/nanocurrency/nano-node> ⭐ 3,524 | 🐛 327 | 🌐 C++ | 📅 2026-08-13\
 5.9 stars per week over 597 weeks\
 3,523 stars, 797 forks, 249 watches\
 [nanocurrency](categories/nanocurrency.md) category, created 2014-05-01, last commit 2025-09-26, main language C++\ <sub><sup>blockchain, cryptocurrencies, cryptocurrency, nano, nanocurrency</sup></sub>
 
-### [lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,468 | 🐛 508 | 🌐 Rust | 📅 2026-08-12 by [sigp](https://github.com/sigp)
+### [lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,467 | 🐛 506 | 🌐 Rust | 📅 2026-08-13 by [sigp](https://github.com/sigp)
 
 Ethereum consensus client in Rust\
 <https://lighthouse.sigmaprime.io/>\
-<https://github.com/sigp/lighthouse> ⭐ 3,468 | 🐛 508 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/sigp/lighthouse> ⭐ 3,467 | 🐛 506 | 🌐 Rust | 📅 2026-08-13\
 8.74 stars per week over 379 weeks\
 3,314 stars, 925 forks, 70 watches\
 [sigp](categories/sigp.md) category, created 2018-07-06, last commit 2025-09-29, main language Rust\ <sub><sup>eth2, ethereum, proof-of-stake</sup></sub>
@@ -487,37 +487,37 @@ Reference implementation for the peer-to-peer agent that manages the Stellar net
 3,240 stars, 1,038 forks, 264 watches\
 [stellar](categories/stellar.md) category, created 2014-11-24, last commit 2025-10-09, main language C++
 
-### [v2-core](https://github.com/Uniswap/v2-core) ⭐ 3,348 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-21 by [Uniswap](https://github.com/Uniswap)
+### [v2-core](https://github.com/Uniswap/v2-core) ⭐ 3,347 | 🐛 27 | 🌐 TypeScript | 📅 2026-07-21 by [Uniswap](https://github.com/Uniswap)
 
 🦄 🦄  Core smart contracts of Uniswap V2\
 <https://uniswap.org/docs>\
-<https://github.com/Uniswap/v2-core> ⭐ 3,348 | 🐛 28 | 🌐 TypeScript | 📅 2026-07-21\
+<https://github.com/Uniswap/v2-core> ⭐ 3,347 | 🐛 27 | 🌐 TypeScript | 📅 2026-07-21\
 10 stars per week over 319 weeks\
 3,210 stars, 3,402 forks, 95 watches\
 [uniswap](categories/uniswap.md) category, created 2019-08-29, last commit 2022-07-13, main language TypeScript\ <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, smart-contracts</sup></sub>
 
-### [zksync-era](https://github.com/matter-labs/zksync-era) ⭐ 3,239 | 🐛 146 | 🌐 Rust | 📅 2026-08-08 by [matter-labs](https://github.com/matter-labs)
+### [zksync-era](https://github.com/matter-labs/zksync-era) ⭐ 3,238 | 🐛 146 | 🌐 Rust | 📅 2026-08-08 by [matter-labs](https://github.com/matter-labs)
 
 zkSync era\
-<https://github.com/matter-labs/zksync-era> ⭐ 3,239 | 🐛 146 | 🌐 Rust | 📅 2026-08-08\
+<https://github.com/matter-labs/zksync-era> ⭐ 3,238 | 🐛 146 | 🌐 Rust | 📅 2026-08-08\
 23 stars per week over 138 weeks\
 3,205 stars, 2,156 forks, 111 watches\
 [matter-labs](categories/matter-labs.md) category, created 2023-02-15, last commit 2025-10-11, main language Rust
 
-### [storj](https://github.com/storj/storj) ⭐ 3,278 | 🐛 359 | 🌐 Go | 📅 2026-08-12
+### [storj](https://github.com/storj/storj) ⭐ 3,278 | 🐛 359 | 🌐 Go | 📅 2026-08-13
 
 Ongoing Storj v3 development. Decentralized cloud object storage that is affordable, easy to use, private, and secure.\
 <https://storj.io>\
-<https://github.com/storj/storj> ⭐ 3,278 | 🐛 359 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/storj/storj> ⭐ 3,278 | 🐛 359 | 🌐 Go | 📅 2026-08-13\
 8.1 stars per week over 392 weeks\
 3,181 stars, 416 forks, 99 watches\
 [storj](categories/storj.md) category, created 2018-04-04, last commit 2025-10-10, main language Go\ <sub><sup>distributed, distributed-storage, distributed-systems, golang, object-storage, open-source, storage</sup></sub>
 
-### [graph-node](https://github.com/graphprotocol/graph-node) ⭐ 3,149 | 🐛 315 | 🌐 Rust | 📅 2026-08-11 by [graphprotocol](https://github.com/graphprotocol)
+### [graph-node](https://github.com/graphprotocol/graph-node) ⭐ 3,148 | 🐛 315 | 🌐 Rust | 📅 2026-08-11 by [graphprotocol](https://github.com/graphprotocol)
 
 Graph Node indexes data from blockchains such as Ethereum and serves it over GraphQL\
 <https://thegraph.com>\
-<https://github.com/graphprotocol/graph-node> ⭐ 3,149 | 🐛 315 | 🌐 Rust | 📅 2026-08-11\
+<https://github.com/graphprotocol/graph-node> ⭐ 3,148 | 🐛 315 | 🌐 Rust | 📅 2026-08-11\
 7.86 stars per week over 390 weeks\
 3,069 stars, 1,056 forks, 89 watches\
 [graphprotocol](categories/graphprotocol.md) category, created 2018-04-19, last commit 2025-09-25, main language Rust\ <sub><sup>blockchain, developer-tools, ethereum, graphql, graphql-api, graphql-server, ipfs, protocol</sup></sub>
@@ -593,10 +593,10 @@ Create Ethereum-powered apps with one command\
 2,767 stars, 505 forks, 57 watches\
 [paulrberg](categories/paulrberg.md) category, created 2020-01-13, last commit 2023-12-24, main language JavaScript\ <sub><sup>create-react-app, ethereum, graphql, react, the-graph, yarn, yarn-workspaces</sup></sub>
 
-### [ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12 by [ethereumjs](https://github.com/ethereumjs)
+### [ethereumjs-monorepo](https://github.com/ethereumjs/ethereumjs-monorepo) ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13 by [ethereumjs](https://github.com/ethereumjs)
 
 Ethereum L1 Protocol Stack and EVM in TypeScript\
-<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 5.08 stars per week over 535 weeks\
 2,721 stars, 833 forks, 60 watches\
 [ethereumjs](categories/ethereumjs.md) category, created 2015-07-10, last commit 2025-10-09, main language TypeScript\ <sub><sup>bytecode, client, ethereum, ethereumjs, evm, javascript, monorepo, mpt, typescript, virtual-machine, vm</sup></sub>
@@ -635,11 +635,11 @@ Everything there is to know about Flashbots\
 2,585 stars, 294 forks, 128 watches\
 [flashbots](categories/flashbots.md) category, created 2020-11-18, last commit 2024-12-30, main language None
 
-### [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) ⭐ 2,794 | 🐛 2,414 | 🌐 Rust | 📅 2026-08-12 by [paritytech](https://github.com/paritytech)
+### [polkadot-sdk](https://github.com/paritytech/polkadot-sdk) ⭐ 2,794 | 🐛 2,418 | 🌐 Rust | 📅 2026-08-13 by [paritytech](https://github.com/paritytech)
 
 The Parity Polkadot Blockchain SDK\
 <https://polkadot.com/>\
-<https://github.com/paritytech/polkadot-sdk> ⭐ 2,794 | 🐛 2,414 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/paritytech/polkadot-sdk> ⭐ 2,794 | 🐛 2,418 | 🌐 Rust | 📅 2026-08-13\
 21 stars per week over 114 weeks\
 2,479 stars, 1,028 forks, 80 watches\
 [paritytech](categories/paritytech.md) category, created 2023-08-04, last commit 2025-10-10, main language Rust\ <sub><sup>blockchain, cumulus, polkadot, substrate</sup></sub>
@@ -671,11 +671,11 @@ A Python implementation of the Ethereum Virtual Machine\
 2,327 stars, 1,192 forks, 40 watches\
 [uniswap](categories/uniswap.md) category, created 2021-11-04, last commit 2025-05-13, main language Solidity
 
-### [opensea-js](https://github.com/ProjectOpenSea/opensea-js) ⭐ 2,338 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13 by [ProjectOpenSea](https://github.com/ProjectOpenSea)
+### [opensea-js](https://github.com/ProjectOpenSea/opensea-js) ⭐ 2,337 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13 by [ProjectOpenSea](https://github.com/ProjectOpenSea)
 
 TypeScript SDK for the OpenSea marketplace\
 <https://docs.opensea.io/reference>\
-<https://github.com/ProjectOpenSea/opensea-js> ⭐ 2,338 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/ProjectOpenSea/opensea-js> ⭐ 2,337 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-13\
 6.16 stars per week over 377 weeks\
 2,324 stars, 991 forks, 60 watches\
 [projectopensea](categories/projectopensea.md) category, created 2018-07-19, last commit 2025-10-09, main language TypeScript
@@ -712,11 +712,11 @@ DEPRECATED! Java implementation of the Ethereum yellowpaper. For JSON-RPC and ot
 2,191 stars, 1,086 forks, 235 watches\
 [ethereum](categories/ethereum.md) category, created 2014-05-13, last commit 2020-05-20, main language Java
 
-### [dapptools](https://github.com/dapphub/dapptools) ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 by [dapphub](https://github.com/dapphub)
+### [dapptools](https://github.com/dapphub/dapptools) ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25 by [dapphub](https://github.com/dapphub)
 
 Dapp, Seth, Hevm, and more\
 <https://dapp.tools>\
-<https://github.com/dapphub/dapptools> ⭐ 2,123 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25\
+<https://github.com/dapphub/dapptools> ⭐ 2,122 | 🐛 171 | 🌐 Haskell | 📅 2025-02-25\
 5.57 stars per week over 382 weeks\
 2,132 stars, 323 forks, 49 watches\
 [dapphub](categories/dapphub.md) category, created 2018-06-12, last commit 2025-02-25, main language Haskell\ <sub><sup>dapp, ethereum, evm, nix, solc, tools</sup></sub>
@@ -729,19 +729,19 @@ Ethereum Token Contracts\
 2,115 stars, 1,212 forks, 146 watches\
 [consensys](categories/consensys.md) category, created 2015-05-10, last commit 2020-11-13, main language JavaScript
 
-### [simple-arbitrage](https://github.com/flashbots/simple-arbitrage) ⭐ 2,114 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03 by [flashbots](https://github.com/flashbots)
+### [simple-arbitrage](https://github.com/flashbots/simple-arbitrage) ⭐ 2,111 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03 by [flashbots](https://github.com/flashbots)
 
 Example arbitrage bot using Flashbots\
-<https://github.com/flashbots/simple-arbitrage> ⭐ 2,114 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03\
+<https://github.com/flashbots/simple-arbitrage> ⭐ 2,111 | 🐛 20 | 🌐 TypeScript | 📅 2024-02-03\
 8.27 stars per week over 250 weeks\
 2,071 stars, 764 forks, 63 watches\
 [flashbots](categories/flashbots.md) category, created 2020-12-23, last commit 2021-06-21, main language TypeScript
 
-### [mina](https://github.com/MinaProtocol/mina) ⭐ 2,117 | 🐛 892 | 🌐 OCaml | 📅 2026-08-12 by [MinaProtocol](https://github.com/MinaProtocol)
+### [mina](https://github.com/MinaProtocol/mina) ⭐ 2,116 | 🐛 895 | 🌐 OCaml | 📅 2026-08-13 by [MinaProtocol](https://github.com/MinaProtocol)
 
 Mina is a cryptocurrency protocol with a constant size blockchain, improving scaling while maintaining decentralization and security.\
 <https://minaprotocol.com>\
-<https://github.com/MinaProtocol/mina> ⭐ 2,117 | 🐛 892 | 🌐 OCaml | 📅 2026-08-12\
+<https://github.com/MinaProtocol/mina> ⭐ 2,116 | 🐛 895 | 🌐 OCaml | 📅 2026-08-13\
 5.07 stars per week over 407 weeks\
 2,066 stars, 583 forks, 89 watches\
 [minaprotocol](categories/minaprotocol.md) category, created 2017-12-18, last commit 2025-10-09, main language OCaml\ <sub><sup>blockchain, cryptocurrency, mina, ocaml, zk-snarks</sup></sub>
@@ -781,10 +781,10 @@ The Compound On-Chain Protocol\
 1,990 stars, 1,239 forks, 80 watches\
 [compound-finance](categories/compound-finance.md) category, created 2019-08-02, last commit 2022-06-07, main language TypeScript
 
-### [hardhat-template](https://github.com/paulrberg/solidity-template) ⭐ 1,971 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 by [paulrberg](https://github.com/paulrberg)
+### [hardhat-template](https://github.com/paulrberg/solidity-template) ⭐ 1,972 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03 by [paulrberg](https://github.com/paulrberg)
 
 Hardhat-based template for developing Solidity smart contracts\
-<https://github.com/paulrberg/solidity-template> ⭐ 1,971 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03\
+<https://github.com/paulrberg/solidity-template> ⭐ 1,972 | 🐛 2 | 🌐 TypeScript | 📅 2026-02-03\
 7.19 stars per week over 274 weeks\
 1,975 stars, 572 forks, 32 watches\
 [paulrberg](categories/paulrberg.md) category, created 2020-07-06, last commit 2025-03-25, main language TypeScript\ <sub><sup>blockchain, ethereum, ethers, hardhat, smart-contracts, solidity, template, typechain, typescript</sup></sub>
@@ -864,19 +864,19 @@ Cairo is the first Turing-complete language for creating provable programs for g
 1,790 stars, 714 forks, 42 watches\
 [fuellabs](categories/fuellabs.md) category, created 2020-08-27, last commit 2025-09-26, main language None\ <sub><sup>blockchain, fuel, fuelvm</sup></sub>
 
-### [pm](https://github.com/ethereum/pm) ⭐ 1,887 | 🐛 8 | 🌐 Python | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [pm](https://github.com/ethereum/pm) ⭐ 1,886 | 🐛 7 | 🌐 Python | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Project Management: Meeting notes and agenda items\
-<https://github.com/ethereum/pm> ⭐ 1,887 | 🐛 8 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/ethereum/pm> ⭐ 1,886 | 🐛 7 | 🌐 Python | 📅 2026-08-13\
 3.79 stars per week over 471 weeks\
 1,784 stars, 428 forks, 307 watches\
 [ethereum](categories/ethereum.md) category, created 2016-10-01, last commit 2025-10-10, main language Python
 
-### [besu](https://github.com/hyperledger/besu) ⭐ 1,826 | 🐛 183 | 🌐 Java | 📅 2026-08-13 by [hyperledger](https://github.com/hyperledger)
+### [besu](https://github.com/hyperledger/besu) ⭐ 1,827 | 🐛 187 | 🌐 Java | 📅 2026-08-13 by [hyperledger](https://github.com/hyperledger)
 
 An enterprise-grade Java-based, Apache 2.0 licensed Ethereum client <https://wiki.hyperledger.org/display/besu>\
 <https://www.hyperledger.org/projects/besu>\
-<https://github.com/hyperledger/besu> ⭐ 1,826 | 🐛 183 | 🌐 Java | 📅 2026-08-13\
+<https://github.com/hyperledger/besu> ⭐ 1,827 | 🐛 187 | 🌐 Java | 📅 2026-08-13\
 5.39 stars per week over 318 weeks\
 1,717 stars, 974 forks, 58 watches\
 [hyperledger](categories/hyperledger.md) category, created 2019-09-04, last commit 2025-10-10, main language Java\ <sub><sup>besu, blockchain, ethereum, java, p2p</sup></sub>
@@ -922,28 +922,28 @@ The community maintained Solana token registry\
 1,624 stars, 15,081 forks, 87 watches\
 [solana-labs](categories/solana-labs.md) category, created 2020-11-06, last commit 2022-07-03, main language Go\ <sub><sup>dapps, token-list</sup></sub>
 
-### [gnark](https://github.com/Consensys/gnark) ⭐ 1,730 | 🐛 82 | 🌐 Go | 📅 2026-08-11 by [Consensys](https://github.com/Consensys)
+### [gnark](https://github.com/Consensys/gnark) ⭐ 1,731 | 🐛 82 | 🌐 Go | 📅 2026-08-11 by [Consensys](https://github.com/Consensys)
 
 gnark is a fast zk-SNARK library that offers a high-level API to design circuits. The library is open source and developed under the Apache 2.0 license\
 <https://play.gnark.io>\
-<https://github.com/Consensys/gnark> ⭐ 1,730 | 🐛 82 | 🌐 Go | 📅 2026-08-11\
+<https://github.com/Consensys/gnark> ⭐ 1,731 | 🐛 82 | 🌐 Go | 📅 2026-08-11\
 5.52 stars per week over 293 weeks\
 1,623 stars, 482 forks, 32 watches\
 [consensys](categories/consensys.md) category, created 2020-02-24, last commit 2025-09-29, main language Go\ <sub><sup>gnark, golang, plonk, r1cs, zk-rollup, zk-snarks, zkevm, zkp, zksnark</sup></sub>
 
-### [token-lists](https://github.com/Uniswap/token-lists) ⭐ 1,718 | 🐛 460 | 🌐 TypeScript | 📅 2026-03-10 by [Uniswap](https://github.com/Uniswap)
+### [token-lists](https://github.com/Uniswap/token-lists) ⭐ 1,719 | 🐛 461 | 🌐 TypeScript | 📅 2026-03-10 by [Uniswap](https://github.com/Uniswap)
 
 📚 The Token Lists specification\
 <https://tokenlists.org>\
-<https://github.com/Uniswap/token-lists> ⭐ 1,718 | 🐛 460 | 🌐 TypeScript | 📅 2026-03-10\
+<https://github.com/Uniswap/token-lists> ⭐ 1,719 | 🐛 461 | 🌐 TypeScript | 📅 2026-03-10\
 5.77 stars per week over 278 weeks\
 1,606 stars, 1,242 forks, 175 watches\
 [uniswap](categories/uniswap.md) category, created 2020-06-10, last commit 2024-08-07, main language TypeScript\ <sub><sup>erc20, tokens, uniswap</sup></sub>
 
-### [drpc](https://github.com/storj/drpc) ⭐ 1,632 | 🐛 13 | 🌐 Go | 📅 2026-08-10 by [storj](https://github.com/storj)
+### [drpc](https://github.com/storj/drpc) ⭐ 1,629 | 🐛 13 | 🌐 Go | 📅 2026-08-10 by [storj](https://github.com/storj)
 
 drpc is a lightweight, drop-in replacement for gRPC\
-<https://github.com/storj/drpc> ⭐ 1,632 | 🐛 13 | 🌐 Go | 📅 2026-08-10\
+<https://github.com/storj/drpc> ⭐ 1,629 | 🐛 13 | 🌐 Go | 📅 2026-08-10\
 5.02 stars per week over 319 weeks\
 1,606 stars, 63 forks, 47 watches\
 [storj](categories/storj.md) category, created 2019-08-26, last commit 2025-07-14, main language Go\ <sub><sup>drpc, go, grpc, microservices, nanoservices, proto, rpc</sup></sub>
@@ -965,11 +965,11 @@ Swaypplications\
 1,582 stars, 547 forks, 36 watches\
 [fuellabs](categories/fuellabs.md) category, created 2022-05-04, last commit 2024-07-30, main language Rust
 
-### [iotex-core](https://github.com/iotexproject/iotex-core) ⭐ 1,612 | 🐛 63 | 🌐 Go | 📅 2026-08-13 by [iotexproject](https://github.com/iotexproject)
+### [iotex-core](https://github.com/iotexproject/iotex-core) ⭐ 1,613 | 🐛 63 | 🌐 Go | 📅 2026-08-13 by [iotexproject](https://github.com/iotexproject)
 
 Official implementation of IoTeX blockchain protocol in Go. An ultra-efficient EVM blockchain offering 1000 TPS with instant 1-block finality. Perfect for DeFi, DePIN tokenomics, Identities, and any trusted logic requiring Web3 composability\
 <https://iotex.io>\
-<https://github.com/iotexproject/iotex-core> ⭐ 1,612 | 🐛 63 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/iotexproject/iotex-core> ⭐ 1,613 | 🐛 63 | 🌐 Go | 📅 2026-08-13\
 4.01 stars per week over 390 weeks\
 1,564 stars, 356 forks, 94 watches\
 [iotexproject](categories/iotexproject.md) category, created 2018-04-19, last commit 2025-10-02, main language Go\ <sub><sup>blockchain, crypto, cryptography, depin, distributed-systems, internet-of-everything, internet-of-things, machinefi</sup></sub>
@@ -991,19 +991,19 @@ Mirror of the release branches for Tezos, a self-amending cryptographic ledger\
 1,511 stars, 210 forks, 257 watches\
 [tezos](categories/tezos.md) category, created 2016-08-24, last commit 2022-05-30, main language None\ <sub><sup>blockchain, ocaml, smart-contracts, tezos</sup></sub>
 
-### [dash](https://github.com/dashpay/dash) ⭐ 1,540 | 🐛 242 | 🌐 C++ | 📅 2026-08-13 by [dashpay](https://github.com/dashpay)
+### [dash](https://github.com/dashpay/dash) ⭐ 1,540 | 🐛 248 | 🌐 C++ | 📅 2026-08-13 by [dashpay](https://github.com/dashpay)
 
 Dash - Reinventing Cryptocurrency\
 <https://www.dash.org>\
-<https://github.com/dashpay/dash> ⭐ 1,540 | 🐛 242 | 🌐 C++ | 📅 2026-08-13\
+<https://github.com/dashpay/dash> ⭐ 1,540 | 🐛 248 | 🌐 C++ | 📅 2026-08-13\
 2.52 stars per week over 597 weeks\
 1,506 stars, 1,193 forks, 200 watches\
 [dashpay](categories/dashpay.md) category, created 2014-05-01, last commit 2025-10-08, main language C++\ <sub><sup>bitcoin, blockchain, cryptocurrency, dash, governance, instant, masternode, p2p, privacy</sup></sub>
 
-### [uAgents](https://github.com/fetchai/uAgents) ⭐ 1,637 | 🐛 54 | 🌐 Python | 📅 2026-08-12 by [fetchai](https://github.com/fetchai)
+### [uAgents](https://github.com/fetchai/uAgents) ⭐ 1,637 | 🐛 54 | 🌐 Python | 📅 2026-08-13 by [fetchai](https://github.com/fetchai)
 
 A fast and lightweight framework for creating decentralized agents with ease.\
-<https://github.com/fetchai/uAgents> ⭐ 1,637 | 🐛 54 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/fetchai/uAgents> ⭐ 1,637 | 🐛 54 | 🌐 Python | 📅 2026-08-13\
 9.42 stars per week over 158 weeks\
 1,494 stars, 328 forks, 26 watches\
 [fetchai](categories/fetchai.md) category, created 2022-09-28, last commit 2025-10-10, main language Python\ <sub><sup>agents, ai, ai-agents, llm, multi-agent-systems</sup></sub>
@@ -1017,11 +1017,11 @@ Comprehensive list of known attack vectors and common anti-patterns\
 1,493 stars, 223 forks, 63 watches\
 [sigp](categories/sigp.md) category, created 2018-05-30, last commit 2021-03-04, main language None
 
-### [bee](https://github.com/ethersphere/bee) ⭐ 1,484 | 🐛 127 | 🌐 Go | 📅 2026-08-12 by [ethersphere](https://github.com/ethersphere)
+### [bee](https://github.com/ethersphere/bee) ⭐ 1,483 | 🐛 128 | 🌐 Go | 📅 2026-08-13 by [ethersphere](https://github.com/ethersphere)
 
 Bee is a Swarm client implemented in Go. It’s the basic building block for the Swarm network: a private; decentralized; and self-sustaining network for permissionless publishing and access to your (application) data.\
 <https://www.ethswarm.org>\
-<https://github.com/ethersphere/bee> ⭐ 1,484 | 🐛 127 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/ethersphere/bee> ⭐ 1,483 | 🐛 128 | 🌐 Go | 📅 2026-08-13\
 4.94 stars per week over 299 weeks\
 1,478 stars, 376 forks, 54 watches\
 [ethersphere](categories/ethersphere.md) category, created 2020-01-17, last commit 2025-10-06, main language Go\ <sub><sup>bee, ethereum, go, golang, swarm</sup></sub>
@@ -1034,11 +1034,11 @@ Lightweight JS Wallet for Node and the browser\
 1,474 stars, 510 forks, 76 watches\
 [consensys](categories/consensys.md) category, created 2015-06-12, last commit 2019-07-16, main language JavaScript
 
-### [harmony](https://github.com/harmony-one/harmony) ⭐ 1,447 | 🐛 158 | 🌐 Go | 📅 2026-08-12 by [harmony-one](https://github.com/harmony-one)
+### [harmony](https://github.com/harmony-one/harmony) ⭐ 1,448 | 🐛 158 | 🌐 Go | 📅 2026-08-12 by [harmony-one](https://github.com/harmony-one)
 
 The core protocol of harmony\
 <https://harmony.one>\
-<https://github.com/harmony-one/harmony> ⭐ 1,447 | 🐛 158 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/harmony-one/harmony> ⭐ 1,448 | 🐛 158 | 🌐 Go | 📅 2026-08-12\
 3.79 stars per week over 385 weeks\
 1,461 stars, 293 forks, 88 watches\
 [harmony-one](categories/harmony-one.md) category, created 2018-05-22, last commit 2025-06-06, main language Go\ <sub><sup>blockchain, bls, consensus, distributed-ledger-technology, harmony, harmony-protocol, pbft, proof-of-stake, sharding</sup></sub>
@@ -1050,11 +1050,11 @@ The core protocol of harmony\
 1,457 stars, 38 forks, 11 watches\
 [ripple](categories/ripple.md) category, created 2023-01-31, last commit 2025-09-17, main language TypeScript
 
-### [nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,586 | 🐛 400 | 🌐 C# | 📅 2026-08-13 by [NethermindEth](https://github.com/NethermindEth)
+### [nethermind](https://github.com/NethermindEth/nethermind) ⭐ 1,586 | 🐛 411 | 🌐 C# | 📅 2026-08-13 by [NethermindEth](https://github.com/NethermindEth)
 
 A robust execution client for Ethereum node operators.\
 <https://nethermind.io/nethermind-client>\
-<https://github.com/NethermindEth/nethermind> ⭐ 1,586 | 🐛 400 | 🌐 C# | 📅 2026-08-13\
+<https://github.com/NethermindEth/nethermind> ⭐ 1,586 | 🐛 411 | 🌐 C# | 📅 2026-08-13\
 3.43 stars per week over 424 weeks\
 1,455 stars, 564 forks, 52 watches\
 [nethermindeth](categories/nethermindeth.md) category, created 2017-08-23, last commit 2025-10-12, main language C#\ <sub><sup>blockchain, eth, ethereum, ethereum-client, evm</sup></sub>
@@ -1085,11 +1085,11 @@ Farm 🍅 on the Fuel network.\
 1,421 stars, 312 forks, 45 watches\
 [fuellabs](categories/fuellabs.md) category, created 2023-02-01, last commit 2025-05-07, main language TypeScript\ <sub><sup>blockchain</sup></sub>
 
-### [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 269 | 🌐 Go | 📅 2026-08-13 by [algorand](https://github.com/algorand)
+### [go-algorand](https://github.com/algorand/go-algorand) ⭐ 1,432 | 🐛 270 | 🌐 Go | 📅 2026-08-13 by [algorand](https://github.com/algorand)
 
 Algorand's official implementation in Go.\
 <https://developer.algorand.org/>\
-<https://github.com/algorand/go-algorand> ⭐ 1,432 | 🐛 269 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/algorand/go-algorand> ⭐ 1,432 | 🐛 270 | 🌐 Go | 📅 2026-08-13\
 4.3 stars per week over 330 weeks\
 1,421 stars, 517 forks, 72 watches\
 [algorand](categories/algorand.md) category, created 2019-06-11, last commit 2025-10-10, main language Go
@@ -1127,19 +1127,19 @@ This repository hosts the lectures of the Plutus Pioneers Program. This program 
 1,383 stars, 1,019 forks, 150 watches\
 [input-output-hk](categories/input-output-hk.md) category, created 2021-03-30, last commit 2025-02-22, main language Haskell\ <sub><sup>cardano, dapps, plutus, plutus-pioneer-program, smart-contracts</sup></sub>
 
-### [spellbook](https://github.com/duneanalytics/spellbook) ⭐ 1,510 | 🐛 53 | 🌐 Python | 📅 2026-08-12 by [duneanalytics](https://github.com/duneanalytics)
+### [spellbook](https://github.com/duneanalytics/spellbook) ⭐ 1,510 | 🐛 51 | 🌐 Python | 📅 2026-08-13 by [duneanalytics](https://github.com/duneanalytics)
 
 SQL views for Dune\
-<https://github.com/duneanalytics/spellbook> ⭐ 1,510 | 🐛 53 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/duneanalytics/spellbook> ⭐ 1,510 | 🐛 51 | 🌐 Python | 📅 2026-08-13\
 4.65 stars per week over 297 weeks\
 1,382 stars, 1,345 forks, 35 watches\
 [duneanalytics](categories/duneanalytics.md) category, created 2020-01-31, last commit 2025-10-10, main language Python
 
-### [AElf](https://github.com/AElfProject/AElf) ⭐ 1,267 | 🐛 88 | 🌐 C# | 📅 2026-04-17 by [AElfProject](https://github.com/AElfProject)
+### [AElf](https://github.com/AElfProject/AElf) ⭐ 1,265 | 🐛 88 | 🌐 C# | 📅 2026-04-17 by [AElfProject](https://github.com/AElfProject)
 
 An AI-enhanced cloud-native layer-1 blockchain network. \
 <https://aelf.com/>\
-<https://github.com/AElfProject/AElf> ⭐ 1,267 | 🐛 88 | 🌐 C# | 📅 2026-04-17\
+<https://github.com/AElfProject/AElf> ⭐ 1,265 | 🐛 88 | 🌐 C# | 📅 2026-04-17\
 3.34 stars per week over 411 weeks\
 1,374 stars, 263 forks, 160 watches\
 [aelfproject](categories/aelfproject.md) category, created 2017-11-25, last commit 2025-06-25, main language C#\ <sub><sup>blockchain, clusters, csharp, dotnet-core, multi-chain, scalability</sup></sub>
@@ -1185,11 +1185,11 @@ MEV-Boost allows Ethereum validators to source high-MEV blocks from a competitiv
 1,353 stars, 269 forks, 44 watches\
 [flashbots](categories/flashbots.md) category, created 2021-11-17, last commit 2025-10-09, main language Go\ <sub><sup>ethereum, mev, mev-boost</sup></sub>
 
-### [lodestar](https://github.com/ChainSafe/lodestar) ⭐ 1,417 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-13 by [ChainSafe](https://github.com/ChainSafe)
+### [lodestar](https://github.com/ChainSafe/lodestar) ⭐ 1,417 | 🐛 356 | 🌐 TypeScript | 📅 2026-08-13 by [ChainSafe](https://github.com/ChainSafe)
 
 🌟 Ethereum Consensus client for the Zig and TypeScript ecosystem\
 <https://lodestar.chainsafe.io>\
-<https://github.com/ChainSafe/lodestar> ⭐ 1,417 | 🐛 355 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/ChainSafe/lodestar> ⭐ 1,417 | 🐛 356 | 🌐 TypeScript | 📅 2026-08-13\
 3.54 stars per week over 381 weeks\
 1,348 stars, 404 forks, 32 watches\
 [chainsafe](categories/chainsafe.md) category, created 2018-06-22, last commit 2025-10-09, main language TypeScript\ <sub><sup>beacon-chain, blockchain, eth2, ethereum, proof-of-stake, serenity, typescript</sup></sub>
@@ -1202,20 +1202,20 @@ An Analysis Tool for Smart Contracts\
 1,339 stars, 313 forks, 55 watches\
 [enzymefinance](categories/enzymefinance.md) category, created 2017-03-17, last commit 2020-11-06, main language JavaScript\ <sub><sup>blockchain, ethereum, security-analyzers, smart-contracts</sup></sub>
 
-### [holochain](https://github.com/holochain/holochain) ⭐ 1,389 | 🐛 269 | 🌐 Rust | 📅 2026-08-12
+### [holochain](https://github.com/holochain/holochain) ⭐ 1,389 | 🐛 267 | 🌐 Rust | 📅 2026-08-13
 
 The current, performant & industrial strength version of Holochain on Rust.\
 <https://holochain.org>\
-<https://github.com/holochain/holochain> ⭐ 1,389 | 🐛 269 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/holochain/holochain> ⭐ 1,389 | 🐛 267 | 🌐 Rust | 📅 2026-08-13\
 4.33 stars per week over 299 weeks\
 1,298 stars, 169 forks, 72 watches\
 [holochain](categories/holochain.md) category, created 2020-01-13, last commit 2025-10-10, main language Rust\ <sub><sup>blockchain, dapps, dapps-development, distributed-computing, holochain, holochain-rust, p2p, rust, web3</sup></sub>
 
-### [cosmos](https://github.com/cosmos/cosmos) ⭐ 1,302 | 🐛 72 | 🌐 TeX | 📅 2024-04-23
+### [cosmos](https://github.com/cosmos/cosmos) ⭐ 1,299 | 🐛 72 | 🌐 TeX | 📅 2024-04-23
 
 Internet of Blockchains ⚛\
 <https://cosmos.network>\
-<https://github.com/cosmos/cosmos> ⭐ 1,302 | 🐛 72 | 🌐 TeX | 📅 2024-04-23\
+<https://github.com/cosmos/cosmos> ⭐ 1,299 | 🐛 72 | 🌐 TeX | 📅 2024-04-23\
 2.64 stars per week over 490 weeks\
 1,296 stars, 324 forks, 147 watches\
 [cosmos](categories/cosmos.md) category, created 2016-05-19, last commit 2019-07-14, main language TeX\ <sub><sup>blockchain, cryptocurrency, proof-of-stake, tendermint</sup></sub>
@@ -1261,20 +1261,20 @@ End-to-End Example Soroban Dapp\
 1,274 stars, 1,033 forks, 24 watches\
 [stellar](categories/stellar.md) category, created 2022-09-02, last commit 2024-01-24, main language Rust
 
-### [bitcoin-abc](https://github.com/Bitcoin-ABC/bitcoin-abc) ⭐ 1,299 | 🐛 111 | 🌐 C++ | 📅 2026-08-12 by [Bitcoin-ABC](https://github.com/Bitcoin-ABC)
+### [bitcoin-abc](https://github.com/Bitcoin-ABC/bitcoin-abc) ⭐ 1,299 | 🐛 111 | 🌐 C++ | 📅 2026-08-13 by [Bitcoin-ABC](https://github.com/Bitcoin-ABC)
 
 Bitcoin ABC develops node software and infrastructure for the eCash project. This a mirror of the official Bitcoin-ABC repository.  Please see README.md\
 <https://reviews.bitcoinabc.org>\
-<https://github.com/Bitcoin-ABC/bitcoin-abc> ⭐ 1,299 | 🐛 111 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/Bitcoin-ABC/bitcoin-abc> ⭐ 1,299 | 🐛 111 | 🌐 C++ | 📅 2026-08-13\
 2.86 stars per week over 440 weeks\
 1,262 stars, 784 forks, 140 watches\
 [bitcoin-abc](categories/bitcoin-abc.md) category, created 2017-05-01, last commit 2025-10-10, main language C++\ <sub><sup>bitcoin, bitcoin-abc, ecash, xec</sup></sub>
 
-### [daedalus](https://github.com/input-output-hk/daedalus) ⭐ 1,245 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12 by [input-output-hk](https://github.com/input-output-hk)
+### [daedalus](https://github.com/input-output-hk/daedalus) ⭐ 1,245 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-13 by [input-output-hk](https://github.com/input-output-hk)
 
 The open source cryptocurrency wallet for ada, built to grow with the community\
 <https://daedaluswallet.io/>\
-<https://github.com/input-output-hk/daedalus> ⭐ 1,245 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/input-output-hk/daedalus> ⭐ 1,245 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-13\
 2.65 stars per week over 470 weeks\
 1,249 stars, 301 forks, 94 watches\
 [input-output-hk](categories/input-output-hk.md) category, created 2016-10-05, last commit 2025-08-29, main language TypeScript
@@ -1287,37 +1287,37 @@ A Desktop port of React Native, driven by Qt, forked from Canonical\
 1,236 stars, 86 forks, 95 watches\
 [status-im](categories/status-im.md) category, created 2017-07-28, last commit 2021-02-16, main language JavaScript
 
-### [v2-periphery](https://github.com/Uniswap/v2-periphery) ⭐ 1,269 | 🐛 50 | 🌐 Solidity | 📅 2026-07-22 by [Uniswap](https://github.com/Uniswap)
+### [v2-periphery](https://github.com/Uniswap/v2-periphery) ⭐ 1,265 | 🐛 50 | 🌐 Solidity | 📅 2026-07-22 by [Uniswap](https://github.com/Uniswap)
 
 🎚 Peripheral smart contracts for interacting with Uniswap V2\
 <https://uniswap.org/docs>\
-<https://github.com/Uniswap/v2-periphery> ⭐ 1,269 | 🐛 50 | 🌐 Solidity | 📅 2026-07-22\
+<https://github.com/Uniswap/v2-periphery> ⭐ 1,265 | 🐛 50 | 🌐 Solidity | 📅 2026-07-22\
 4.03 stars per week over 304 weeks\
 1,229 stars, 1,776 forks, 49 watches\
 [uniswap](categories/uniswap.md) category, created 2019-12-09, last commit 2022-07-13, main language Solidity\ <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, smart-contracts</sup></sub>
 
-### [qtum](https://github.com/qtumproject/qtum) ⭐ 1,212 | 🐛 40 | 🌐 C++ | 📅 2026-08-12 by [qtumproject](https://github.com/qtumproject)
+### [qtum](https://github.com/qtumproject/qtum) ⭐ 1,212 | 🐛 40 | 🌐 C++ | 📅 2026-08-13 by [qtumproject](https://github.com/qtumproject)
 
 Qtum Core Wallet\
 <https://qtum.org>\
-<https://github.com/qtumproject/qtum> ⭐ 1,212 | 🐛 40 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/qtumproject/qtum> ⭐ 1,212 | 🐛 40 | 🌐 C++ | 📅 2026-08-13\
 2.72 stars per week over 449 weeks\
 1,220 stars, 404 forks, 183 watches\
 [qtumproject](categories/qtumproject.md) category, created 2017-03-03, last commit 2025-01-27, main language C++\ <sub><sup>bitcoin, c-plus-plus, cryptocurrency, cryptography, ethereum, p2p, qtum</sup></sub>
 
-### [eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) ⭐ 1,307 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
+### [eth-phishing-detect](https://github.com/MetaMask/eth-phishing-detect) ⭐ 1,309 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
 
 Utility for detecting phishing domains targeting Web3 users\
-<https://github.com/MetaMask/eth-phishing-detect> ⭐ 1,307 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/MetaMask/eth-phishing-detect> ⭐ 1,309 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-13\
 2.84 stars per week over 427 weeks\
 1,213 stars, 1,017 forks, 134 watches\
 [metamask](categories/metamask.md) category, created 2017-08-03, last commit 2025-10-12, main language TypeScript
 
-### [ckb](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 71 | 🌐 Rust | 📅 2026-08-11 by [nervosnetwork](https://github.com/nervosnetwork)
+### [ckb](https://github.com/nervosnetwork/ckb) ⭐ 1,220 | 🐛 71 | 🌐 Rust | 📅 2026-08-11 by [nervosnetwork](https://github.com/nervosnetwork)
 
 The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.\
 <https://www.nervos.org>\
-<https://github.com/nervosnetwork/ckb> ⭐ 1,219 | 🐛 71 | 🌐 Rust | 📅 2026-08-11\
+<https://github.com/nervosnetwork/ckb> ⭐ 1,220 | 🐛 71 | 🌐 Rust | 📅 2026-08-11\
 3.33 stars per week over 359 weeks\
 1,197 stars, 242 forks, 66 watches\
 [nervosnetwork](categories/nervosnetwork.md) category, created 2018-11-19, last commit 2025-10-11, main language Rust\ <sub><sup>blockchain, ckb, nervos, rust</sup></sub>
@@ -1419,11 +1419,11 @@ DEPRECATED. The Holochain framework implemented in rust with a redux style inter
 1,112 stars, 266 forks, 128 watches\
 [holochain](categories/holochain.md) category, created 2018-05-15, last commit 2020-10-01, main language Rust\ <sub><sup>blockchain, dapps, dht, holochain, rust, wasm</sup></sub>
 
-### [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) ⭐ 1,170 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-12 by [OpenZeppelin](https://github.com/OpenZeppelin)
+### [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable) ⭐ 1,170 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-13 by [OpenZeppelin](https://github.com/OpenZeppelin)
 
 Upgradeable variant of OpenZeppelin Contracts, meant for use in upgradeable contracts.\
 <https://openzeppelin.com/contracts>\
-<https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable> ⭐ 1,170 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-12\
+<https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable> ⭐ 1,170 | 🐛 11 | 🌐 JavaScript | 📅 2026-08-13\
 2.94 stars per week over 377 weeks\
 1,110 stars, 486 forks, 39 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2018-07-20, last commit 2025-10-10, main language JavaScript
@@ -1478,11 +1478,11 @@ Collection of APIs provided by Ethereum execution layer clients\
 1,062 stars, 454 forks, 54 watches\
 [ethereum](categories/ethereum.md) category, created 2021-06-16, last commit 2025-10-08, main language Io
 
-### [bor](https://github.com/0xPolygon/bor) ⭐ 1,100 | 🐛 37 | 🌐 Go | 📅 2026-08-13 by [0xPolygon](https://github.com/0xPolygon)
+### [bor](https://github.com/0xPolygon/bor) ⭐ 1,101 | 🐛 39 | 🌐 Go | 📅 2026-08-13 by [0xPolygon](https://github.com/0xPolygon)
 
 Official repository for the Polygon Blockchain\
 <https://polygon.technology/>\
-<https://github.com/0xPolygon/bor> ⭐ 1,100 | 🐛 37 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/0xPolygon/bor> ⭐ 1,101 | 🐛 39 | 🌐 Go | 📅 2026-08-13\
 3.39 stars per week over 310 weeks\
 1,054 stars, 553 forks, 56 watches\
 [0xpolygon](categories/0xpolygon.md) category, created 2019-10-29, last commit 2025-10-10, main language Go\ <sub><sup>bor, ethereum, go, matic</sup></sub>
@@ -1529,11 +1529,11 @@ Ewasm Design Overview and Specification\
 1,020 stars, 127 forks, 80 watches\
 [ewasm](categories/ewasm.md) category, created 2016-03-05, last commit 2020-01-23, main language None\ <sub><sup>eth1, ethereum, ewasm, specification, webassembly</sup></sub>
 
-### [arweave](https://github.com/ArweaveTeam/arweave) ⭐ 1,065 | 🐛 113 | 🌐 Erlang | 📅 2026-06-25 by [ArweaveTeam](https://github.com/ArweaveTeam)
+### [arweave](https://github.com/ArweaveTeam/arweave) ⭐ 1,064 | 🐛 113 | 🌐 Erlang | 📅 2026-06-25 by [ArweaveTeam](https://github.com/ArweaveTeam)
 
 The Arweave server and App Developer Toolkit.\
 <https://www.arweave.org>\
-<https://github.com/ArweaveTeam/arweave> ⭐ 1,065 | 🐛 113 | 🌐 Erlang | 📅 2026-06-25\
+<https://github.com/ArweaveTeam/arweave> ⭐ 1,064 | 🐛 113 | 🌐 Erlang | 📅 2026-06-25\
 2.36 stars per week over 427 weeks\
 1,010 stars, 226 forks, 59 watches\
 [arweaveteam](categories/arweaveteam.md) category, created 2017-08-02, last commit 2025-10-09, main language Erlang
@@ -1547,18 +1547,18 @@ A collection of scripts and notebooks to help you get started quickly.\
 1,009 stars, 293 forks, 71 watches\
 [numerai](categories/numerai.md) category, created 2017-01-06, last commit 2025-10-08, main language Jupyter Notebook\ <sub><sup>cryptocurrency, machine-learning, numerai, quant-finance</sup></sub>
 
-### [execution-specs](https://github.com/ethereum/execution-specs) ⭐ 1,176 | 🐛 421 | 🌐 Python | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [execution-specs](https://github.com/ethereum/execution-specs) ⭐ 1,177 | 🐛 419 | 🌐 Python | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Specification for the Execution Layer. Tracking network upgrades.\
-<https://github.com/ethereum/execution-specs> ⭐ 1,176 | 🐛 421 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/ethereum/execution-specs> ⭐ 1,177 | 🐛 419 | 🌐 Python | 📅 2026-08-13\
 3.73 stars per week over 269 weeks\
 1,005 stars, 348 forks, 44 watches\
 [ethereum](categories/ethereum.md) category, created 2020-08-11, last commit 2025-10-11, main language Python
 
-### [ibc](https://github.com/cosmos/ibc) ⭐ 1,017 | 🐛 48 | 🌐 Go | 📅 2026-08-13 by [cosmos](https://github.com/cosmos)
+### [ibc](https://github.com/cosmos/ibc) ⭐ 1,017 | 🐛 43 | 🌐 Go | 📅 2026-08-13 by [cosmos](https://github.com/cosmos)
 
 Interchain Standards (ICS) for the Cosmos network & interchain ecosystem.\
-<https://github.com/cosmos/ibc> ⭐ 1,017 | 🐛 48 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/cosmos/ibc> ⭐ 1,017 | 🐛 43 | 🌐 Go | 📅 2026-08-13\
 2.88 stars per week over 348 weeks\
 1,003 stars, 448 forks, 72 watches\
 [cosmos](categories/cosmos.md) category, created 2019-02-08, last commit 2025-07-03, main language TeX\ <sub><sup>blockchain, cosmos, distributed-ledger, interchain</sup></sub>
@@ -1589,11 +1589,11 @@ zkSync Era Documentation\
 968 stars, 775 forks, 52 watches\
 [matter-labs](categories/matter-labs.md) category, created 2021-10-08, last commit 2024-06-11, main language JavaScript\ <sub><sup>team-core, team-frontend, zksync, zksync-v2</sup></sub>
 
-### [rocketpool](https://github.com/rocket-pool/rocketpool) ⭐ 985 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-06 by [rocket-pool](https://github.com/rocket-pool)
+### [rocketpool](https://github.com/rocket-pool/rocketpool) ⭐ 984 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-06 by [rocket-pool](https://github.com/rocket-pool)
 
 Decentralised Ethereum Liquid Staking Protocol.\
 <https://www.rocketpool.net>\
-<https://github.com/rocket-pool/rocketpool> ⭐ 985 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-06\
+<https://github.com/rocket-pool/rocketpool> ⭐ 984 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-06\
 2.21 stars per week over 438 weeks\
 967 stars, 232 forks, 75 watches\
 [rocket-pool](categories/rocket-pool.md) category, created 2017-05-19, last commit 2025-08-18, main language Solidity\ <sub><sup>beacon-chain, casper, ethereum, pool, pos, proof-of-stake</sup></sub>
@@ -1648,17 +1648,17 @@ OpenZeppelin Contracts written in Cairo for Starknet, a decentralized ZK Rollup\
 889 stars, 392 forks, 16 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2021-08-18, last commit 2025-10-10, main language Rust\ <sub><sup>cairo, ethereum, security, smart-contracts, starknet</sup></sub>
 
-### [eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) ⭐ 911 | 🐛 70 | 🌐 Go | 📅 2025-11-12 by [gobitfly](https://github.com/gobitfly)
+### [eth2-beaconchain-explorer](https://github.com/gobitfly/eth2-beaconchain-explorer) ⭐ 910 | 🐛 70 | 🌐 Go | 📅 2025-11-12 by [gobitfly](https://github.com/gobitfly)
 
 Open source golang based explorer for the eth2 beacon chain\
-<https://github.com/gobitfly/eth2-beaconchain-explorer> ⭐ 911 | 🐛 70 | 🌐 Go | 📅 2025-11-12\
+<https://github.com/gobitfly/eth2-beaconchain-explorer> ⭐ 910 | 🐛 70 | 🌐 Go | 📅 2025-11-12\
 2.87 stars per week over 307 weeks\
 883 stars, 489 forks, 52 watches\
 [gobitfly](categories/gobitfly.md) category, created 2019-11-21, last commit 2025-10-09, main language Go\ <sub><sup>block-explorer, eth2, eth2-beacon-chain, golang</sup></sub>
 
-### [spl-token-wallet](https://github.com/project-serum/spl-token-wallet) ⭐ 874 | 🐛 162 | 🌐 JavaScript | 📅 2022-12-18 by [project-serum](https://github.com/project-serum)
+### [spl-token-wallet](https://github.com/project-serum/spl-token-wallet) ⭐ 875 | 🐛 162 | 🌐 JavaScript | 📅 2022-12-18 by [project-serum](https://github.com/project-serum)
 
-<https://github.com/project-serum/spl-token-wallet> ⭐ 874 | 🐛 162 | 🌐 JavaScript | 📅 2022-12-18\
+<https://github.com/project-serum/spl-token-wallet> ⭐ 875 | 🐛 162 | 🌐 JavaScript | 📅 2022-12-18\
 3.24 stars per week over 270 weeks\
 878 stars, 392 forks, 47 watches\
 [project-serum](categories/project-serum.md) category, created 2020-08-05, last commit 2022-11-02, main language JavaScript
@@ -1722,18 +1722,18 @@ A curated list of awesome projects and resources relating to the Internet Comput
 848 stars, 269 forks, 41 watches\
 [flashbots](categories/flashbots.md) category, created 2021-06-24, last commit 2024-11-27, main language Python
 
-### [nitro](https://github.com/OffchainLabs/nitro) ⭐ 938 | 🐛 63 | 🌐 Go | 📅 2026-08-12 by [OffchainLabs](https://github.com/OffchainLabs)
+### [nitro](https://github.com/OffchainLabs/nitro) ⭐ 938 | 🐛 51 | 🌐 Go | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
 
 Nitro goes vroom and fixes everything\
-<https://github.com/OffchainLabs/nitro> ⭐ 938 | 🐛 63 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/OffchainLabs/nitro> ⭐ 938 | 🐛 51 | 🌐 Go | 📅 2026-08-13\
 4.01 stars per week over 210 weeks\
 845 stars, 642 forks, 54 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2021-09-27, last commit 2025-10-10, main language Go
 
-### [ontology](https://github.com/ontio/ontology) ⭐ 881 | 🐛 68 | 🌐 Go | 📅 2026-07-29 by [ontio](https://github.com/ontio)
+### [ontology](https://github.com/ontio/ontology) ⭐ 880 | 🐛 68 | 🌐 Go | 📅 2026-07-29 by [ontio](https://github.com/ontio)
 
 Official Go implementation of the Ontology protocol. <https://dev-docs.ont.io/#/>\
-<https://github.com/ontio/ontology> ⭐ 881 | 🐛 68 | 🌐 Go | 📅 2026-07-29\
+<https://github.com/ontio/ontology> ⭐ 880 | 🐛 68 | 🌐 Go | 📅 2026-07-29\
 2.15 stars per week over 391 weeks\
 841 stars, 295 forks, 119 watches\
 [ontio](categories/ontio.md) category, created 2018-04-13, last commit 2025-05-27, main language Go\ <sub><sup>blockchain, distributed-ledger, golang, high-performance, ontology</sup></sub>
@@ -1747,11 +1747,11 @@ The Halo2 zero-knowledge proving system\
 836 stars, 560 forks, 31 watches\
 [zcash](categories/zcash.md) category, created 2020-08-24, last commit 2025-08-06, main language Rust\ <sub><sup>cryptocurrency, cryptography, zcash, zero-knowledge</sup></sub>
 
-### [client](https://github.com/aragon/client) ⭐ 827 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26 by [aragon](https://github.com/aragon)
+### [client](https://github.com/aragon/client) ⭐ 826 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26 by [aragon](https://github.com/aragon)
 
 (Aragon 1) Create and manage decentralized organizations on Ethereum.\
 <https://client.aragon.org>\
-<https://github.com/aragon/client> ⭐ 827 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26\
+<https://github.com/aragon/client> ⭐ 826 | 🐛 232 | 🌐 JavaScript | 📅 2026-03-26\
 1.86 stars per week over 449 weeks\
 835 stars, 272 forks, 83 watches\
 [aragon](categories/aragon.md) category, created 2017-03-01, last commit 2025-02-25, main language JavaScript\ <sub><sup>aragon, blockchain, dapp, ethereum, organizations, startups</sup></sub>
@@ -1789,10 +1789,10 @@ Rust JSON-RPC implementation\
 816 stars, 270 forks, 50 watches\
 [paritytech](categories/paritytech.md) category, created 2016-11-21, last commit 2023-10-26, main language Rust
 
-### [thor](https://github.com/vechain/thor) ⭐ 812 | 🐛 6 | 🌐 Go | 📅 2026-08-12 by [vechain](https://github.com/vechain)
+### [thor](https://github.com/vechain/thor) ⭐ 811 | 🐛 6 | 🌐 Go | 📅 2026-08-12 by [vechain](https://github.com/vechain)
 
 A general-purpose blockchain that is highly compatible with the Ethereum ecosystem\
-<https://github.com/vechain/thor> ⭐ 812 | 🐛 6 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/vechain/thor> ⭐ 811 | 🐛 6 | 🌐 Go | 📅 2026-08-12\
 2.11 stars per week over 383 weeks\
 807 stars, 267 forks, 123 watches\
 [vechain](categories/vechain.md) category, created 2018-06-08, last commit 2025-09-29, main language Go\ <sub><sup>blockchain, node, thor, vechain</sup></sub>
@@ -1805,11 +1805,11 @@ Go implementation of MEV-Auction for Ethereum\
 806 stars, 194 forks, 40 watches\
 [flashbots](categories/flashbots.md) category, created 2020-11-11, last commit 2022-12-17, main language Go
 
-### [evm.codes](https://github.com/duneanalytics/evm.codes) ⭐ 826 | 🐛 55 | 🌐 TypeScript | 📅 2026-07-13 by [duneanalytics](https://github.com/duneanalytics)
+### [evm.codes](https://github.com/duneanalytics/evm.codes) ⭐ 826 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-13 by [duneanalytics](https://github.com/duneanalytics)
 
 Source for evm.codes an Ethereum Virtual Machine Opcodes Interactive Reference\
 <https://evm.codes/>\
-<https://github.com/duneanalytics/evm.codes> ⭐ 826 | 🐛 55 | 🌐 TypeScript | 📅 2026-07-13\
+<https://github.com/duneanalytics/evm.codes> ⭐ 826 | 🐛 52 | 🌐 TypeScript | 📅 2026-07-13\
 3.81 stars per week over 209 weeks\
 798 stars, 178 forks, 22 watches\
 [duneanalytics](categories/duneanalytics.md) category, created 2021-10-08, last commit 2025-04-10, main language TypeScript\ <sub><sup>blockchain, ethereum, evm, evm-chains</sup></sub>
@@ -1860,7 +1860,7 @@ Extend the functionality of MetaMask using Snaps\
 ### [ethereumjs-tx](https://github.com/ethereumjs/ethereumjs-tx) ⚠️ Archived by [ethereumjs](https://github.com/ethereumjs)
 
 Project is in active development and has been moved to the EthereumJS VM monorepo.\
-<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/tx> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/tx> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/ethereumjs/ethereumjs-tx> ⚠️ Archived\
 1.45 stars per week over 540 weeks\
 782 stars, 241 forks, 57 watches\
@@ -1874,11 +1874,11 @@ Blockchain educational resources curated by the OpenZeppelin team\
 776 stars, 153 forks, 42 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2018-11-12, last commit 2023-02-08, main language None\ <sub><sup>awesome-list, blockchain, ethereum, openzeppelin</sup></sub>
 
-### [metamask-docs](https://github.com/MetaMask/metamask-docs) ⭐ 858 | 🐛 50 | 🌐 MDX | 📅 2026-08-09 by [MetaMask](https://github.com/MetaMask)
+### [metamask-docs](https://github.com/MetaMask/metamask-docs) ⭐ 858 | 🐛 34 | 🌐 MDX | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
 
 Developer documentation for MetaMask\
 <https://docs.metamask.io>\
-<https://github.com/MetaMask/metamask-docs> ⭐ 858 | 🐛 50 | 🌐 MDX | 📅 2026-08-09\
+<https://github.com/MetaMask/metamask-docs> ⭐ 858 | 🐛 34 | 🌐 MDX | 📅 2026-08-13\
 2.16 stars per week over 358 weeks\
 772 stars, 1,506 forks, 103 watches\
 [metamask](categories/metamask.md) category, created 2018-12-01, last commit 2025-10-09, main language MDX\ <sub><sup>blockchain, cryptocurrency, documentation, ethereum, metamask</sup></sub>
@@ -1910,11 +1910,11 @@ Official repository for core projects comprising the Celo platform\
 760 stars, 435 forks, 60 watches\
 [celo-org](categories/celo-org.md) category, created 2019-07-18, last commit 2025-10-02, main language Solidity\ <sub><sup>blockchain, celo, crypto, cryptocurrency, dapp, ethereum, financial-inclusion, smart-contracts, stablecoin</sup></sub>
 
-### [status-go](https://github.com/status-im/status-go) ⭐ 762 | 🐛 349 | 🌐 Go | 📅 2026-08-12 by [status-im](https://github.com/status-im)
+### [status-go](https://github.com/status-im/status-go) ⭐ 762 | 🐛 348 | 🌐 Go | 📅 2026-08-13 by [status-im](https://github.com/status-im)
 
 The "backend" library for Status Apps\
 <https://status.im>\
-<https://github.com/status-im/status-go> ⭐ 762 | 🐛 349 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/status-im/status-go> ⭐ 762 | 🐛 348 | 🌐 Go | 📅 2026-08-13\
 1.55 stars per week over 486 weeks\
 754 stars, 261 forks, 95 watches\
 [status-im](categories/status-im.md) category, created 2016-06-13, last commit 2025-10-10, main language Go\ <sub><sup>blockchain, cryptocurrency, ethereum, go, golang</sup></sub>
@@ -1945,11 +1945,11 @@ Audited pure JS library containing all Ethereum-related cryptographic primitives
 746 stars, 105 forks, 18 watches\
 [ethereum](categories/ethereum.md) category, created 2019-09-25, last commit 2025-04-25, main language TypeScript\ <sub><sup>aes, bip32, bls12-381, bn254, cryptography, ethereum, keccak, prng, ripemd160, scrypt, secp256k1, sha256, sha3, typescript</sup></sub>
 
-### [teku](https://github.com/Consensys/teku) ⭐ 777 | 🐛 244 | 🌐 Java | 📅 2026-08-12 by [Consensys](https://github.com/Consensys)
+### [teku](https://github.com/Consensys/teku) ⭐ 777 | 🐛 243 | 🌐 Java | 📅 2026-08-13 by [Consensys](https://github.com/Consensys)
 
 Open-source Ethereum consensus client written in Java\
 <https://consensys.io/teku>\
-<https://github.com/Consensys/teku> ⭐ 777 | 🐛 244 | 🌐 Java | 📅 2026-08-12\
+<https://github.com/Consensys/teku> ⭐ 777 | 🐛 243 | 🌐 Java | 📅 2026-08-13\
 1.98 stars per week over 370 weeks\
 735 stars, 350 forks, 31 watches\
 [consensys](categories/consensys.md) category, created 2018-09-07, last commit 2025-10-10, main language Java\ <sub><sup>beacon-chain, consensys, eth2, eth2-clients, ethereum, java, proof-of-stake, teku</sup></sub>
@@ -1994,10 +1994,10 @@ Aave Protocol V2\
 718 stars, 884 forks, 32 watches\
 [olympusdao](categories/olympusdao.md) category, created 2021-02-23, last commit 2022-10-12, main language Solidity
 
-### [wallet-cli](https://github.com/tronprotocol/wallet-cli) ⭐ 812 | 🐛 1 | 🌐 Java | 📅 2026-08-13 by [tronprotocol](https://github.com/tronprotocol)
+### [wallet-cli](https://github.com/tronprotocol/wallet-cli) ⭐ 813 | 🐛 3 | 🌐 Java | 📅 2026-08-13 by [tronprotocol](https://github.com/tronprotocol)
 
 Wallet CLI\
-<https://github.com/tronprotocol/wallet-cli> ⭐ 812 | 🐛 1 | 🌐 Java | 📅 2026-08-13\
+<https://github.com/tronprotocol/wallet-cli> ⭐ 813 | 🐛 3 | 🌐 Java | 📅 2026-08-13\
 1.76 stars per week over 401 weeks\
 708 stars, 532 forks, 73 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2018-01-31, last commit 2025-08-04, main language Java
@@ -2054,10 +2054,10 @@ Casper contract, and related software and tests\
 689 stars, 172 forks, 145 watches\
 [ethereum](categories/ethereum.md) category, created 2017-04-16, last commit 2019-03-28, main language Python
 
-### [btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) ⭐ 748 | 🐛 134 | 🌐 Shell | 📅 2026-08-12 by [btcpayserver](https://github.com/btcpayserver)
+### [btcpayserver-docker](https://github.com/btcpayserver/btcpayserver-docker) ⭐ 748 | 🐛 133 | 🌐 Shell | 📅 2026-08-13 by [btcpayserver](https://github.com/btcpayserver)
 
 Docker resources for hosting BTCPayServer easily\
-<https://github.com/btcpayserver/btcpayserver-docker> ⭐ 748 | 🐛 134 | 🌐 Shell | 📅 2026-08-12\
+<https://github.com/btcpayserver/btcpayserver-docker> ⭐ 748 | 🐛 133 | 🌐 Shell | 📅 2026-08-13\
 1.63 stars per week over 421 weeks\
 689 stars, 403 forks, 38 watches\
 [btcpayserver](categories/btcpayserver.md) category, created 2017-09-14, last commit 2025-10-11, main language Shell
@@ -2071,11 +2071,11 @@ Orchid: VPN, Personal Firewall\
 688 stars, 114 forks, 55 watches\
 [orchidtechnologies](categories/orchidtechnologies.md) category, created 2019-08-20, last commit 2025-08-28, main language Dart\ <sub><sup>firewall, packet-analyzer, packet-capture, personal-firewall, traffic-analyzer, traffic-sniffer, vpn</sup></sub>
 
-### [aragonOS](https://github.com/aragon/aragonOS) ⭐ 681 | 🐛 65 | 🌐 Solidity | 📅 2023-03-08 by [aragon](https://github.com/aragon)
+### [aragonOS](https://github.com/aragon/aragonOS) ⭐ 680 | 🐛 65 | 🌐 Solidity | 📅 2023-03-08 by [aragon](https://github.com/aragon)
 
 (Aragon 1) Reference implementation for aragonOS: a Solidity framework for building complex dApps and protocols\
 <https://hack.aragon.org/docs/aragonos-intro.html>\
-<https://github.com/aragon/aragonOS> ⭐ 681 | 🐛 65 | 🌐 Solidity | 📅 2023-03-08\
+<https://github.com/aragon/aragonOS> ⭐ 680 | 🐛 65 | 🌐 Solidity | 📅 2023-03-08\
 1.55 stars per week over 443 weeks\
 688 stars, 243 forks, 51 watches\
 [aragon](categories/aragon.md) category, created 2017-04-10, last commit 2020-09-29, main language Solidity\ <sub><sup>aragon, aragon-app, ethereum, solidity</sup></sub>
@@ -2089,11 +2089,11 @@ Bitcoin SV (Satoshi Vision) is the original Bitcoin. This Github repository prov
 679 stars, 314 forks, 107 watches\
 [bitcoin-sv](categories/bitcoin-sv.md) category, created 2018-08-29, last commit 2025-09-02, main language C++\ <sub><sup>bitcoin, bitcoin-node, bitcoin-sv</sup></sub>
 
-### [forest](https://github.com/ChainSafe/forest) ⭐ 697 | 🐛 129 | 🌐 Rust | 📅 2026-08-13 by [ChainSafe](https://github.com/ChainSafe)
+### [forest](https://github.com/ChainSafe/forest) ⭐ 697 | 🐛 127 | 🌐 Rust | 📅 2026-08-13 by [ChainSafe](https://github.com/ChainSafe)
 
 🌲 Rust Filecoin Node Implementation\
 <https://forest.chainsafe.io>\
-<https://github.com/ChainSafe/forest> ⭐ 697 | 🐛 129 | 🌐 Rust | 📅 2026-08-13\
+<https://github.com/ChainSafe/forest> ⭐ 697 | 🐛 127 | 🌐 Rust | 📅 2026-08-13\
 2.2 stars per week over 308 weeks\
 679 stars, 180 forks, 26 watches\
 [chainsafe](categories/chainsafe.md) category, created 2019-11-11, last commit 2025-10-10, main language Rust\ <sub><sup>blockchain, filecoin, p2p, rust</sup></sub>
@@ -2107,19 +2107,19 @@ Current work on BTCGPU\
 678 stars, 345 forks, 138 watches\
 [btcgpu](categories/btcgpu.md) category, created 2017-07-23, last commit 2024-12-22, main language C++
 
-### [js-stellar-sdk](https://github.com/stellar/js-stellar-sdk) ⭐ 693 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-12 by [stellar](https://github.com/stellar)
+### [js-stellar-sdk](https://github.com/stellar/js-stellar-sdk) ⭐ 693 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-13 by [stellar](https://github.com/stellar)
 
 Main Stellar client library for the JavaScript language.\
 <https://stellar.github.io/js-stellar-sdk/>\
-<https://github.com/stellar/js-stellar-sdk> ⭐ 693 | 🐛 126 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/stellar/js-stellar-sdk> ⭐ 693 | 🐛 127 | 🌐 TypeScript | 📅 2026-08-13\
 1.22 stars per week over 548 weeks\
 670 stars, 337 forks, 78 watches\
 [stellar](categories/stellar.md) category, created 2015-04-09, last commit 2025-10-08, main language JavaScript\ <sub><sup>blockchain, cryptocurrency, horizon, javascript, sdk, stellar</sup></sub>
 
-### [etherchain-light](https://github.com/gobitfly/etherchain-light) ⭐ 669 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-06 by [gobitfly](https://github.com/gobitfly)
+### [etherchain-light](https://github.com/gobitfly/etherchain-light) ⭐ 668 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-06 by [gobitfly](https://github.com/gobitfly)
 
 Lightweight Ethereum blockchain explorer\
-<https://github.com/gobitfly/etherchain-light> ⭐ 669 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-06\
+<https://github.com/gobitfly/etherchain-light> ⭐ 668 | 🐛 27 | 🌐 JavaScript | 📅 2023-01-06\
 1.48 stars per week over 448 weeks\
 665 stars, 324 forks, 38 watches\
 [gobitfly](categories/gobitfly.md) category, created 2017-03-09, last commit 2018-11-28, main language JavaScript\ <sub><sup>blockchain-explorer, ethereum, parity, web3</sup></sub>
@@ -2167,10 +2167,10 @@ Plugins for Hardhat and Foundry to deploy and manage upgradeable contracts on Et
 647 stars, 288 forks, 18 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2020-06-19, last commit 2025-07-03, main language TypeScript
 
-### [abi-decoder](https://github.com/Consensys/abi-decoder) ⭐ 642 | 🐛 64 | 🌐 JavaScript | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
+### [abi-decoder](https://github.com/Consensys/abi-decoder) ⭐ 641 | 🐛 64 | 🌐 JavaScript | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
 
 Nodejs and Javascript library for decoding data params and events from ethereum transactions\
-<https://github.com/Consensys/abi-decoder> ⭐ 642 | 🐛 64 | 🌐 JavaScript | 📅 2024-06-24\
+<https://github.com/Consensys/abi-decoder> ⭐ 641 | 🐛 64 | 🌐 JavaScript | 📅 2024-06-24\
 1.43 stars per week over 451 weeks\
 645 stars, 222 forks, 24 watches\
 [consensys](categories/consensys.md) category, created 2017-02-15, last commit 2020-02-04, main language JavaScript\ <sub><sup>ethereum, ethereum-dapp</sup></sub>
@@ -2191,11 +2191,11 @@ Documentations of project TRON\
 638 stars, 520 forks, 88 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2018-03-23, last commit 2024-05-15, main language PHP
 
-### [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 660 | 🐛 224 | 🌐 Nim | 📅 2026-08-12 by [status-im](https://github.com/status-im)
+### [nimbus-eth2](https://github.com/status-im/nimbus-eth2) ⭐ 660 | 🐛 226 | 🌐 Nim | 📅 2026-08-13 by [status-im](https://github.com/status-im)
 
 Nim implementation of the Ethereum Beacon Chain\
 <https://nimbus.guide>\
-<https://github.com/status-im/nimbus-eth2> ⭐ 660 | 🐛 224 | 🌐 Nim | 📅 2026-08-12\
+<https://github.com/status-im/nimbus-eth2> ⭐ 660 | 🐛 226 | 🌐 Nim | 📅 2026-08-13\
 1.67 stars per week over 377 weeks\
 631 stars, 293 forks, 37 watches\
 [status-im](categories/status-im.md) category, created 2018-07-20, last commit 2025-09-26, main language Nim\ <sub><sup>beacon-chain, eth2, eth2-clients, ethereum, hacktoberfest, nim, nimbus, nimbus-eth2, proof-of-stake, serenity</sup></sub>
@@ -2259,11 +2259,11 @@ Write Parachains on Substrate\
 620 stars, 393 forks, 20 watches\
 [uniswap](categories/uniswap.md) category, created 2020-09-02, last commit 2022-11-21, main language TypeScript
 
-### [nimbus-eth1](https://github.com/status-im/nimbus-eth1) ⭐ 625 | 🐛 114 | 🌐 Nim | 📅 2026-08-13 by [status-im](https://github.com/status-im)
+### [nimbus-eth1](https://github.com/status-im/nimbus-eth1) ⭐ 625 | 🐛 113 | 🌐 Nim | 📅 2026-08-13 by [status-im](https://github.com/status-im)
 
 Nimbus: an Ethereum Execution Client for Resource-Restricted Devices\
 <https://status-im.github.io/nimbus-eth1/>\
-<https://github.com/status-im/nimbus-eth1> ⭐ 625 | 🐛 114 | 🌐 Nim | 📅 2026-08-13\
+<https://github.com/status-im/nimbus-eth1> ⭐ 625 | 🐛 113 | 🌐 Nim | 📅 2026-08-13\
 1.51 stars per week over 405 weeks\
 614 stars, 146 forks, 72 watches\
 [status-im](categories/status-im.md) category, created 2018-01-04, last commit 2025-10-10, main language Nim\ <sub><sup>android, blockchain, ethereum, fluffy, hacktoberfest, ios, mobile, nim, nim-lang, nim-language, nimbus, portal-network, raspberry-pi</sup></sub>
@@ -2285,20 +2285,20 @@ General repository of the project dappnode\
 613 stars, 113 forks, 48 watches\
 [dappnode](categories/dappnode.md) category, created 2018-02-27, last commit 2025-09-30, main language Shell
 
-### [l2beat](https://github.com/l2beat/l2beat) ⭐ 656 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-12
+### [l2beat](https://github.com/l2beat/l2beat) ⭐ 656 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-13
 
 L2BEAT is an analytics and research website about Ethereum layer two (L2) scaling solutions.\
 <https://l2beat.com>\
-<https://github.com/l2beat/l2beat> ⭐ 656 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/l2beat/l2beat> ⭐ 656 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-13\
 2.58 stars per week over 237 weeks\
 613 stars, 584 forks, 14 watches\
 [l2beat](categories/l2beat.md) category, created 2021-03-24, last commit 2025-10-11, main language TypeScript\ <sub><sup>ethereum, layer-2, research</sup></sub>
 
-### [ibc-go](https://github.com/cosmos/ibc-go) ⭐ 645 | 🐛 32 | 🌐 Go | 📅 2026-08-12 by [cosmos](https://github.com/cosmos)
+### [ibc-go](https://github.com/cosmos/ibc-go) ⭐ 645 | 🐛 37 | 🌐 Go | 📅 2026-08-13 by [cosmos](https://github.com/cosmos)
 
 Inter-Blockchain Communication Protocol (IBC) implementation in Golang.\
 <https://ibcprotocol.dev/>\
-<https://github.com/cosmos/ibc-go> ⭐ 645 | 🐛 32 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/cosmos/ibc-go> ⭐ 645 | 🐛 37 | 🌐 Go | 📅 2026-08-13\
 2.51 stars per week over 243 weeks\
 611 stars, 726 forks, 41 watches\
 [cosmos](categories/cosmos.md) category, created 2021-02-10, last commit 2025-10-10, main language Go\ <sub><sup>cosmos</sup></sub>
@@ -2314,7 +2314,7 @@ Common tests for all Ethereum implementations\
 ### [ethereumjs-util](https://github.com/ethereumjs/ethereumjs-util) ⚠️ Archived by [ethereumjs](https://github.com/ethereumjs)
 
 Project is in active development and has been moved to the EthereumJS monorepo.\
-<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/ethereumjs/ethereumjs-util> ⚠️ Archived\
 1.09 stars per week over 559 weeks\
 609 stars, 275 forks, 37 watches\
@@ -2455,10 +2455,10 @@ A collection of functions for signing and verifying data with Ethereum keys.\
 579 stars, 97 forks, 30 watches\
 [liskhq](categories/liskhq.md) category, created 2017-11-02, last commit 2024-08-21, main language JavaScript\ <sub><sup>blockchain, blockchain-wallet, desktop, electron, javascript, legacy, lisk, ui</sup></sub>
 
-### [stellar-protocol](https://github.com/stellar/stellar-protocol) ⭐ 630 | 🐛 55 | 🌐 RPC | 📅 2026-08-11 by [stellar](https://github.com/stellar)
+### [stellar-protocol](https://github.com/stellar/stellar-protocol) ⭐ 630 | 🐛 55 | 🌐 RPC | 📅 2026-08-13 by [stellar](https://github.com/stellar)
 
 Developer discussion about possible changes to the protocol.\
-<https://github.com/stellar/stellar-protocol> ⭐ 630 | 🐛 55 | 🌐 RPC | 📅 2026-08-11\
+<https://github.com/stellar/stellar-protocol> ⭐ 630 | 🐛 55 | 🌐 RPC | 📅 2026-08-13\
 0.99 stars per week over 583 weeks\
 578 stars, 346 forks, 99 watches\
 [stellar](categories/stellar.md) category, created 2014-08-10, last commit 2025-10-09, main language RPC
@@ -2489,11 +2489,11 @@ Composable building blocks for Ethereum contracts\
 571 stars, 389 forks, 47 watches\
 [ethereum](categories/ethereum.md) category, created 2020-02-10, last commit 2025-10-06, main language Python\ <sub><sup>archived, deprecated</sup></sub>
 
-### [go-livepeer](https://github.com/livepeer/go-livepeer) ⭐ 584 | 🐛 386 | 🌐 Go | 📅 2026-08-12 by [livepeer](https://github.com/livepeer)
+### [go-livepeer](https://github.com/livepeer/go-livepeer) ⭐ 585 | 🐛 387 | 🌐 Go | 📅 2026-08-12 by [livepeer](https://github.com/livepeer)
 
 Official Go implementation of the Livepeer protocol\
 <http://livepeer.org>\
-<https://github.com/livepeer/go-livepeer> ⭐ 584 | 🐛 386 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/livepeer/go-livepeer> ⭐ 585 | 🐛 387 | 🌐 Go | 📅 2026-08-12\
 1.32 stars per week over 433 weeks\
 571 stars, 202 forks, 38 watches\
 [livepeer](categories/livepeer.md) category, created 2017-06-19, last commit 2025-10-02, main language Go\ <sub><sup>broadcasting, ethereum, hacktoberfest, hacktoberfest2022, transcode, video-stream</sup></sub>
@@ -2522,10 +2522,10 @@ Loose collection of Solidity example code\
 568 stars, 158 forks, 25 watches\
 [ethereum](categories/ethereum.md) category, created 2016-11-11, last commit 2022-09-07, main language Solidity
 
-### [ethers-provider-flashbots-bundle](https://github.com/flashbots/ethers-provider-flashbots-bundle) ⭐ 569 | 🐛 41 | 🌐 TypeScript | 📅 2024-03-27 by [flashbots](https://github.com/flashbots)
+### [ethers-provider-flashbots-bundle](https://github.com/flashbots/ethers-provider-flashbots-bundle) ⭐ 567 | 🐛 41 | 🌐 TypeScript | 📅 2024-03-27 by [flashbots](https://github.com/flashbots)
 
 Flashbots provider for ethers.js\
-<https://github.com/flashbots/ethers-provider-flashbots-bundle> ⭐ 569 | 🐛 41 | 🌐 TypeScript | 📅 2024-03-27\
+<https://github.com/flashbots/ethers-provider-flashbots-bundle> ⭐ 567 | 🐛 41 | 🌐 TypeScript | 📅 2024-03-27\
 2.24 stars per week over 253 weeks\
 567 stars, 222 forks, 23 watches\
 [flashbots](categories/flashbots.md) category, created 2020-12-04, last commit 2024-02-05, main language TypeScript
@@ -2538,17 +2538,17 @@ gnark-crypto provides elliptic curve and pairing-based cryptography on BN, BLS12
 567 stars, 219 forks, 12 watches\
 [consensys](categories/consensys.md) category, created 2020-03-23, last commit 2025-10-01, main language Go\ <sub><sup>biginteger, bls12-377, bls12-381, bn254, crypto, cryptography, ecc, eddsa, elliptic-curves, finite-field-arithmetic, fri, go, golang, hash-to-curve, mimc, pairing, snark, zkp, zksnark</sup></sub>
 
-### [motoko](https://github.com/dfinity/motoko) ⭐ 588 | 🐛 256 | 🌐 OCaml | 📅 2026-08-12 by [dfinity](https://github.com/dfinity)
+### [motoko](https://github.com/dfinity/motoko) ⭐ 588 | 🐛 254 | 🌐 OCaml | 📅 2026-08-13 by [dfinity](https://github.com/dfinity)
 
 Simple high-level language for writing Internet Computer canisters\
-<https://github.com/dfinity/motoko> ⭐ 588 | 🐛 256 | 🌐 OCaml | 📅 2026-08-12\
+<https://github.com/dfinity/motoko> ⭐ 588 | 🐛 254 | 🌐 OCaml | 📅 2026-08-13\
 1.46 stars per week over 387 weeks\
 566 stars, 117 forks, 36 watches\
 [dfinity](categories/dfinity.md) category, created 2018-05-11, last commit 2025-10-10, main language OCaml\ <sub><sup>internet-computer, motoko, motoko-language, programming-language</sup></sub>
 
-### [chain-registry](https://github.com/cosmos/chain-registry) ⭐ 574 | 🐛 109 | 🌐 Python | 📅 2026-08-12 by [cosmos](https://github.com/cosmos)
+### [chain-registry](https://github.com/cosmos/chain-registry) ⭐ 574 | 🐛 109 | 🌐 Python | 📅 2026-08-13 by [cosmos](https://github.com/cosmos)
 
-<https://github.com/cosmos/chain-registry> ⭐ 574 | 🐛 109 | 🌐 Python | 📅 2026-08-12\
+<https://github.com/cosmos/chain-registry> ⭐ 574 | 🐛 109 | 🌐 Python | 📅 2026-08-13\
 2.47 stars per week over 228 weeks\
 566 stars, 1,450 forks, 32 watches\
 [cosmos](categories/cosmos.md) category, created 2021-05-25, last commit 2025-10-10, main language Python
@@ -2595,18 +2595,18 @@ Go implementation of a node that operates the Polygon zkEVM Network\
 554 stars, 752 forks, 17 watches\
 [0xpolygon](categories/0xpolygon.md) category, created 2021-11-09, last commit 2025-01-17, main language Go
 
-### [flow-go](https://github.com/onflow/flow-go) ⭐ 572 | 🐛 285 | 🌐 Go | 📅 2026-08-12 by [onflow](https://github.com/onflow)
+### [flow-go](https://github.com/onflow/flow-go) ⭐ 572 | 🐛 283 | 🌐 Go | 📅 2026-08-13 by [onflow](https://github.com/onflow)
 
 A fast, secure, and developer-friendly blockchain built to support the next generation of games, apps, and the digital assets that power them.\
-<https://github.com/onflow/flow-go> ⭐ 572 | 🐛 285 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/onflow/flow-go> ⭐ 572 | 🐛 283 | 🌐 Go | 📅 2026-08-13\
 2.1 stars per week over 263 weeks\
 553 stars, 197 forks, 52 watches\
 [onflow](categories/onflow.md) category, created 2020-09-22, last commit 2025-10-10, main language Go\ <sub><sup>blockchain, flow, go, golang, onflow</sup></sub>
 
-### [ERCs](https://github.com/ethereum/ERCs) ⭐ 744 | 🐛 288 | 🌐 Solidity | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [ERCs](https://github.com/ethereum/ERCs) ⭐ 745 | 🐛 289 | 🌐 Solidity | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 The Ethereum Request for Comment repository\
-<https://github.com/ethereum/ERCs> ⭐ 744 | 🐛 288 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/ethereum/ERCs> ⭐ 745 | 🐛 289 | 🌐 Solidity | 📅 2026-08-13\
 4.54 stars per week over 121 weeks\
 552 stars, 777 forks, 39 watches\
 [ethereum](categories/ethereum.md) category, created 2023-06-14, last commit 2025-10-10, main language Solidity
@@ -2619,19 +2619,19 @@ MetaMask FAQ and Guides\
 541 stars, 247 forks, 143 watches\
 [metamask](categories/metamask.md) category, created 2016-04-22, last commit 2020-08-12, main language None
 
-### [cadence](https://github.com/onflow/cadence) ⭐ 548 | 🐛 163 | 🌐 Go | 📅 2026-08-12 by [onflow](https://github.com/onflow)
+### [cadence](https://github.com/onflow/cadence) ⭐ 548 | 🐛 163 | 🌐 Go | 📅 2026-08-13 by [onflow](https://github.com/onflow)
 
 Cadence, the resource-oriented smart contract programming language 🏃‍♂️\
 <https://cadence-lang.org>\
-<https://github.com/onflow/cadence> ⭐ 548 | 🐛 163 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/onflow/cadence> ⭐ 548 | 🐛 163 | 🌐 Go | 📅 2026-08-13\
 1.88 stars per week over 286 weeks\
 538 stars, 143 forks, 46 watches\
 [onflow](categories/onflow.md) category, created 2020-04-17, last commit 2025-10-10, main language Go\ <sub><sup>cadence, language, onflow, programming-language, smart-contracts</sup></sub>
 
-### [contract-metadata](https://github.com/MetaMask/contract-metadata) ⭐ 572 | 🐛 303 | 🌐 JavaScript | 📅 2026-08-12 by [MetaMask](https://github.com/MetaMask)
+### [contract-metadata](https://github.com/MetaMask/contract-metadata) ⭐ 572 | 🐛 302 | 🌐 JavaScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
 
 A mapping of ethereum contract addresses to broadly accepted icons for those addresses.\
-<https://github.com/MetaMask/contract-metadata> ⭐ 572 | 🐛 303 | 🌐 JavaScript | 📅 2026-08-12\
+<https://github.com/MetaMask/contract-metadata> ⭐ 572 | 🐛 302 | 🌐 JavaScript | 📅 2026-08-13\
 1.2 stars per week over 437 weeks\
 525 stars, 1,243 forks, 71 watches\
 [metamask](categories/metamask.md) category, created 2017-05-26, last commit 2025-10-03, main language JavaScript
@@ -2644,10 +2644,10 @@ A mapping of ethereum contract addresses to broadly accepted icons for those add
 523 stars, 320 forks, 23 watches\
 [uniswap](categories/uniswap.md) category, created 2018-04-17, last commit 2019-01-24, main language Python\ <sub><sup>cryptocurrency, decentralized-exchange, erc20, ethereum, market-maker, smart-contracts, vyper</sup></sub>
 
-### [era-contracts](https://github.com/matter-labs/era-contracts) ⭐ 537 | 🐛 231 | 🌐 Solidity | 📅 2026-08-12 by [matter-labs](https://github.com/matter-labs)
+### [era-contracts](https://github.com/matter-labs/era-contracts) ⭐ 537 | 🐛 232 | 🌐 Solidity | 📅 2026-08-13 by [matter-labs](https://github.com/matter-labs)
 
 Smart Contract Submodule For zkSync Era\
-<https://github.com/matter-labs/era-contracts> ⭐ 537 | 🐛 231 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/matter-labs/era-contracts> ⭐ 537 | 🐛 232 | 🌐 Solidity | 📅 2026-08-13\
 3.75 stars per week over 138 weeks\
 519 stars, 387 forks, 42 watches\
 [matter-labs](categories/matter-labs.md) category, created 2023-02-15, last commit 2025-09-09, main language Solidity
@@ -2714,10 +2714,10 @@ An integrated development environment and SDK for Ethereum-like ledgers\
 506 stars, 200 forks, 75 watches\
 [consensys](categories/consensys.md) category, created 2016-12-13, last commit 2022-05-26, main language JavaScript\ <sub><sup>blockchain, editor, ethereum, ide, ledger, sdk</sup></sub>
 
-### [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) ⭐ 538 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-25 by [OpenZeppelin](https://github.com/OpenZeppelin)
+### [merkle-tree](https://github.com/OpenZeppelin/merkle-tree) ⭐ 537 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-25 by [OpenZeppelin](https://github.com/OpenZeppelin)
 
 A JavaScript library to generate merkle trees and merkle proofs.\
-<https://github.com/OpenZeppelin/merkle-tree> ⭐ 538 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-25\
+<https://github.com/OpenZeppelin/merkle-tree> ⭐ 537 | 🐛 7 | 🌐 TypeScript | 📅 2025-02-25\
 3.26 stars per week over 154 weeks\
 505 stars, 117 forks, 5 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2022-10-24, last commit 2025-02-25, main language TypeScript
@@ -2748,10 +2748,10 @@ The greatest application front-end to the Steem Blockchain.\
 501 stars, 429 forks, 82 watches\
 [steemit](categories/steemit.md) category, created 2016-05-19, last commit 2025-07-20, main language JavaScript\ <sub><sup>jsx, react, social-network, steem, steem-blockchain, steemit</sup></sub>
 
-### [curve-stablecoin](https://github.com/curvefi/curve-stablecoin) ⭐ 543 | 🐛 4 | 🌐 Python | 📅 2026-08-11 by [curvefi](https://github.com/curvefi)
+### [curve-stablecoin](https://github.com/curvefi/curve-stablecoin) ⭐ 543 | 🐛 5 | 🌐 Python | 📅 2026-08-13 by [curvefi](https://github.com/curvefi)
 
 Stablecoin powered by LLAMMAs\
-<https://github.com/curvefi/curve-stablecoin> ⭐ 543 | 🐛 4 | 🌐 Python | 📅 2026-08-11\
+<https://github.com/curvefi/curve-stablecoin> ⭐ 543 | 🐛 5 | 🌐 Python | 📅 2026-08-13\
 2.82 stars per week over 176 weeks\
 498 stars, 100 forks, 25 watches\
 [curvefi](categories/curvefi.md) category, created 2022-05-23, last commit 2025-08-11, main language Python
@@ -2781,11 +2781,11 @@ A CosmosSDK application for moving assets on and off of EVM based, POW chains\
 492 stars, 186 forks, 43 watches\
 [cosmos](categories/cosmos.md) category, created 2017-10-27, last commit 2021-08-28, main language TypeScript
 
-### [nkn](https://github.com/nknorg/nkn) ⭐ 484 | 🐛 19 | 🌐 Go | 📅 2026-01-09 by [nknorg](https://github.com/nknorg)
+### [nkn](https://github.com/nknorg/nkn) ⭐ 483 | 🐛 19 | 🌐 Go | 📅 2026-01-09 by [nknorg](https://github.com/nknorg)
 
 Official Go implementation of NKN full node.\
 <https://www.nkn.org>\
-<https://github.com/nknorg/nkn> ⭐ 484 | 🐛 19 | 🌐 Go | 📅 2026-01-09\
+<https://github.com/nknorg/nkn> ⭐ 483 | 🐛 19 | 🌐 Go | 📅 2026-01-09\
 1.22 stars per week over 402 weeks\
 491 stars, 168 forks, 43 watches\
 [nknorg](categories/nknorg.md) category, created 2018-01-26, last commit 2025-07-18, main language Go\ <sub><sup>blockchain, decentralization, distributed-systems, go, network, nkn, p2p</sup></sub>
@@ -2847,11 +2847,11 @@ Swarm: Censorship resistant storage and communication infrastructure for a truly
 486 stars, 298 forks, 38 watches\
 [chainsafe](categories/chainsafe.md) category, created 2019-11-27, last commit 2022-07-13, main language Go\ <sub><sup>celo, cosmos, ethereum, polygon, substrate</sup></sub>
 
-### [firefly](https://github.com/iotaledger/firefly) ⭐ 479 | 🐛 166 | 🌐 TypeScript | 📅 2026-08-12 by [iotaledger](https://github.com/iotaledger)
+### [firefly](https://github.com/iotaledger/firefly) ⭐ 479 | 🐛 166 | 🌐 TypeScript | 📅 2026-08-13 by [iotaledger](https://github.com/iotaledger)
 
 The official IOTA and Shimmer wallet\
 <https://firefly.iota.org>\
-<https://github.com/iotaledger/firefly> ⭐ 479 | 🐛 166 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/iotaledger/firefly> ⭐ 479 | 🐛 166 | 🌐 TypeScript | 📅 2026-08-13\
 1.71 stars per week over 284 weeks\
 486 stars, 103 forks, 45 watches\
 [iotaledger](categories/iotaledger.md) category, created 2020-04-30, last commit 2025-06-04, main language TypeScript\ <sub><sup>capacitor, crypto, cryptocurrency, electron, iota, shimmer, svelte, wallet</sup></sub>
@@ -2881,27 +2881,27 @@ Enzyme Protocol Implementation\
 484 stars, 188 forks, 60 watches\
 [enzymefinance](categories/enzymefinance.md) category, created 2016-11-04, last commit 2025-10-07, main language Solidity\ <sub><sup>blockchain, defi, enzyme, ethereum, protocol</sup></sub>
 
-### [Token-Factory](https://github.com/Consensys/Token-Factory) ⭐ 471 | 🐛 45 | 🌐 JavaScript | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
+### [Token-Factory](https://github.com/Consensys/Token-Factory) ⭐ 472 | 🐛 45 | 🌐 JavaScript | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
 
 Basic Token Factory dapp.\
-<https://github.com/Consensys/Token-Factory> ⭐ 471 | 🐛 45 | 🌐 JavaScript | 📅 2024-06-24\
+<https://github.com/Consensys/Token-Factory> ⭐ 472 | 🐛 45 | 🌐 JavaScript | 📅 2024-06-24\
 0.93 stars per week over 513 weeks\
 479 stars, 306 forks, 52 watches\
 [consensys](categories/consensys.md) category, created 2015-12-08, last commit 2017-06-15, main language JavaScript
 
-### [universal-router](https://github.com/Uniswap/universal-router) ⭐ 509 | 🐛 59 | 🌐 TypeScript | 📅 2026-08-12 by [Uniswap](https://github.com/Uniswap)
+### [universal-router](https://github.com/Uniswap/universal-router) ⭐ 509 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-13 by [Uniswap](https://github.com/Uniswap)
 
 Uniswap's Universal Router for NFT and ERC20 swapping\
-<https://github.com/Uniswap/universal-router> ⭐ 509 | 🐛 59 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/Uniswap/universal-router> ⭐ 509 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-13\
 2.85 stars per week over 167 weeks\
 478 stars, 259 forks, 11 watches\
 [uniswap](categories/uniswap.md) category, created 2022-07-27, last commit 2025-04-29, main language TypeScript
 
-### [mev-boost-relay](https://github.com/flashbots/mev-boost-relay) ⭐ 498 | 🐛 64 | 🌐 Go | 📅 2026-08-12 by [flashbots](https://github.com/flashbots)
+### [mev-boost-relay](https://github.com/flashbots/mev-boost-relay) ⭐ 497 | 🐛 64 | 🌐 Go | 📅 2026-08-12 by [flashbots](https://github.com/flashbots)
 
 MEV-Boost Relay for Ethereum proposer/builder separation (PBS)\
 <https://boost-relay.flashbots.net>\
-<https://github.com/flashbots/mev-boost-relay> ⭐ 498 | 🐛 64 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/flashbots/mev-boost-relay> ⭐ 497 | 🐛 64 | 🌐 Go | 📅 2026-08-12\
 2.68 stars per week over 177 weeks\
 476 stars, 139 forks, 32 watches\
 [flashbots](categories/flashbots.md) category, created 2022-05-20, last commit 2025-09-29, main language Go\ <sub><sup>blockchain, ethereum, mev, mev-boost, pbs</sup></sub>
@@ -2923,10 +2923,10 @@ DEPRECATED \[:robot::moneybag: Bot to automatically liquidate dYdX accounts]\
 474 stars, 159 forks, 36 watches\
 [dydxprotocol](categories/dydxprotocol.md) category, created 2019-05-13, last commit 2021-12-06, main language TypeScript
 
-### [hive](https://github.com/ethereum/hive) ⭐ 521 | 🐛 44 | 🌐 Go | 📅 2026-08-12 by [ethereum](https://github.com/ethereum)
+### [hive](https://github.com/ethereum/hive) ⭐ 521 | 🐛 45 | 🌐 Go | 📅 2026-08-13 by [ethereum](https://github.com/ethereum)
 
 Ethereum end-to-end test harness\
-<https://github.com/ethereum/hive> ⭐ 521 | 🐛 44 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/ethereum/hive> ⭐ 521 | 🐛 45 | 🌐 Go | 📅 2026-08-13\
 0.98 stars per week over 483 weeks\
 473 stars, 514 forks, 29 watches\
 [ethereum](categories/ethereum.md) category, created 2016-07-04, last commit 2025-10-01, main language Go\ <sub><sup>docker, ethereum, golang, simulation, testing</sup></sub>
@@ -2964,11 +2964,11 @@ Interact with Substrate based nodes in Rust or WebAssembly\
 467 stars, 272 forks, 21 watches\
 [paritytech](categories/paritytech.md) category, created 2019-08-05, last commit 2025-09-26, main language Rust
 
-### [documentation](https://github.com/smartcontractkit/documentation) ⭐ 525 | 🐛 98 | 🌐 MDX | 📅 2026-08-12 by [smartcontractkit](https://github.com/smartcontractkit)
+### [documentation](https://github.com/smartcontractkit/documentation) ⭐ 525 | 🐛 100 | 🌐 MDX | 📅 2026-08-13 by [smartcontractkit](https://github.com/smartcontractkit)
 
 <https://docs.chain.link> The Chainlink developer documentation website for Smart Contract Devs and Node Operators\
 <https://docs.chain.link>\
-<https://github.com/smartcontractkit/documentation> ⭐ 525 | 🐛 98 | 🌐 MDX | 📅 2026-08-12\
+<https://github.com/smartcontractkit/documentation> ⭐ 525 | 🐛 100 | 🌐 MDX | 📅 2026-08-13\
 1.95 stars per week over 236 weeks\
 463 stars, 450 forks, 130 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2021-03-29, last commit 2025-10-10, main language MDX\ <sub><sup>blockchain, chainlink, defi, solidity</sup></sub>
@@ -2989,11 +2989,11 @@ Documentation generator for Solidity projects\
 462 stars, 119 forks, 8 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2018-01-08, last commit 2025-09-25, main language TypeScript
 
-### [internet-identity](https://github.com/dfinity/internet-identity) ⭐ 532 | 🐛 50 | 🌐 Rust | 📅 2026-08-12 by [dfinity](https://github.com/dfinity)
+### [internet-identity](https://github.com/dfinity/internet-identity) ⭐ 532 | 🐛 45 | 🌐 Rust | 📅 2026-08-13 by [dfinity](https://github.com/dfinity)
 
 Internet Identity, a blockchain authentication system for the Internet Computer\
 <https://identity.ic0.app>\
-<https://github.com/dfinity/internet-identity> ⭐ 532 | 🐛 50 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/dfinity/internet-identity> ⭐ 532 | 🐛 45 | 🌐 Rust | 📅 2026-08-13\
 1.96 stars per week over 235 weeks\
 461 stars, 158 forks, 37 watches\
 [dfinity](categories/dfinity.md) category, created 2021-04-09, last commit 2025-10-10, main language Rust\ <sub><sup>authentication, blockchain, identity</sup></sub>
@@ -3015,11 +3015,11 @@ The non-fungible token standard on the Flow blockchain\
 461 stars, 167 forks, 55 watches\
 [onflow](categories/onflow.md) category, created 2020-04-19, last commit 2025-08-04, main language Cadence\ <sub><sup>blockchain, linear-types, nft, onflow, smart-contracts</sup></sub>
 
-### [interface](https://github.com/aave/interface) ⭐ 535 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-12 by [aave](https://github.com/aave)
+### [interface](https://github.com/aave/interface) ⭐ 535 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-13 by [aave](https://github.com/aave)
 
 An open source interface for the decentralized liquidity protocol Aave\
 <https://app.aave.com>\
-<https://github.com/aave/interface> ⭐ 535 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/aave/interface> ⭐ 535 | 🐛 112 | 🌐 TypeScript | 📅 2026-08-13\
 2.35 stars per week over 195 weeks\
 460 stars, 437 forks, 18 watches\
 [aave](categories/aave.md) category, created 2022-01-13, last commit 2025-10-09, main language TypeScript
@@ -3075,26 +3075,26 @@ A repository for automatically using the latest chainlink repo from the core cha
 451 stars, 88 forks, 11 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2021-04-05, last commit 2025-04-03, main language Solidity\ <sub><sup>chainlink</sup></sub>
 
-### [doc.linea](https://github.com/Consensys/doc.linea) ⭐ 474 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-12 by [Consensys](https://github.com/Consensys)
+### [doc.linea](https://github.com/Consensys/doc.linea) ⭐ 474 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-13 by [Consensys](https://github.com/Consensys)
 
 Linea documentation\
 <https://docs.linea.build>\
-<https://github.com/Consensys/doc.linea> ⭐ 474 | 🐛 15 | 🌐 JavaScript | 📅 2026-08-12\
+<https://github.com/Consensys/doc.linea> ⭐ 474 | 🐛 8 | 🌐 JavaScript | 📅 2026-08-13\
 2.93 stars per week over 153 weeks\
 451 stars, 538 forks, 11 watches\
 [consensys](categories/consensys.md) category, created 2022-10-31, last commit 2025-10-07, main language JavaScript\ <sub><sup>documentation, evm, linea, zk</sup></sub>
 
-### [fabric-ca](https://github.com/hyperledger/fabric-ca) ⭐ 454 | 🐛 26 | 🌐 Go | 📅 2026-07-29 by [hyperledger](https://github.com/hyperledger)
+### [fabric-ca](https://github.com/hyperledger/fabric-ca) ⭐ 453 | 🐛 26 | 🌐 Go | 📅 2026-07-29 by [hyperledger](https://github.com/hyperledger)
 
 <https://wiki.hyperledger.org/display/fabric>\
-<https://github.com/hyperledger/fabric-ca> ⭐ 454 | 🐛 26 | 🌐 Go | 📅 2026-07-29\
+<https://github.com/hyperledger/fabric-ca> ⭐ 453 | 🐛 26 | 🌐 Go | 📅 2026-07-29\
 0.98 stars per week over 455 weeks\
 448 stars, 715 forks, 45 watches\
 [hyperledger](categories/hyperledger.md) category, created 2017-01-19, last commit 2025-07-17, main language Go\ <sub><sup>blockchain, distributed-ledger, hyperledger</sup></sub>
 
-### [stwo](https://github.com/starkware-libs/stwo) ⭐ 500 | 🐛 55 | 🌐 Rust | 📅 2026-08-12 by [starkware-libs](https://github.com/starkware-libs)
+### [stwo](https://github.com/starkware-libs/stwo) ⭐ 499 | 🐛 54 | 🌐 Rust | 📅 2026-08-13 by [starkware-libs](https://github.com/starkware-libs)
 
-<https://github.com/starkware-libs/stwo> ⭐ 500 | 🐛 55 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/starkware-libs/stwo> ⭐ 499 | 🐛 54 | 🌐 Rust | 📅 2026-08-13\
 3.82 stars per week over 117 weeks\
 447 stars, 155 forks, 9 watches\
 [starkware-libs](categories/starkware-libs.md) category, created 2023-07-16, last commit 2025-09-16, main language Rust
@@ -3164,11 +3164,11 @@ An Ethereum portal client: a json-rpc server with nearly instant sync, and low C
 435 stars, 153 forks, 15 watches\
 [ethereum](categories/ethereum.md) category, created 2021-02-12, last commit 2025-09-23, main language Rust
 
-### [juno](https://github.com/NethermindEth/juno) ⭐ 445 | 🐛 66 | 🌐 Go | 📅 2026-08-13 by [NethermindEth](https://github.com/NethermindEth)
+### [juno](https://github.com/NethermindEth/juno) ⭐ 445 | 🐛 72 | 🌐 Go | 📅 2026-08-13 by [NethermindEth](https://github.com/NethermindEth)
 
 Starknet client implementation.\
 <https://juno.nethermind.io>\
-<https://github.com/NethermindEth/juno> ⭐ 445 | 🐛 66 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/NethermindEth/juno> ⭐ 445 | 🐛 72 | 🌐 Go | 📅 2026-08-13\
 2.23 stars per week over 194 weeks\
 435 stars, 217 forks, 13 watches\
 [nethermindeth](categories/nethermindeth.md) category, created 2022-01-18, last commit 2025-10-11, main language Go\ <sub><sup>cairolang, ethereum, go, golang, juno, layer2, nubia, rest-api, starknet, starks</sup></sub>
@@ -3248,11 +3248,11 @@ Parallelized, coverage-guided, mutational Solidity smart contract fuzzing, power
 425 stars, 73 forks, 18 watches\
 [crytic](categories/crytic.md) category, created 2021-08-31, last commit 2025-08-27, main language Go
 
-### [v2-subgraph](https://github.com/Uniswap/v2-subgraph) ⭐ 437 | 🐛 72 | 🌐 TypeScript | 📅 2026-07-29 by [Uniswap](https://github.com/Uniswap)
+### [v2-subgraph](https://github.com/Uniswap/v2-subgraph) ⭐ 436 | 🐛 72 | 🌐 TypeScript | 📅 2026-07-29 by [Uniswap](https://github.com/Uniswap)
 
 Uniswap V2 subgraph 📊\
 <https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2>\
-<https://github.com/Uniswap/v2-subgraph> ⭐ 437 | 🐛 72 | 🌐 TypeScript | 📅 2026-07-29\
+<https://github.com/Uniswap/v2-subgraph> ⭐ 436 | 🐛 72 | 🌐 TypeScript | 📅 2026-07-29\
 1.43 stars per week over 297 weeks\
 425 stars, 796 forks, 21 watches\
 [uniswap](categories/uniswap.md) category, created 2020-01-28, last commit 2025-09-23, main language TypeScript
@@ -3282,10 +3282,10 @@ The source of truth for Polkadot.\
 424 stars, 2,479 forks, 27 watches\
 [w3f](categories/w3f.md) category, created 2019-08-26, last commit 2025-10-09, main language CSS\ <sub><sup>blockchain, documentation, education, kusama, polkadot, web3, wiki</sup></sub>
 
-### [UniswapX](https://github.com/Uniswap/UniswapX) ⭐ 461 | 🐛 14 | 🌐 Solidity | 📅 2026-08-10 by [Uniswap](https://github.com/Uniswap)
+### [UniswapX](https://github.com/Uniswap/UniswapX) ⭐ 460 | 🐛 15 | 🌐 Solidity | 📅 2026-08-13 by [Uniswap](https://github.com/Uniswap)
 
 🦄 Gasless ERC20 swap settlement protocol 🦄\
-<https://github.com/Uniswap/UniswapX> ⭐ 461 | 🐛 14 | 🌐 Solidity | 📅 2026-08-10\
+<https://github.com/Uniswap/UniswapX> ⭐ 460 | 🐛 15 | 🌐 Solidity | 📅 2026-08-13\
 2.52 stars per week over 167 weeks\
 423 stars, 112 forks, 15 watches\
 [uniswap](categories/uniswap.md) category, created 2022-07-26, last commit 2025-09-30, main language Solidity
@@ -3331,11 +3331,11 @@ Assertion library for Ethereum smart contract testing\
 415 stars, 132 forks, 21 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2018-11-30, last commit 2022-09-06, main language JavaScript
 
-### [graph-tooling](https://github.com/graphprotocol/graph-tooling) ⭐ 425 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-12 by [graphprotocol](https://github.com/graphprotocol)
+### [graph-tooling](https://github.com/graphprotocol/graph-tooling) ⭐ 425 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-13 by [graphprotocol](https://github.com/graphprotocol)
 
 Monorepo for various tools used by subgraph developers.\
 <https://thegraph.com/docs>\
-<https://github.com/graphprotocol/graph-tooling> ⭐ 425 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/graphprotocol/graph-tooling> ⭐ 425 | 🐛 199 | 🌐 TypeScript | 📅 2026-08-13\
 1.09 stars per week over 382 weeks\
 415 stars, 228 forks, 40 watches\
 [graphprotocol](categories/graphprotocol.md) category, created 2018-06-15, last commit 2025-10-10, main language TypeScript
@@ -3404,7 +3404,7 @@ BTCPay Server Official Documentation\
 
 ### [ethereum-org](https://github.com/ethereum/ethereum-org) ⚠️ Archived by [ethereum](https://github.com/ethereum)
 
-\[ARCHIVED] ethereum.org website from 2016-2019. See <https://github.com/ethereum/ethereum-org-website> ⭐ 5,958 | 🐛 171 | 🌐 Markdown | 📅 2026-08-13 for current version.\
+\[ARCHIVED] ethereum.org website from 2016-2019. See <https://github.com/ethereum/ethereum-org-website> ⭐ 5,959 | 🐛 170 | 🌐 Markdown | 📅 2026-08-13 for current version.\
 <https://github.com/ethereum/ethereum-org> ⚠️ Archived\
 0.74 stars per week over 551 weeks\
 408 stars, 1,392 forks, 96 watches\
@@ -3461,10 +3461,10 @@ A fast and secure RISC-V based virtual machine\
 394 stars, 74 forks, 18 watches\
 [paritytech](categories/paritytech.md) category, created 2023-08-30, last commit 2025-10-10, main language Rust
 
-### [pos-portal](https://github.com/maticnetwork/pos-portal) ⭐ 425 | 🐛 27 | 🌐 Solidity | 📅 2026-01-22 by [maticnetwork](https://github.com/maticnetwork)
+### [pos-portal](https://github.com/maticnetwork/pos-portal) ⭐ 424 | 🐛 27 | 🌐 Solidity | 📅 2026-01-22 by [maticnetwork](https://github.com/maticnetwork)
 
 Smart contracts that powers the PoS (proof-of-stake) based bridge mechanism for Matic Network\
-<https://github.com/maticnetwork/pos-portal> ⭐ 425 | 🐛 27 | 🌐 Solidity | 📅 2026-01-22\
+<https://github.com/maticnetwork/pos-portal> ⭐ 424 | 🐛 27 | 🌐 Solidity | 📅 2026-01-22\
 1.37 stars per week over 286 weeks\
 394 stars, 276 forks, 32 watches\
 [maticnetwork](categories/maticnetwork.md) category, created 2020-04-13, last commit 2025-05-13, main language Solidity\ <sub><sup>blockchain, ethereum, matic, web3</sup></sub>
@@ -3486,10 +3486,10 @@ WalletConnect Swift SDK v2\
 392 stars, 199 forks, 21 watches\
 [walletconnect](categories/walletconnect.md) category, created 2021-12-07, last commit 2024-09-17, main language Swift\ <sub><sup>swift</sup></sub>
 
-### [default-token-list](https://github.com/Uniswap/default-token-list) ⭐ 416 | 🐛 1,554 | 🌐 JavaScript | 📅 2026-08-06 by [Uniswap](https://github.com/Uniswap)
+### [default-token-list](https://github.com/Uniswap/default-token-list) ⭐ 417 | 🐛 1,555 | 🌐 JavaScript | 📅 2026-08-13 by [Uniswap](https://github.com/Uniswap)
 
 ◦ The Uniswap default token list\
-<https://github.com/Uniswap/default-token-list> ⭐ 416 | 🐛 1,554 | 🌐 JavaScript | 📅 2026-08-06\
+<https://github.com/Uniswap/default-token-list> ⭐ 417 | 🐛 1,555 | 🌐 JavaScript | 📅 2026-08-13\
 1.44 stars per week over 272 weeks\
 392 stars, 1,180 forks, 35 watches\
 [uniswap](categories/uniswap.md) category, created 2020-07-20, last commit 2025-09-09, main language JavaScript
@@ -3553,11 +3553,11 @@ Start an exchange in under a minute\
 386 stars, 217 forks, 20 watches\
 [0xproject](categories/0xproject.md) category, created 2020-10-20, last commit 2024-05-24, main language TypeScript
 
-### [nim-chronos](https://github.com/status-im/nim-chronos) ⭐ 412 | 🐛 62 | 🌐 Nim | 📅 2026-08-12 by [status-im](https://github.com/status-im)
+### [nim-chronos](https://github.com/status-im/nim-chronos) ⭐ 412 | 🐛 60 | 🌐 Nim | 📅 2026-08-13 by [status-im](https://github.com/status-im)
 
 Chronos - An efficient library for asynchronous programming\
 <https://status-im.github.io/nim-chronos/>\
-<https://github.com/status-im/nim-chronos> ⭐ 412 | 🐛 62 | 🌐 Nim | 📅 2026-08-12\
+<https://github.com/status-im/nim-chronos> ⭐ 412 | 🐛 60 | 🌐 Nim | 📅 2026-08-13\
 1.0 stars per week over 386 weeks\
 385 stars, 54 forks, 64 watches\
 [status-im](categories/status-im.md) category, created 2018-05-16, last commit 2025-09-21, main language Nim\ <sub><sup>async, async-await, asynchronous-programming, nim, nim-language</sup></sub>
@@ -3763,11 +3763,11 @@ Vyper contracts to be used by Curve DAO\
 361 stars, 180 forks, 23 watches\
 [curvefi](categories/curvefi.md) category, created 2020-04-24, last commit 2025-05-26, main language Python
 
-### [docs](https://github.com/Uniswap/docs) ⭐ 380 | 🐛 24 | 🌐 MDX | 📅 2026-08-04 by [Uniswap](https://github.com/Uniswap)
+### [docs](https://github.com/Uniswap/docs) ⭐ 380 | 🐛 24 | 🌐 MDX | 📅 2026-08-13 by [Uniswap](https://github.com/Uniswap)
 
 📓 Uniswap docs website\
 <https://docs.uniswap.org>\
-<https://github.com/Uniswap/docs> ⭐ 380 | 🐛 24 | 🌐 MDX | 📅 2026-08-04\
+<https://github.com/Uniswap/docs> ⭐ 380 | 🐛 24 | 🌐 MDX | 📅 2026-08-13\
 1.5 stars per week over 240 weeks\
 361 stars, 633 forks, 28 watches\
 [uniswap](categories/uniswap.md) category, created 2021-03-01, last commit 2025-10-02, main language TypeScript
@@ -3781,10 +3781,10 @@ Fast. Scalable. Powerful. The Blockchain for Web3\
 361 stars, 111 forks, 43 watches\
 [openhive-network](categories/openhive-network.md) category, created 2020-03-20, last commit 2025-05-01, main language C++\ <sub><sup>blockchain, cryptocurrency, dapps, decentralization, decentralized, dpos, fork, hive, openhive, p2p, platform, social-network, steem, web3</sup></sub>
 
-### [core](https://github.com/MetaMask/core) ⭐ 410 | 🐛 611 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
+### [core](https://github.com/MetaMask/core) ⭐ 410 | 🐛 609 | 🌐 TypeScript | 📅 2026-08-13 by [MetaMask](https://github.com/MetaMask)
 
 This monorepo is a collection of packages used across multiple MetaMask clients\
-<https://github.com/MetaMask/core> ⭐ 410 | 🐛 611 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/MetaMask/core> ⭐ 410 | 🐛 609 | 🌐 TypeScript | 📅 2026-08-13\
 0.94 stars per week over 384 weeks\
 360 stars, 250 forks, 71 watches\
 [metamask](categories/metamask.md) category, created 2018-05-29, last commit 2025-10-10, main language TypeScript
@@ -3854,10 +3854,10 @@ Fork of Foundry tailored for zkSync environment\
 357 stars, 160 forks, 8 watches\
 [matter-labs](categories/matter-labs.md) category, created 2023-01-26, last commit 2025-10-08, main language Rust
 
-### [librustzcash](https://github.com/zcash/librustzcash) ⭐ 398 | 🐛 374 | 🌐 Rust | 📅 2026-08-12 by [zcash](https://github.com/zcash)
+### [librustzcash](https://github.com/zcash/librustzcash) ⭐ 398 | 🐛 375 | 🌐 Rust | 📅 2026-08-13 by [zcash](https://github.com/zcash)
 
 Rust-language assets for Zcash\
-<https://github.com/zcash/librustzcash> ⭐ 398 | 🐛 374 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/zcash/librustzcash> ⭐ 398 | 🐛 375 | 🌐 Rust | 📅 2026-08-13\
 0.8 stars per week over 447 weeks\
 357 stars, 280 forks, 31 watches\
 [zcash](categories/zcash.md) category, created 2017-03-17, last commit 2025-10-11, main language Rust
@@ -3902,10 +3902,10 @@ Introduction to layer two and zkSync\
 353 stars, 1,011 forks, 15 watches\
 [matter-labs](categories/matter-labs.md) category, created 2023-02-02, last commit 2023-02-21, main language TypeScript\ <sub><sup>blockchain, ethereum, zksync</sup></sub>
 
-### [pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph) ⭐ 359 | 🐛 44 | 🌐 TypeScript | 📅 2025-08-29 by [pancakeswap](https://github.com/pancakeswap)
+### [pancake-subgraph](https://github.com/pancakeswap/pancake-subgraph) ⭐ 358 | 🐛 44 | 🌐 TypeScript | 📅 2025-08-29 by [pancakeswap](https://github.com/pancakeswap)
 
 📊 Pancake subgraph (blocks, profile, prediction, NFT's, ...)\
-<https://github.com/pancakeswap/pancake-subgraph> ⭐ 359 | 🐛 44 | 🌐 TypeScript | 📅 2025-08-29\
+<https://github.com/pancakeswap/pancake-subgraph> ⭐ 358 | 🐛 44 | 🌐 TypeScript | 📅 2025-08-29\
 1.44 stars per week over 242 weeks\
 349 stars, 580 forks, 9 watches\
 [pancakeswap](categories/pancakeswap.md) category, created 2021-02-21, last commit 2024-06-11, main language TypeScript\ <sub><sup>graphprotocol, pancakeswap</sup></sub>
@@ -3926,11 +3926,11 @@ This course is designed to teach non-engineers (e.g., self-taught/bootcamp coder
 347 stars, 184 forks, 30 watches\
 [input-output-hk](categories/input-output-hk.md) category, created 2022-06-16, last commit 2025-09-12, main language Jupyter Notebook
 
-### [core](https://github.com/ArkEcosystem/core) ⭐ 345 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-13 by [ArkEcosystem](https://github.com/ArkEcosystem)
+### [core](https://github.com/ArkEcosystem/core) ⭐ 345 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 by [ArkEcosystem](https://github.com/ArkEcosystem)
 
 The ARK Core Blockchain Framework. Check <https://learn.ark.dev> for more information.\
 <https://ark.io>\
-<https://github.com/ArkEcosystem/core> ⭐ 345 | 🐛 17 | 🌐 TypeScript | 📅 2026-05-13\
+<https://github.com/ArkEcosystem/core> ⭐ 345 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13\
 0.84 stars per week over 411 weeks\
 344 stars, 282 forks, 32 watches\
 [arkecosystem](categories/arkecosystem.md) category, created 2017-11-22, last commit 2024-06-19, main language TypeScript\ <sub><sup>ark, blockchain, crypto, dpos, modular-architecture, nodejs, smartbridge, typescript</sup></sub>
@@ -3993,11 +3993,11 @@ Simplify Ethereum security analysis and testing\
 340 stars, 33 forks, 18 watches\
 [crytic](categories/crytic.md) category, created 2018-06-27, last commit 2025-02-14, main language Python\ <sub><sup>differential-testing, ethereum, ganache, solidity, symbolic-execution, truffle</sup></sub>
 
-### [status-desktop](https://github.com/status-im/status-desktop) ⭐ 362 | 🐛 1,151 | 🌐 QML | 📅 2026-08-12 by [status-im](https://github.com/status-im)
+### [status-desktop](https://github.com/status-im/status-desktop) ⭐ 362 | 🐛 1,136 | 🌐 QML | 📅 2026-08-13 by [status-im](https://github.com/status-im)
 
 Status Desktop client made in Nim & QML\
 <https://status.app>\
-<https://github.com/status-im/status-desktop> ⭐ 362 | 🐛 1,151 | 🌐 QML | 📅 2026-08-12\
+<https://github.com/status-im/status-desktop> ⭐ 362 | 🐛 1,136 | 🌐 QML | 📅 2026-08-13\
 1.2 stars per week over 283 weeks\
 340 stars, 86 forks, 35 watches\
 [status-im](categories/status-im.md) category, created 2020-05-04, last commit 2025-10-10, main language QML\ <sub><sup>decentralized, messenger, nim, privacy, qml</sup></sub>
@@ -4019,11 +4019,11 @@ Find ways to contribute to the Optimism Collective\
 339 stars, 144 forks, 24 watches\
 [ethereum-optimism](categories/ethereum-optimism.md) category, created 2023-04-13, last commit 2025-02-28, main language TypeScript
 
-### [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) ⭐ 342 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-12 by [Chia-Network](https://github.com/Chia-Network)
+### [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) ⭐ 342 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-13 by [Chia-Network](https://github.com/Chia-Network)
 
 Chia blockchain GUI in electron/react\
 <https://chia.net>\
-<https://github.com/Chia-Network/chia-blockchain-gui> ⭐ 342 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/Chia-Network/chia-blockchain-gui> ⭐ 342 | 🐛 86 | 🌐 TypeScript | 📅 2026-08-13\
 1.38 stars per week over 244 weeks\
 336 stars, 256 forks, 38 watches\
 [chia-network](categories/chia-network.md) category, created 2021-02-07, last commit 2025-09-09, main language TypeScript\ <sub><sup>chia, chia-blockchain</sup></sub>
@@ -4121,10 +4121,10 @@ Polkadot Telemetry service\
 329 stars, 221 forks, 26 watches\
 [paritytech](categories/paritytech.md) category, created 2018-06-18, last commit 2025-08-28, main language Rust
 
-### [bladebit](https://github.com/Chia-Network/bladebit) ⭐ 327 | 🐛 113 | 🌐 C | 📅 2026-08-12 by [Chia-Network](https://github.com/Chia-Network)
+### [bladebit](https://github.com/Chia-Network/bladebit) ⭐ 327 | 🐛 113 | 🌐 C | 📅 2026-08-13 by [Chia-Network](https://github.com/Chia-Network)
 
 A high-performance k32-only, Chia (XCH) plotter supporting in-RAM and disk-based plotting\
-<https://github.com/Chia-Network/bladebit> ⭐ 327 | 🐛 113 | 🌐 C | 📅 2026-08-12\
+<https://github.com/Chia-Network/bladebit> ⭐ 327 | 🐛 113 | 🌐 C | 📅 2026-08-13\
 1.48 stars per week over 222 weeks\
 328 stars, 99 forks, 54 watches\
 [chia-network](categories/chia-network.md) category, created 2021-07-10, last commit 2025-04-17, main language C\ <sub><sup>chia, chia-blockchain</sup></sub>
@@ -4271,19 +4271,19 @@ Rust virtual machine and JIT compiler for eBPF programs\
 317 stars, 190 forks, 16 watches\
 [solana-labs](categories/solana-labs.md) category, created 2018-10-04, last commit 2024-12-11, main language Rust
 
-### [ds-proxy](https://github.com/dapphub/ds-proxy) ⭐ 320 | 🐛 7 | 🌐 Solidity | 📅 2022-10-05 by [dapphub](https://github.com/dapphub)
+### [ds-proxy](https://github.com/dapphub/ds-proxy) ⭐ 319 | 🐛 7 | 🌐 Solidity | 📅 2022-10-05 by [dapphub](https://github.com/dapphub)
 
 a proxy object that can compose transactions on owner's behalf\
 <https://dapp.tools/dappsys/ds-proxy.html>\
-<https://github.com/dapphub/ds-proxy> ⭐ 320 | 🐛 7 | 🌐 Solidity | 📅 2022-10-05\
+<https://github.com/dapphub/ds-proxy> ⭐ 319 | 🐛 7 | 🌐 Solidity | 📅 2022-10-05\
 0.69 stars per week over 459 weeks\
 317 stars, 76 forks, 12 watches\
 [dapphub](categories/dapphub.md) category, created 2016-12-20, last commit 2022-06-05, main language Solidity\ <sub><sup>dappsys, ethereum, proxy, solidity</sup></sub>
 
-### [smoldot](https://github.com/paritytech/smoldot) ⭐ 329 | 🐛 181 | 🌐 Rust | 📅 2026-08-12 by [paritytech](https://github.com/paritytech)
+### [smoldot](https://github.com/paritytech/smoldot) ⭐ 329 | 🐛 182 | 🌐 Rust | 📅 2026-08-13 by [paritytech](https://github.com/paritytech)
 
 Alternative client for Substrate-based chains.\
-<https://github.com/paritytech/smoldot> ⭐ 329 | 🐛 181 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/paritytech/smoldot> ⭐ 329 | 🐛 182 | 🌐 Rust | 📅 2026-08-13\
 1.07 stars per week over 294 weeks\
 316 stars, 74 forks, 14 watches\
 [paritytech](categories/paritytech.md) category, created 2020-02-20, last commit 2023-02-23, main language Rust\ <sub><sup>client, polkadot, rust, substrate</sup></sub>
@@ -4296,10 +4296,10 @@ Cronos is the first Ethereum-compatible blockchain network built on Cosmos SDK t
 316 stars, 273 forks, 26 watches\
 [crypto-org-chain](categories/crypto-org-chain.md) category, created 2021-07-22, last commit 2025-10-07, main language Go\ <sub><sup>blockchain, cosmos-sdk, ethermint, evm</sup></sub>
 
-### [ethereum-optimism.github.io](https://github.com/ethereum-optimism/ethereum-optimism.github.io) ⭐ 337 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-11 by [ethereum-optimism](https://github.com/ethereum-optimism)
+### [ethereum-optimism.github.io](https://github.com/ethereum-optimism/ethereum-optimism.github.io) ⭐ 337 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-11 by [ethereum-optimism](https://github.com/ethereum-optimism)
 
 Unified token list for OP Mainnet, Base, and other OP Chains\
-<https://github.com/ethereum-optimism/ethereum-optimism.github.io> ⭐ 337 | 🐛 68 | 🌐 TypeScript | 📅 2026-08-11\
+<https://github.com/ethereum-optimism/ethereum-optimism.github.io> ⭐ 337 | 🐛 67 | 🌐 TypeScript | 📅 2026-08-11\
 1.41 stars per week over 224 weeks\
 316 stars, 793 forks, 23 watches\
 [ethereum-optimism](categories/ethereum-optimism.md) category, created 2021-06-21, last commit 2025-10-08, main language TypeScript
@@ -4382,7 +4382,7 @@ Orbs node virtual chain core reference implementation in Go\
 ### [merkle-patricia-tree](https://github.com/ethereumjs/merkle-patricia-tree) ⚠️ Archived by [ethereumjs](https://github.com/ethereumjs)
 
 Project is in active development and has been moved to the EthereumJS VM monorepo.\
-<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-monorepo> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/ethereumjs/merkle-patricia-tree> ⚠️ Archived\
 0.52 stars per week over 595 weeks\
 309 stars, 90 forks, 27 watches\
@@ -4428,10 +4428,10 @@ BLS signatures in C++, using the blst library for BLS12-381\
 306 stars, 210 forks, 56 watches\
 [chia-network](categories/chia-network.md) category, created 2018-08-02, last commit 2025-07-02, main language C++\ <sub><sup>aggregate-signatures, bls-signatures, chia, chia-blockchain</sup></sub>
 
-### [anonymous-zether](https://github.com/Consensys/anonymous-zether) ⭐ 310 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
+### [anonymous-zether](https://github.com/Consensys/anonymous-zether) ⭐ 309 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24 by [Consensys](https://github.com/Consensys)
 
 A private payment system for Ethereum-based blockchains, with no trusted setup.\
-<https://github.com/Consensys/anonymous-zether> ⭐ 310 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24\
+<https://github.com/Consensys/anonymous-zether> ⭐ 309 | 🐛 12 | 🌐 Solidity | 📅 2024-06-24\
 0.91 stars per week over 334 weeks\
 305 stars, 76 forks, 42 watches\
 [consensys](categories/consensys.md) category, created 2019-05-15, last commit 2023-10-12, main language Solidity\ <sub><sup>protocols-team-goquorum</sup></sub>
@@ -4537,18 +4537,18 @@ EVM contract system developer multitool\
 298 stars, 57 forks, 21 watches\
 [dapphub](categories/dapphub.md) category, created 2015-09-14, last commit 2017-05-13, main language JavaScript
 
-### [staking-launchpad](https://github.com/ethereum/staking-launchpad) ⭐ 302 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-21 by [ethereum](https://github.com/ethereum)
+### [staking-launchpad](https://github.com/ethereum/staking-launchpad) ⭐ 303 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-21 by [ethereum](https://github.com/ethereum)
 
 The deposit launchpad for staking on Ethereum 🦏\
-<https://github.com/ethereum/staking-launchpad> ⭐ 302 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-21\
+<https://github.com/ethereum/staking-launchpad> ⭐ 303 | 🐛 116 | 🌐 TypeScript | 📅 2026-05-21\
 1.0 stars per week over 297 weeks\
 297 stars, 228 forks, 26 watches\
 [ethereum](categories/ethereum.md) category, created 2020-01-27, last commit 2025-10-01, main language TypeScript\ <sub><sup>ethereum</sup></sub>
 
-### [candid](https://github.com/dfinity/candid) ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-08-11 by [dfinity](https://github.com/dfinity)
+### [candid](https://github.com/dfinity/candid) ⭐ 301 | 🐛 65 | 🌐 Rust | 📅 2026-08-13 by [dfinity](https://github.com/dfinity)
 
 Candid Library for the Internet Computer\
-<https://github.com/dfinity/candid> ⭐ 301 | 🐛 64 | 🌐 Rust | 📅 2026-08-11\
+<https://github.com/dfinity/candid> ⭐ 301 | 🐛 65 | 🌐 Rust | 📅 2026-08-13\
 1.05 stars per week over 283 weeks\
 297 stars, 84 forks, 39 watches\
 [dfinity](categories/dfinity.md) category, created 2020-05-04, last commit 2025-10-09, main language Rust
@@ -4716,10 +4716,10 @@ DeFi Score: An open framework for evaluating DeFi protocols\
 286 stars, 19 forks, 21 watches\
 [bittorrent](categories/bittorrent.md) category, created 2015-07-28, last commit 2016-02-17, main language C
 
-### [external-adapters-js](https://github.com/smartcontractkit/external-adapters-js) ⭐ 289 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-12 by [smartcontractkit](https://github.com/smartcontractkit)
+### [external-adapters-js](https://github.com/smartcontractkit/external-adapters-js) ⭐ 289 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-13 by [smartcontractkit](https://github.com/smartcontractkit)
 
 Monorepo containing JavaScript implementation of external adapters\
-<https://github.com/smartcontractkit/external-adapters-js> ⭐ 289 | 🐛 60 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/smartcontractkit/external-adapters-js> ⭐ 289 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-13\
 1.0 stars per week over 285 weeks\
 285 stars, 323 forks, 71 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2020-04-23, last commit 2025-10-10, main language TypeScript
@@ -4732,10 +4732,10 @@ Livepeer media server\
 285 stars, 73 forks, 17 watches\
 [livepeer](categories/livepeer.md) category, created 2017-01-27, last commit 2025-09-05, main language Go
 
-### [comet](https://github.com/compound-finance/comet) ⭐ 312 | 🐛 75 | 🌐 TypeScript | 📅 2026-06-23 by [compound-finance](https://github.com/compound-finance)
+### [comet](https://github.com/compound-finance/comet) ⭐ 311 | 🐛 75 | 🌐 TypeScript | 📅 2026-06-23 by [compound-finance](https://github.com/compound-finance)
 
 An efficient money market protocol for Ethereum and compatible chains (aka Compound III, Compound v3).\
-<https://github.com/compound-finance/comet> ⭐ 312 | 🐛 75 | 🌐 TypeScript | 📅 2026-06-23\
+<https://github.com/compound-finance/comet> ⭐ 311 | 🐛 75 | 🌐 TypeScript | 📅 2026-06-23\
 1.37 stars per week over 205 weeks\
 283 stars, 180 forks, 12 watches\
 [compound-finance](categories/compound-finance.md) category, created 2021-11-01, last commit 2025-09-30, main language TypeScript
@@ -4782,11 +4782,11 @@ Zcash Improvement Proposals\
 281 stars, 158 forks, 56 watches\
 [zcash](categories/zcash.md) category, created 2015-12-02, last commit 2025-10-07, main language TeX\ <sub><sup>cryptocurrency, cryptography, specifications, zcash</sup></sub>
 
-### [contracts-wizard](https://github.com/OpenZeppelin/contracts-wizard) ⭐ 293 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-12 by [OpenZeppelin](https://github.com/OpenZeppelin)
+### [contracts-wizard](https://github.com/OpenZeppelin/contracts-wizard) ⭐ 293 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-13 by [OpenZeppelin](https://github.com/OpenZeppelin)
 
 Interactive smart contract generator based on OpenZeppelin Contracts.\
 <https://wizard.openzeppelin.com>\
-<https://github.com/OpenZeppelin/contracts-wizard> ⭐ 293 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/OpenZeppelin/contracts-wizard> ⭐ 293 | 🐛 42 | 🌐 TypeScript | 📅 2026-08-13\
 1.15 stars per week over 243 weeks\
 281 stars, 177 forks, 14 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2021-02-09, last commit 2025-10-10, main language TypeScript
@@ -4824,10 +4824,10 @@ TRON Improvement Proposals\
 279 stars, 268 forks, 40 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2018-04-09, last commit 2025-09-02, main language None
 
-### [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 277 | 🐛 17 | 🌐 Python | 📅 2026-08-11 by [algorand](https://github.com/algorand)
+### [py-algorand-sdk](https://github.com/algorand/py-algorand-sdk) ⭐ 277 | 🐛 17 | 🌐 Python | 📅 2026-08-13 by [algorand](https://github.com/algorand)
 
 Algorand Python SDK\
-<https://github.com/algorand/py-algorand-sdk> ⭐ 277 | 🐛 17 | 🌐 Python | 📅 2026-08-11\
+<https://github.com/algorand/py-algorand-sdk> ⭐ 277 | 🐛 17 | 🌐 Python | 📅 2026-08-13\
 0.84 stars per week over 330 weeks\
 278 stars, 144 forks, 14 watches\
 [algorand](categories/algorand.md) category, created 2019-06-12, last commit 2025-10-02, main language Python
@@ -4865,11 +4865,11 @@ WalletConnect Kotlin SDK v2\
 277 stars, 92 forks, 16 watches\
 [walletconnect](categories/walletconnect.md) category, created 2021-12-07, last commit 2025-03-06, main language Kotlin\ <sub><sup>android, kotlin</sup></sub>
 
-### [tokenlists-org](https://github.com/Uniswap/tokenlists-org) ⭐ 285 | 🐛 2,031 | 🌐 JavaScript | 📅 2025-10-24 by [Uniswap](https://github.com/Uniswap)
+### [tokenlists-org](https://github.com/Uniswap/tokenlists-org) ⭐ 286 | 🐛 2,032 | 🌐 JavaScript | 📅 2025-10-24 by [Uniswap](https://github.com/Uniswap)
 
 A site for browsing featured token lists\
 <https://tokenlists.org>\
-<https://github.com/Uniswap/tokenlists-org> ⭐ 285 | 🐛 2,031 | 🌐 JavaScript | 📅 2025-10-24\
+<https://github.com/Uniswap/tokenlists-org> ⭐ 286 | 🐛 2,032 | 🌐 JavaScript | 📅 2025-10-24\
 1.03 stars per week over 268 weeks\
 276 stars, 208 forks, 27 watches\
 [uniswap](categories/uniswap.md) category, created 2020-08-18, last commit 2024-08-28, main language JavaScript
@@ -4950,10 +4950,10 @@ Niftyswap - decentralized swap protocol for ERC-1155 tokens, inspired by Uniswap
 272 stars, 64 forks, 29 watches\
 [0xsequence](categories/0xsequence.md) category, created 2019-06-26, last commit 2024-02-11, main language TypeScript\ <sub><sup>erc-1155, ethereum, swap</sup></sub>
 
-### [chiapos](https://github.com/Chia-Network/chiapos) ⭐ 268 | 🐛 11 | 🌐 HTML | 📅 2026-08-12 by [Chia-Network](https://github.com/Chia-Network)
+### [chiapos](https://github.com/Chia-Network/chiapos) ⭐ 268 | 🐛 11 | 🌐 HTML | 📅 2026-08-13 by [Chia-Network](https://github.com/Chia-Network)
 
 Chia Proof of Space library\
-<https://github.com/Chia-Network/chiapos> ⭐ 268 | 🐛 11 | 🌐 HTML | 📅 2026-08-12\
+<https://github.com/Chia-Network/chiapos> ⭐ 268 | 🐛 11 | 🌐 HTML | 📅 2026-08-13\
 0.93 stars per week over 291 weeks\
 272 stars, 291 forks, 47 watches\
 [chia-network](categories/chia-network.md) category, created 2020-03-10, last commit 2025-08-25, main language HTML\ <sub><sup>blockchain, blockchain-network, chia, chia-blockchain, farmer, hellman-attacks, proof-of-space</sup></sub>
@@ -5079,18 +5079,18 @@ REST service that makes it easy to interact with blockchain nodes built using Su
 262 stars, 205 forks, 25 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2022-03-14, last commit 2025-08-08, main language TypeScript
 
-### [seaport-js](https://github.com/ProjectOpenSea/seaport-js) ⭐ 269 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-12 by [ProjectOpenSea](https://github.com/ProjectOpenSea)
+### [seaport-js](https://github.com/ProjectOpenSea/seaport-js) ⭐ 269 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12 by [ProjectOpenSea](https://github.com/ProjectOpenSea)
 
 A TypeScript library to interface with the Seaport marketplace.\
-<https://github.com/ProjectOpenSea/seaport-js> ⭐ 269 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ProjectOpenSea/seaport-js> ⭐ 269 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-12\
 1.4 stars per week over 187 weeks\
 262 stars, 180 forks, 11 watches\
 [projectopensea](categories/projectopensea.md) category, created 2022-03-13, last commit 2025-09-15, main language TypeScript
 
-### [holochain-client-js](https://github.com/holochain/holochain-client-js) ⭐ 266 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-11 by [holochain](https://github.com/holochain)
+### [holochain-client-js](https://github.com/holochain/holochain-client-js) ⭐ 266 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13 by [holochain](https://github.com/holochain)
 
 A JavaScript client for the Holochain Conductor API\
-<https://github.com/holochain/holochain-client-js> ⭐ 266 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-11\
+<https://github.com/holochain/holochain-client-js> ⭐ 266 | 🐛 21 | 🌐 TypeScript | 📅 2026-08-13\
 0.91 stars per week over 286 weeks\
 262 stars, 17 forks, 14 watches\
 [holochain](categories/holochain.md) category, created 2020-04-13, last commit 2025-09-08, main language TypeScript\ <sub><sup>browser, conductor-api, holochain, javascript, nodejs, typescript</sup></sub>
@@ -5104,11 +5104,11 @@ A peer-to-peer network for sharing 0x orders\
 261 stars, 115 forks, 23 watches\
 [0xproject](categories/0xproject.md) category, created 2019-03-28, last commit 2023-11-10, main language Go\ <sub><sup>0x, dapp, ethereum, golang, libp2p, webassembly, webrtc</sup></sub>
 
-### [substrate-connect](https://github.com/paritytech/substrate-connect) ⭐ 260 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-12 by [paritytech](https://github.com/paritytech)
+### [substrate-connect](https://github.com/paritytech/substrate-connect) ⭐ 259 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-13 by [paritytech](https://github.com/paritytech)
 
 Run Wasm Light Clients of any Substrate based chain directly in your browser.\
 <https://paritytech.github.io/substrate-connect/>\
-<https://github.com/paritytech/substrate-connect> ⭐ 260 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/paritytech/substrate-connect> ⭐ 259 | 🐛 40 | 🌐 TypeScript | 📅 2026-08-13\
 0.95 stars per week over 273 weeks\
 259 stars, 82 forks, 10 watches\
 [paritytech](categories/paritytech.md) category, created 2020-07-14, last commit 2025-09-03, main language TypeScript
@@ -5371,10 +5371,10 @@ Web3Signer is an open-source signing service capable of signing for multiple pla
 239 stars, 88 forks, 22 watches\
 [consensys](categories/consensys.md) category, created 2020-02-18, last commit 2025-09-25, main language Java
 
-### [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) ⭐ 283 | 🐛 92 | 🌐 Rust | 📅 2026-08-12 by [starkware-libs](https://github.com/starkware-libs)
+### [stwo-cairo](https://github.com/starkware-libs/stwo-cairo) ⭐ 283 | 🐛 91 | 🌐 Rust | 📅 2026-08-13 by [starkware-libs](https://github.com/starkware-libs)
 
 Prove Cairo programs with the blazing-fast S-two prover, powered by the cryptographic breakthrough of Circle STARKs.\
-<https://github.com/starkware-libs/stwo-cairo> ⭐ 283 | 🐛 92 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/starkware-libs/stwo-cairo> ⭐ 283 | 🐛 91 | 🌐 Rust | 📅 2026-08-13\
 3.12 stars per week over 76 weeks\
 239 stars, 47 forks, 3 watches\
 [starkware-libs](categories/starkware-libs.md) category, created 2024-04-24, last commit 2025-10-10, main language Rust\ <sub><sup>cairo, circle-stark, rust, stark, zero-knowledge, zkvm</sup></sub>
@@ -5461,10 +5461,10 @@ A framework for autonomous economic agent (AEA) development\
 232 stars, 79 forks, 30 watches\
 [fetchai](categories/fetchai.md) category, created 2019-08-21, last commit 2023-02-04, main language Python\ <sub><sup>aea, agent, agent-framework, autonomous, autonomous-agents, autonomous-economic-agents, cryptocurrencies, cryptocurrency, decentralized, decentralized-network, fetch-ai, multi-agent, multi-agent-systems</sup></sub>
 
-### [trident](https://github.com/sushiswap/trident) ⭐ 234 | 🐛 21 | 🌐 TypeScript | 📅 2023-02-07 by [sushiswap](https://github.com/sushiswap)
+### [trident](https://github.com/sushiswap/trident) ⭐ 233 | 🐛 21 | 🌐 TypeScript | 📅 2023-02-07 by [sushiswap](https://github.com/sushiswap)
 
 Rapid AMM Development Framework\
-<https://github.com/sushiswap/trident> ⭐ 234 | 🐛 21 | 🌐 TypeScript | 📅 2023-02-07\
+<https://github.com/sushiswap/trident> ⭐ 233 | 🐛 21 | 🌐 TypeScript | 📅 2023-02-07\
 1.01 stars per week over 229 weeks\
 232 stars, 130 forks, 22 watches\
 [sushiswap](categories/sushiswap.md) category, created 2021-05-20, last commit 2023-02-07, main language TypeScript
@@ -5581,11 +5581,11 @@ Polygon Technical Docs\
 226 stars, 457 forks, 19 watches\
 [0xpolygon](categories/0xpolygon.md) category, created 2023-11-13, last commit 2025-10-10, main language Python\ <sub><sup>technical-docs</sup></sub>
 
-### [scaffolding](https://github.com/holochain/scaffolding) ⭐ 235 | 🐛 39 | 🌐 Rust | 📅 2026-08-12 by [holochain](https://github.com/holochain)
+### [scaffolding](https://github.com/holochain/scaffolding) ⭐ 235 | 🐛 35 | 🌐 Rust | 📅 2026-08-13 by [holochain](https://github.com/holochain)
 
 Scaffolding tool to quickly generate and modify holochain applications\
 <https://docs.rs/holochain_scaffolding_cli>\
-<https://github.com/holochain/scaffolding> ⭐ 235 | 🐛 39 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/holochain/scaffolding> ⭐ 235 | 🐛 35 | 🌐 Rust | 📅 2026-08-13\
 1.05 stars per week over 215 weeks\
 226 stars, 21 forks, 9 watches\
 [holochain](categories/holochain.md) category, created 2021-08-23, last commit 2025-10-10, main language Rust\ <sub><sup>codegen, holochain, rad, scaffolding</sup></sub>
@@ -5614,10 +5614,10 @@ Augur Desktop Electron Application\
 223 stars, 26 forks, 33 watches\
 [augurproject](categories/augurproject.md) category, created 2018-05-04, last commit 2019-11-14, main language JavaScript
 
-### [derohe](https://github.com/deroproject/derohe) ⭐ 223 | 🐛 68 | 🌐 Go | 📅 2026-01-29 by [deroproject](https://github.com/deroproject)
+### [derohe](https://github.com/deroproject/derohe) ⭐ 222 | 🐛 68 | 🌐 Go | 📅 2026-01-29 by [deroproject](https://github.com/deroproject)
 
 DERO Homomorphic Encryption Blockchain Protocol\
-<https://github.com/deroproject/derohe> ⭐ 223 | 🐛 68 | 🌐 Go | 📅 2026-01-29\
+<https://github.com/deroproject/derohe> ⭐ 222 | 🐛 68 | 🌐 Go | 📅 2026-01-29\
 0.89 stars per week over 251 weeks\
 223 stars, 89 forks, 37 watches\
 [deroproject](categories/deroproject.md) category, created 2020-12-19, last commit 2024-02-29, main language Go
@@ -5683,9 +5683,9 @@ Rust canister development kit for the Internet Computer.\
 220 stars, 104 forks, 44 watches\
 [dfinity](categories/dfinity.md) category, created 2020-05-15, last commit 2025-10-09, main language Rust\ <sub><sup>blockchain, canister, cdk, icp, internet-computer, rust, sdk, smart-contract</sup></sub>
 
-### [pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery) ⭐ 235 | 🐛 31 | 🌐 Solidity | 📅 2024-02-27 by [pancakeswap](https://github.com/pancakeswap)
+### [pancake-swap-periphery](https://github.com/pancakeswap/pancake-swap-periphery) ⭐ 234 | 🐛 31 | 🌐 Solidity | 📅 2024-02-27 by [pancakeswap](https://github.com/pancakeswap)
 
-<https://github.com/pancakeswap/pancake-swap-periphery> ⭐ 235 | 🐛 31 | 🌐 Solidity | 📅 2024-02-27\
+<https://github.com/pancakeswap/pancake-swap-periphery> ⭐ 234 | 🐛 31 | 🌐 Solidity | 📅 2024-02-27\
 0.83 stars per week over 264 weeks\
 219 stars, 447 forks, 7 watches\
 [pancakeswap](categories/pancakeswap.md) category, created 2020-09-14, last commit 2020-09-23, main language Solidity
@@ -5716,11 +5716,11 @@ TypeScript/AssemblyScript library for writing mappings for The Graph\
 217 stars, 74 forks, 41 watches\
 [graphprotocol](categories/graphprotocol.md) category, created 2018-10-01, last commit 2023-02-23, main language None
 
-### [arbitrum-docs](https://github.com/OffchainLabs/arbitrum-docs) ⭐ 250 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
+### [arbitrum-docs](https://github.com/OffchainLabs/arbitrum-docs) ⭐ 250 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
 
 Arbitrum Docs! Content + Webapp\
 <https://developer.arbitrum.io/>\
-<https://github.com/OffchainLabs/arbitrum-docs> ⭐ 250 | 🐛 30 | 🌐 JavaScript | 📅 2026-08-13\
+<https://github.com/OffchainLabs/arbitrum-docs> ⭐ 250 | 🐛 29 | 🌐 JavaScript | 📅 2026-08-13\
 1.29 stars per week over 168 weeks\
 217 stars, 413 forks, 21 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2022-07-19, last commit 2025-10-11, main language JavaScript
@@ -5840,11 +5840,11 @@ The Flow CLI is a command-line interface that provides useful utilities for buil
 211 stars, 80 forks, 39 watches\
 [onflow](categories/onflow.md) category, created 2020-10-30, last commit 2025-10-10, main language Go\ <sub><sup>blockchain, cli, command-line, flow</sup></sub>
 
-### [rpc-endpoint](https://github.com/flashbots/rpc-endpoint) ⭐ 213 | 🐛 18 | 🌐 Go | 📅 2026-05-05 by [flashbots](https://github.com/flashbots)
+### [rpc-endpoint](https://github.com/flashbots/rpc-endpoint) ⭐ 212 | 🐛 18 | 🌐 Go | 📅 2026-05-05 by [flashbots](https://github.com/flashbots)
 
 Flashbots RPC endpoint, to be used with wallets (eg. MetaMask)\
 <https://rpc.flashbots.net>\
-<https://github.com/flashbots/rpc-endpoint> ⭐ 213 | 🐛 18 | 🌐 Go | 📅 2026-05-05\
+<https://github.com/flashbots/rpc-endpoint> ⭐ 212 | 🐛 18 | 🌐 Go | 📅 2026-05-05\
 1.0 stars per week over 209 weeks\
 210 stars, 61 forks, 14 watches\
 [flashbots](categories/flashbots.md) category, created 2021-10-05, last commit 2025-09-12, main language Go
@@ -5907,10 +5907,10 @@ A list of common Solidity optimization tips and myths.\
 207 stars, 15 forks, 15 watches\
 [rari-capital](categories/rari-capital.md) category, created 2021-10-13, last commit 2021-12-13, main language None
 
-### [scrypto](https://github.com/input-output-hk/scrypto) ⭐ 203 | 🐛 5 | 🌐 Scala | 📅 2025-03-18 by [input-output-hk](https://github.com/input-output-hk)
+### [scrypto](https://github.com/input-output-hk/scrypto) ⭐ 203 | 🐛 4 | 🌐 Scala | 📅 2025-03-18 by [input-output-hk](https://github.com/input-output-hk)
 
 Cryptographic primitives for Scala\
-<https://github.com/input-output-hk/scrypto> ⭐ 203 | 🐛 5 | 🌐 Scala | 📅 2025-03-18\
+<https://github.com/input-output-hk/scrypto> ⭐ 203 | 🐛 4 | 🌐 Scala | 📅 2025-03-18\
 0.4 stars per week over 511 weeks\
 205 stars, 48 forks, 21 watches\
 [input-output-hk](categories/input-output-hk.md) category, created 2015-12-22, last commit 2025-03-17, main language Scala
@@ -5979,11 +5979,11 @@ Public smart contracts of Axie Infinity.\
 202 stars, 84 forks, 5 watches\
 [axieinfinity](categories/axieinfinity.md) category, created 2018-02-18, last commit 2018-04-02, main language None\ <sub><sup>ethereum, smart-contract, solidity</sup></sub>
 
-### [dash-wallet](https://github.com/dashpay/dash-wallet) ⭐ 224 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-12 by [dashpay](https://github.com/dashpay)
+### [dash-wallet](https://github.com/dashpay/dash-wallet) ⭐ 224 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-13 by [dashpay](https://github.com/dashpay)
 
 Dash Wallet for Android\
 <https://dash.org>\
-<https://github.com/dashpay/dash-wallet> ⭐ 224 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-12\
+<https://github.com/dashpay/dash-wallet> ⭐ 224 | 🐛 26 | 🌐 Kotlin | 📅 2026-08-13\
 0.34 stars per week over 593 weeks\
 202 stars, 170 forks, 25 watches\
 [dashpay](categories/dashpay.md) category, created 2014-06-01, last commit 2025-10-06, main language Kotlin\ <sub><sup>android, dash, wallet</sup></sub>
@@ -6139,10 +6139,10 @@ NEO Virtual Machine\
 195 stars, 142 forks, 45 watches\
 [neo-project](categories/neo-project.md) category, created 2016-09-22, last commit 2023-11-22, main language C#\ <sub><sup>neo, virtual-machine</sup></sub>
 
-### [compound-js](https://github.com/compound-finance/compound-js) ⭐ 193 | 🐛 6 | 🌐 TypeScript | 📅 2023-08-16 by [compound-finance](https://github.com/compound-finance)
+### [compound-js](https://github.com/compound-finance/compound-js) ⭐ 192 | 🐛 6 | 🌐 TypeScript | 📅 2023-08-16 by [compound-finance](https://github.com/compound-finance)
 
 A JavaScript SDK for Ethereum and the Compound Protocol.\
-<https://github.com/compound-finance/compound-js> ⭐ 193 | 🐛 6 | 🌐 TypeScript | 📅 2023-08-16\
+<https://github.com/compound-finance/compound-js> ⭐ 192 | 🐛 6 | 🌐 TypeScript | 📅 2023-08-16\
 0.72 stars per week over 270 weeks\
 194 stars, 69 forks, 16 watches\
 [compound-finance](categories/compound-finance.md) category, created 2020-08-06, last commit 2023-08-16, main language TypeScript
@@ -6163,11 +6163,11 @@ Python wrapper around the solc Solidity compiler.\
 194 stars, 243 forks, 17 watches\
 [ethereum](categories/ethereum.md) category, created 2016-07-19, last commit 2018-10-04, main language Python\ <sub><sup>blockchain, ethereum, py-solc, python, python-wrapper, python3, solc, solidity, solidity-compiler</sup></sub>
 
-### [tronbox](https://github.com/tronprotocol/tronbox) ⭐ 219 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12 by [tronprotocol](https://github.com/tronprotocol)
+### [tronbox](https://github.com/tronprotocol/tronbox) ⭐ 219 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13 by [tronprotocol](https://github.com/tronprotocol)
 
 A development environment for compiling, testing, and deploying smart contracts on TRON, ETH, and other EVM-compatible blockchains.\
 <https://tronbox.io>\
-<https://github.com/tronprotocol/tronbox> ⭐ 219 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-12\
+<https://github.com/tronprotocol/tronbox> ⭐ 219 | 🐛 3 | 🌐 JavaScript | 📅 2026-08-13\
 0.57 stars per week over 335 weeks\
 193 stars, 104 forks, 12 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2019-05-07, last commit 2025-10-11, main language JavaScript
@@ -6205,10 +6205,10 @@ Cross-platform GUI for Decred.\
 193 stars, 72 forks, 11 watches\
 [solana-labs](categories/solana-labs.md) category, created 2023-04-25, last commit 2023-09-22, main language TypeScript
 
-### [superchain-registry](https://github.com/ethereum-optimism/superchain-registry) ⭐ 222 | 🐛 52 | 🌐 Go | 📅 2026-08-05 by [ethereum-optimism](https://github.com/ethereum-optimism)
+### [superchain-registry](https://github.com/ethereum-optimism/superchain-registry) ⭐ 222 | 🐛 52 | 🌐 Go | 📅 2026-08-13 by [ethereum-optimism](https://github.com/ethereum-optimism)
 
 An index of chains which serves as the source of truth for who’s in the Superchain Ecosystem\
-<https://github.com/ethereum-optimism/superchain-registry> ⭐ 222 | 🐛 52 | 🌐 Go | 📅 2026-08-05\
+<https://github.com/ethereum-optimism/superchain-registry> ⭐ 222 | 🐛 52 | 🌐 Go | 📅 2026-08-13\
 1.67 stars per week over 115 weeks\
 193 stars, 193 forks, 33 watches\
 [ethereum-optimism](categories/ethereum-optimism.md) category, created 2023-07-25, last commit 2025-10-09, main language Go
@@ -6231,7 +6231,7 @@ An index of chains which serves as the source of truth for who’s in the Superc
 ### [ethereumjs-client](https://github.com/ethereumjs/ethereumjs-client) ⚠️ Archived by [ethereumjs](https://github.com/ethereumjs)
 
 Project is in active development and has been moved to the EthereumJS VM monorepo.\
-<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/client> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/client> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/ethereumjs/ethereumjs-client> ⚠️ Archived\
 0.49 stars per week over 391 weeks\
 192 stars, 32 forks, 52 watches\
@@ -6308,11 +6308,11 @@ Interchain Security is an open sourced IBC application which allows cosmos block
 190 stars, 162 forks, 24 watches\
 [cosmos](categories/cosmos.md) category, created 2021-10-06, last commit 2025-04-08, main language Go\ <sub><sup>blockchain, cosmos-hub, cosmos-sdk, golang, ibc, interchain-security, proof-of-stake, shared-security</sup></sub>
 
-### [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 190 | 🐛 17 | 🌐 Go | 📅 2026-08-12 by [algorand](https://github.com/algorand)
+### [go-algorand-sdk](https://github.com/algorand/go-algorand-sdk) ⭐ 190 | 🐛 17 | 🌐 Go | 📅 2026-08-13 by [algorand](https://github.com/algorand)
 
 Algorand Golang SDK\
 <https://pkg.go.dev/github.com/algorand/go-algorand-sdk/v2>\
-<https://github.com/algorand/go-algorand-sdk> ⭐ 190 | 🐛 17 | 🌐 Go | 📅 2026-08-12\
+<https://github.com/algorand/go-algorand-sdk> ⭐ 190 | 🐛 17 | 🌐 Go | 📅 2026-08-13\
 0.54 stars per week over 348 weeks\
 190 stars, 100 forks, 20 watches\
 [algorand](categories/algorand.md) category, created 2019-02-04, last commit 2025-10-02, main language Go
@@ -6324,9 +6324,9 @@ Algorand Golang SDK\
 189 stars, 232 forks, 13 watches\
 [uniswap](categories/uniswap.md) category, created 2021-06-15, last commit 2025-09-30, main language TypeScript
 
-### [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) ⭐ 188 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-13 by [project-serum](https://github.com/project-serum)
+### [sol-wallet-adapter](https://github.com/project-serum/sol-wallet-adapter) ⭐ 187 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-13 by [project-serum](https://github.com/project-serum)
 
-<https://github.com/project-serum/sol-wallet-adapter> ⭐ 188 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-13\
+<https://github.com/project-serum/sol-wallet-adapter> ⭐ 187 | 🐛 21 | 🌐 TypeScript | 📅 2023-01-13\
 0.7 stars per week over 270 weeks\
 189 stars, 95 forks, 3 watches\
 [project-serum](categories/project-serum.md) category, created 2020-08-05, last commit 2021-10-15, main language TypeScript
@@ -6366,19 +6366,19 @@ Ethereum Classic Website\
 188 stars, 31 forks, 23 watches\
 [stellar](categories/stellar.md) category, created 2019-07-18, last commit 2025-05-06, main language None\ <sub><sup>awesome-list, blockchain, fintech, network, stellar</sup></sub>
 
-### [explorer](https://github.com/ripple/explorer) ⭐ 234 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-12 by [ripple](https://github.com/ripple)
+### [explorer](https://github.com/ripple/explorer) ⭐ 235 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-12 by [ripple](https://github.com/ripple)
 
 Open Source XRP Ledger Explorer\
 <https://livenet.xrpl.org/>\
-<https://github.com/ripple/explorer> ⭐ 234 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ripple/explorer> ⭐ 235 | 🐛 88 | 🌐 TypeScript | 📅 2026-08-12\
 0.83 stars per week over 224 weeks\
 187 stars, 120 forks, 65 watches\
 [ripple](categories/ripple.md) category, created 2021-06-25, last commit 2025-10-09, main language TypeScript\ <sub><sup>blockchain, ripple, xrp, xrp-ledger, xrpl</sup></sub>
 
-### [alchemix-protocol](https://github.com/alchemix-finance/alchemix-protocol) ⭐ 189 | 🐛 3 | 🌐 TypeScript | 📅 2022-06-21 by [alchemix-finance](https://github.com/alchemix-finance)
+### [alchemix-protocol](https://github.com/alchemix-finance/alchemix-protocol) ⭐ 188 | 🐛 3 | 🌐 TypeScript | 📅 2022-06-21 by [alchemix-finance](https://github.com/alchemix-finance)
 
 contracts for the Alchemix protocol\
-<https://github.com/alchemix-finance/alchemix-protocol> ⭐ 189 | 🐛 3 | 🌐 TypeScript | 📅 2022-06-21\
+<https://github.com/alchemix-finance/alchemix-protocol> ⭐ 188 | 🐛 3 | 🌐 TypeScript | 📅 2022-06-21\
 0.78 stars per week over 241 weeks\
 187 stars, 74 forks, 16 watches\
 [alchemix-finance](categories/alchemix-finance.md) category, created 2021-02-26, last commit 2022-06-21, main language TypeScript
@@ -6599,10 +6599,10 @@ Ethereum Smart Contracts and TypeScript library used for the dYdX Perpetual Cont
 178 stars, 71 forks, 4 watches\
 [ethereum](categories/ethereum.md) category, created 2023-08-19, last commit 2025-09-29, main language None
 
-### [token-bridge-contracts](https://github.com/OffchainLabs/token-bridge-contracts) ⭐ 194 | 🐛 24 | 🌐 Solidity | 📅 2026-07-24 by [OffchainLabs](https://github.com/OffchainLabs)
+### [token-bridge-contracts](https://github.com/OffchainLabs/token-bridge-contracts) ⭐ 195 | 🐛 24 | 🌐 Solidity | 📅 2026-07-24 by [OffchainLabs](https://github.com/OffchainLabs)
 
 Arbitrum token bridge and peripheral contracts\
-<https://github.com/OffchainLabs/token-bridge-contracts> ⭐ 194 | 🐛 24 | 🌐 Solidity | 📅 2026-07-24\
+<https://github.com/OffchainLabs/token-bridge-contracts> ⭐ 195 | 🐛 24 | 🌐 Solidity | 📅 2026-07-24\
 1.07 stars per week over 165 weeks\
 177 stars, 156 forks, 22 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2022-08-11, last commit 2025-09-18, main language Solidity
@@ -6788,10 +6788,10 @@ zk-SNARK parameter multi-party computation protocol\
 172 stars, 42 forks, 24 watches\
 [zcash](categories/zcash.md) category, created 2016-10-24, last commit 2019-10-30, main language Rust
 
-### [rpc-errors](https://github.com/MetaMask/rpc-errors) ⭐ 173 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-17 by [MetaMask](https://github.com/MetaMask)
+### [rpc-errors](https://github.com/MetaMask/rpc-errors) ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-17 by [MetaMask](https://github.com/MetaMask)
 
 Ethereum RPC Errors\
-<https://github.com/MetaMask/rpc-errors> ⭐ 173 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-17\
+<https://github.com/MetaMask/rpc-errors> ⭐ 172 | 🐛 4 | 🌐 TypeScript | 📅 2025-11-17\
 0.53 stars per week over 322 weeks\
 172 stars, 36 forks, 69 watches\
 [metamask](categories/metamask.md) category, created 2019-08-06, last commit 2025-07-02, main language TypeScript\ <sub><sup>errors, ethereum, json-rpc, utility</sup></sub>
@@ -6885,10 +6885,10 @@ Blockifier is a Rust implementation for the transaction-executing component in t
 170 stars, 122 forks, 28 watches\
 [tronprotocol](categories/tronprotocol.md) category, created 2018-02-03, last commit 2025-06-22, main language Shell
 
-### [fabric-private-chaincode](https://github.com/hyperledger/fabric-private-chaincode) ⭐ 176 | 🐛 102 | 🌐 Go | 📅 2026-06-15 by [hyperledger](https://github.com/hyperledger)
+### [fabric-private-chaincode](https://github.com/hyperledger/fabric-private-chaincode) ⭐ 175 | 🐛 102 | 🌐 Go | 📅 2026-06-15 by [hyperledger](https://github.com/hyperledger)
 
 FPC enables Confidential Chaincode Execution for Hyperledger Fabric using Intel SGX.\
-<https://github.com/hyperledger/fabric-private-chaincode> ⭐ 176 | 🐛 102 | 🌐 Go | 📅 2026-06-15\
+<https://github.com/hyperledger/fabric-private-chaincode> ⭐ 175 | 🐛 102 | 🌐 Go | 📅 2026-06-15\
 0.45 stars per week over 371 weeks\
 169 stars, 98 forks, 14 watches\
 [hyperledger](categories/hyperledger.md) category, created 2018-08-27, last commit 2025-08-05, main language Go\ <sub><sup>blockchain, confidentiality, fabric, hyperledger, integrity, intel-sgx, privacy, smart-contract</sup></sub>
@@ -6926,10 +6926,10 @@ A crafty implementation of structured logging for Nim.\
 169 stars, 20 forks, 55 watches\
 [status-im](categories/status-im.md) category, created 2018-04-24, last commit 2025-09-29, main language Nim
 
-### [celo-composer](https://github.com/celo-org/celo-composer) ⭐ 188 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-13 by [celo-org](https://github.com/celo-org)
+### [celo-composer](https://github.com/celo-org/celo-composer) ⭐ 188 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-13 by [celo-org](https://github.com/celo-org)
 
 celo-composer is a starter project with all code needed to build, deploy, and upgrade a dapps on Celo.\
-<https://github.com/celo-org/celo-composer> ⭐ 188 | 🐛 34 | 🌐 TypeScript | 📅 2026-08-13\
+<https://github.com/celo-org/celo-composer> ⭐ 188 | 🐛 14 | 🌐 TypeScript | 📅 2026-08-13\
 0.88 stars per week over 191 weeks\
 169 stars, 161 forks, 8 watches\
 [celo-org](categories/celo-org.md) category, created 2022-02-08, last commit 2025-09-11, main language TypeScript\ <sub><sup>angular, blockchain, dapp, flutter, react, react-native, web3</sup></sub>
@@ -7077,10 +7077,10 @@ Fully distributed twitter built on holochain\
 164 stars, 22 forks, 42 watches\
 [holochain](categories/holochain.md) category, created 2017-06-18, last commit 2018-09-30, main language JavaScript\ <sub><sup>blockchain, distributed, holochain, p2p, twitter</sup></sub>
 
-### [rs-soroban-sdk](https://github.com/stellar/rs-soroban-sdk) ⭐ 197 | 🐛 92 | 🌐 Rust | 📅 2026-08-13 by [stellar](https://github.com/stellar)
+### [rs-soroban-sdk](https://github.com/stellar/rs-soroban-sdk) ⭐ 197 | 🐛 95 | 🌐 Rust | 📅 2026-08-13 by [stellar](https://github.com/stellar)
 
 Rust SDK for Soroban contracts.\
-<https://github.com/stellar/rs-soroban-sdk> ⭐ 197 | 🐛 92 | 🌐 Rust | 📅 2026-08-13\
+<https://github.com/stellar/rs-soroban-sdk> ⭐ 197 | 🐛 95 | 🌐 Rust | 📅 2026-08-13\
 0.89 stars per week over 183 weeks\
 164 stars, 85 forks, 28 watches\
 [stellar](categories/stellar.md) category, created 2022-04-08, last commit 2025-10-07, main language Rust
@@ -7202,10 +7202,10 @@ Polkadot Smart Contract Proposals\
 161 stars, 68 forks, 30 watches\
 [w3f](categories/w3f.md) category, created 2019-09-25, last commit 2023-09-20, main language None
 
-### [smartnode](https://github.com/rocket-pool/smartnode) ⭐ 179 | 🐛 75 | 🌐 Go | 📅 2026-08-13 by [rocket-pool](https://github.com/rocket-pool)
+### [smartnode](https://github.com/rocket-pool/smartnode) ⭐ 178 | 🐛 72 | 🌐 Go | 📅 2026-08-13 by [rocket-pool](https://github.com/rocket-pool)
 
 The CLI package for Rocket Pool smart nodes.\
-<https://github.com/rocket-pool/smartnode> ⭐ 179 | 🐛 75 | 🌐 Go | 📅 2026-08-13\
+<https://github.com/rocket-pool/smartnode> ⭐ 178 | 🐛 72 | 🌐 Go | 📅 2026-08-13\
 0.43 stars per week over 372 weeks\
 161 stars, 143 forks, 8 watches\
 [rocket-pool](categories/rocket-pool.md) category, created 2018-08-23, last commit 2025-10-09, main language Go
@@ -7316,11 +7316,11 @@ Homebrew tap for ethcore\
 159 stars, 45 forks, 70 watches\
 [paritytech](categories/paritytech.md) category, created 2016-02-01, last commit 2020-02-06, main language Ruby
 
-### [libBLS](https://github.com/skalenetwork/libBLS) ⭐ 157 | 🐛 10 | 🌐 C++ | 📅 2026-08-12 by [skalenetwork](https://github.com/skalenetwork)
+### [libBLS](https://github.com/skalenetwork/libBLS) ⭐ 157 | 🐛 8 | 🌐 C++ | 📅 2026-08-13 by [skalenetwork](https://github.com/skalenetwork)
 
 If you like this project, please ⭐⭐⭐ it on GitHub!! Solidity-compatible BLS signatures, threshold encryption, distributed key generation library in modern C++. Actively maintained and used by SKALE for consensus, distributed random number gen, inter-chain communication and protection of transactions. BLS threshold signatures can be verified in\
 <https://skale.space>\
-<https://github.com/skalenetwork/libBLS> ⭐ 157 | 🐛 10 | 🌐 C++ | 📅 2026-08-12\
+<https://github.com/skalenetwork/libBLS> ⭐ 157 | 🐛 8 | 🌐 C++ | 📅 2026-08-13\
 0.46 stars per week over 345 weeks\
 159 stars, 45 forks, 8 watches\
 [skalenetwork](categories/skalenetwork.md) category, created 2019-02-28, last commit 2025-09-23, main language C++\ <sub><sup>bls, bls-signature, bls-signatures, bls-threshold-signatures, common-coin, cryptography, distributed-key-generation, dkg, elliptic-curves, joint-feldman, skale, skale-network, solidity, threshold-cryptography, threshold-encryption, threshold-signatures</sup></sub>
@@ -7356,10 +7356,10 @@ eosio-web-ide\
 157 stars, 1,205 forks, 32 watches\
 [eosio](categories/eosio.md) category, created 2019-09-02, last commit 2020-06-19, main language TypeScript
 
-### [solx](https://github.com/matter-labs/solx) ⭐ 182 | 🐛 18 | 🌐 Solidity | 📅 2026-08-12 by [matter-labs](https://github.com/matter-labs)
+### [solx](https://github.com/matter-labs/solx) ⭐ 182 | 🐛 21 | 🌐 Solidity | 📅 2026-08-13 by [matter-labs](https://github.com/matter-labs)
 
 LLVM-based Solidity compiler.\
-<https://github.com/matter-labs/solx> ⭐ 182 | 🐛 18 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/matter-labs/solx> ⭐ 182 | 🐛 21 | 🌐 Solidity | 📅 2026-08-13\
 4.28 stars per week over 36 weeks\
 157 stars, 11 forks, 7 watches\
 [matter-labs](categories/matter-labs.md) category, created 2025-01-28, last commit 2025-10-05, main language Rust\ <sub><sup>team-compiler</sup></sub>
@@ -7505,11 +7505,11 @@ Foundry-based repo for V2 tools, expansions, new vaults, and surrounding infrast
 151 stars, 107 forks, 14 watches\
 [smartcontractkit](categories/smartcontractkit.md) category, created 2022-12-15, last commit 2025-08-29, main language JavaScript
 
-### [oisy-wallet](https://github.com/dfinity/oisy-wallet) ⭐ 175 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-12 by [dfinity](https://github.com/dfinity)
+### [oisy-wallet](https://github.com/dfinity/oisy-wallet) ⭐ 175 | 🐛 149 | 🌐 TypeScript | 📅 2026-08-13 by [dfinity](https://github.com/dfinity)
 
 A browser-based, multi-chain wallet hosted on the Internet Computer\
 <https://oisy.com>\
-<https://github.com/dfinity/oisy-wallet> ⭐ 175 | 🐛 174 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/dfinity/oisy-wallet> ⭐ 175 | 🐛 149 | 🌐 TypeScript | 📅 2026-08-13\
 1.33 stars per week over 113 weeks\
 151 stars, 36 forks, 10 watches\
 [dfinity](categories/dfinity.md) category, created 2023-08-07, last commit 2025-10-11, main language TypeScript\ <sub><sup>bitcoin, blockchain, erc20, ethereum, icp, internet-computer, solana, wallet, walletconnect</sup></sub>
@@ -7766,11 +7766,11 @@ Guide for setting up the Guardian Node for the mainnet\
 146 stars, 33 forks, 32 watches\
 [thetatoken](categories/thetatoken.md) category, created 2020-05-11, last commit 2021-03-21, main language None\ <sub><sup>blockchain-technology, distributed-systems</sup></sub>
 
-### [specs](https://github.com/ethereum-optimism/specs) ⭐ 176 | 🐛 94 | 🌐 Python | 📅 2026-08-05 by [ethereum-optimism](https://github.com/ethereum-optimism)
+### [specs](https://github.com/ethereum-optimism/specs) ⭐ 176 | 🐛 95 | 🌐 Python | 📅 2026-08-13 by [ethereum-optimism](https://github.com/ethereum-optimism)
 
 OP Stack Specifications\
 <https://specs.optimism.io>\
-<https://github.com/ethereum-optimism/specs> ⭐ 176 | 🐛 94 | 🌐 Python | 📅 2026-08-05\
+<https://github.com/ethereum-optimism/specs> ⭐ 176 | 🐛 95 | 🌐 Python | 📅 2026-08-13\
 1.59 stars per week over 91 weeks\
 146 stars, 175 forks, 34 watches\
 [ethereum-optimism](categories/ethereum-optimism.md) category, created 2024-01-08, last commit 2025-10-06, main language Python
@@ -7834,10 +7834,10 @@ WalletConnect Website\
 144 stars, 146 forks, 38 watches\
 [walletconnect](categories/walletconnect.md) category, created 2018-03-26, last commit 2021-10-04, main language TypeScript\ <sub><sup>gatsbyjs, landing, page, react, walletconnect, webpage, website</sup></sub>
 
-### [injective-ts](https://github.com/InjectiveLabs/injective-ts) ⭐ 155 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12 by [InjectiveLabs](https://github.com/InjectiveLabs)
+### [injective-ts](https://github.com/InjectiveLabs/injective-ts) ⭐ 155 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-13 by [InjectiveLabs](https://github.com/InjectiveLabs)
 
 Collection of TypeScript packages that consume and interact with the Injective Chain\
-<https://github.com/InjectiveLabs/injective-ts> ⭐ 155 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/InjectiveLabs/injective-ts> ⭐ 155 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-13\
 0.46 stars per week over 312 weeks\
 144 stars, 205 forks, 20 watches\
 [injectivelabs](categories/injectivelabs.md) category, created 2019-10-19, last commit 2025-10-10, main language TypeScript\ <sub><sup>injective, injective-chain, injective-protocol, monorepo, typescript</sup></sub>
@@ -7851,11 +7851,11 @@ Collection of TypeScript packages that consume and interact with the Injective C
 144 stars, 53 forks, 20 watches\
 [aragon](categories/aragon.md) category, created 2020-05-29, last commit 2024-08-09, main language TypeScript\ <sub><sup>aragon, dao, dapp, ethereum, javascript, nodejs, web3</sup></sub>
 
-### [origin-dollar](https://github.com/OriginProtocol/origin-dollar) ⭐ 150 | 🐛 220 | 🌐 Solidity | 📅 2026-08-12 by [OriginProtocol](https://github.com/OriginProtocol)
+### [origin-dollar](https://github.com/OriginProtocol/origin-dollar) ⭐ 149 | 🐛 219 | 🌐 Solidity | 📅 2026-08-13 by [OriginProtocol](https://github.com/OriginProtocol)
 
 OUSD and OETH are stablecoins that passively accrue yield while you are holding it\
 <https://originprotocol.com>\
-<https://github.com/OriginProtocol/origin-dollar> ⭐ 150 | 🐛 220 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/OriginProtocol/origin-dollar> ⭐ 149 | 🐛 219 | 🌐 Solidity | 📅 2026-08-13\
 0.53 stars per week over 270 weeks\
 144 stars, 91 forks, 38 watches\
 [originprotocol](categories/originprotocol.md) category, created 2020-08-03, last commit 2025-10-06, main language JavaScript\ <sub><sup>defi, ethereum, web3</sup></sub>
@@ -7867,17 +7867,17 @@ OUSD and OETH are stablecoins that passively accrue yield while you are holding 
 143 stars, 22 forks, 1 watches\
 [crytic](categories/crytic.md) category, created 2022-02-10, last commit 2025-03-21, main language Shell
 
-### [helium-program-library](https://github.com/helium/helium-program-library) ⭐ 164 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12 by [helium](https://github.com/helium)
+### [helium-program-library](https://github.com/helium/helium-program-library) ⭐ 164 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13 by [helium](https://github.com/helium)
 
 Helium programs to run on the Solana blockchain\
-<https://github.com/helium/helium-program-library> ⭐ 164 | 🐛 19 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/helium/helium-program-library> ⭐ 164 | 🐛 18 | 🌐 TypeScript | 📅 2026-08-13\
 0.87 stars per week over 163 weeks\
 143 stars, 58 forks, 19 watches\
 [helium](categories/helium.md) category, created 2022-08-24, last commit 2025-10-10, main language TypeScript
 
 ### [swap-router-contracts](https://github.com/Uniswap/swap-router-contracts) ⚠️ Archived by [Uniswap](https://github.com/Uniswap)
 
-Smart contracts for swapping on Uniswap V2 and V3. Superseded by <https://github.com/Uniswap/universal-router> ⭐ 509 | 🐛 59 | 🌐 TypeScript | 📅 2026-08-12\
+Smart contracts for swapping on Uniswap V2 and V3. Superseded by <https://github.com/Uniswap/universal-router> ⭐ 509 | 🐛 58 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/Uniswap/swap-router-contracts> ⚠️ Archived\
 0.67 stars per week over 212 weeks\
 143 stars, 141 forks, 10 watches\
@@ -7912,7 +7912,7 @@ The Fungible Token standard on the Flow Blockchain\
 ### [ethereumjs-devp2p](https://github.com/ethereumjs/ethereumjs-devp2p) ⚠️ Archived by [ethereumjs](https://github.com/ethereumjs)
 
 Project is in active development and has been moved to the EthereumJS VM monorepo.\
-<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/devp2p> ⭐ 2,760 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-12\
+<https://github.com/ethereumjs/ethereumjs-vm/tree/master/packages/devp2p> ⭐ 2,759 | 🐛 137 | 🌐 TypeScript | 📅 2026-08-13\
 <https://github.com/ethereumjs/ethereumjs-devp2p> ⚠️ Archived\
 0.3 stars per week over 470 weeks\
 142 stars, 53 forks, 21 watches\
@@ -7968,11 +7968,11 @@ Fork of MetaMask that supports plugins! Read the Wiki!\
 142 stars, 47 forks, 62 watches\
 [metamask](categories/metamask.md) category, created 2019-09-10, last commit 2021-08-13, main language JavaScript
 
-### [mithril](https://github.com/input-output-hk/mithril) ⭐ 153 | 🐛 122 | 🌐 Rust | 📅 2026-08-12 by [input-output-hk](https://github.com/input-output-hk)
+### [mithril](https://github.com/input-output-hk/mithril) ⭐ 153 | 🐛 124 | 🌐 Rust | 📅 2026-08-13 by [input-output-hk](https://github.com/input-output-hk)
 
 Stake-based threshold multi-signatures protocol\
 <https://mithril.network>\
-<https://github.com/input-output-hk/mithril> ⭐ 153 | 🐛 122 | 🌐 Rust | 📅 2026-08-12\
+<https://github.com/input-output-hk/mithril> ⭐ 153 | 🐛 124 | 🌐 Rust | 📅 2026-08-13\
 0.66 stars per week over 213 weeks\
 142 stars, 48 forks, 32 watches\
 [input-output-hk](categories/input-output-hk.md) category, created 2021-09-07, last commit 2025-10-08, main language Rust\ <sub><sup>blockchain, cardano, cardano-node, mithril, multi-signature-aggregation, multi-signatures, multisig, rust, scalability</sup></sub>
@@ -8195,10 +8195,10 @@ The code of Aave protocol subgraphs\
 136 stars, 118 forks, 9 watches\
 [aave](categories/aave.md) category, created 2021-01-22, last commit 2025-09-18, main language TypeScript
 
-### [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus) ⭐ 148 | 🐛 91 | 🌐 Rust | 📅 2026-06-24 by [OpenZeppelin](https://github.com/OpenZeppelin)
+### [rust-contracts-stylus](https://github.com/OpenZeppelin/rust-contracts-stylus) ⭐ 148 | 🐛 92 | 🌐 Rust | 📅 2026-08-13 by [OpenZeppelin](https://github.com/OpenZeppelin)
 
 A library for secure smart contract development written in Rust\
-<https://github.com/OpenZeppelin/rust-contracts-stylus> ⭐ 148 | 🐛 91 | 🌐 Rust | 📅 2026-06-24\
+<https://github.com/OpenZeppelin/rust-contracts-stylus> ⭐ 148 | 🐛 92 | 🌐 Rust | 📅 2026-08-13\
 1.56 stars per week over 87 weeks\
 136 stars, 73 forks, 5 watches\
 [openzeppelin](categories/openzeppelin.md) category, created 2024-02-09, last commit 2025-10-08, main language Rust
@@ -8229,10 +8229,10 @@ Origin Dshop - launch your own decentralized store\
 136 stars, 86 forks, 22 watches\
 [originprotocol](categories/originprotocol.md) category, created 2020-05-01, last commit 2022-02-17, main language JavaScript
 
-### [nitro-contracts](https://github.com/OffchainLabs/nitro-contracts) ⭐ 151 | 🐛 45 | 🌐 Solidity | 📅 2026-08-12 by [OffchainLabs](https://github.com/OffchainLabs)
+### [nitro-contracts](https://github.com/OffchainLabs/nitro-contracts) ⭐ 151 | 🐛 45 | 🌐 Solidity | 📅 2026-08-13 by [OffchainLabs](https://github.com/OffchainLabs)
 
 The core Arbitrum Nitro contracts deployed to the parent chain to host the rollup\
-<https://github.com/OffchainLabs/nitro-contracts> ⭐ 151 | 🐛 45 | 🌐 Solidity | 📅 2026-08-12\
+<https://github.com/OffchainLabs/nitro-contracts> ⭐ 151 | 🐛 45 | 🌐 Solidity | 📅 2026-08-13\
 1.07 stars per week over 127 weeks\
 136 stars, 153 forks, 23 watches\
 [offchainlabs](categories/offchainlabs.md) category, created 2023-05-07, last commit 2025-06-17, main language Solidity
